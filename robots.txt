@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://songerjia.github.io/certify/sitemap.xml
