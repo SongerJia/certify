@@ -17,14 +17,14 @@ export default hopeTheme({
   // Logo 配置
   logo: "/logo.svg",
   logoDark: "/logo.svg",
+  favicon: "/logo.svg",
 
   // 页脚配置
   displayFooter: true,
   footer: `MIT License © 2026 SongerJia | Powered by <a href="https://v2.vuepress.vuejs.org/" target="_blank">VuePress</a> & <a href="https://theme-hope.vuejs.press/" target="_blank">Theme Hope</a> · <span id="busuanzi_value_site_pv">-</span> 次访问`,
 
-  // 注入不蒜子访问统计脚本 + favicon
+  // 注入不蒜子访问统计脚本
   head: [
-    ["link", { rel: "icon", href: "/logo.svg", type: "image/svg+xml" }],
     ["script", { async: true, src: "https://busuanzi.ibruce.info/busuanzi/2.3.0/busuanzi.pure.min.js" }],
   ],
 
@@ -47,24 +47,9 @@ export default hopeTheme({
 
   // ===== 插件配置 =====
   plugins: {
-    // PWA 支持
+    // PWA 支持（favicon 由 favicon 选项统一管理）
     pwa: {
-      manifest: {
-        name: "Certify · 证书知识库",
-        short_name: "Certify",
-        start_url: "/",
-        display: "standalone",
-        background_color: "#ffffff",
-        theme_color: "#3b82f6",
-        icons: [
-          {
-            src: "/logo.svg",
-            sizes: "any",
-            type: "image/svg+xml",
-            purpose: "any",
-          },
-        ],
-      },
+      favicon: false,
       cacheHTML: true,
       cacheImage: true,
       update: "available",
