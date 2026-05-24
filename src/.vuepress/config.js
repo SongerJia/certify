@@ -17,8 +17,8 @@ function findHtmlFiles(dir) {
   return results;
 }
 
-const ACCENT_STYLE =
-  '<style>:root{--vp-c-accent:#3b82f6!important;--vp-c-accent-bg:#3b82f6!important;--vp-c-accent-hover:#1d4ed8!important;--vp-c-accent-soft:#3b82f624!important}[data-theme=dark]{--vp-c-accent:#60a5fa!important}</style>';
+const STYLE =
+  "<style>:root{--vp-c-accent:#3b82f6!important;--vp-c-accent-bg:#3b82f6!important;--vp-c-accent-hover:#1d4ed8!important;--vp-c-accent-soft:#3b82f624!important}[data-theme=dark]{--vp-c-accent:#60a5fa!important}</style>";
 
 export default {
   base: "/certify/",
@@ -35,18 +35,16 @@ export default {
 
   theme,
 
-  // 构建后在所有页面注入蓝色 accent CSS 变量（覆盖 Theme Hope 默认绿色）
-  // lightningcss 会去重 CSS bundle 中 :root 的重复变量声明，因此只能在构建后注入
   plugins: [
     () => ({
       name: "accent-color-override",
       onGenerated: async (app) => {
-        const dest = join(app.dir.source(), "..", "dist");
+        const dest = app.dir.dest();
         const files = findHtmlFiles(dest);
         for (const file of files) {
           let html = readFileSync(file, "utf-8");
           if (!html.includes("vp-c-accent:#3b82f6")) {
-            html = html.replace("</head>", ACCENT_STYLE + "\n</head>");
+            html = html.replace("</head>", STYLE + "\n</head>");
             writeFileSync(file, html);
           }
         }
