@@ -10,7 +10,32 @@
   --theme-color-dark: #1d4ed8 !important;
 }
 
-// 修复 Theme Hope 默认绿色残留：编辑此页 / 页脚链接 / 主题色选择器
+// 修复 Theme Hope 默认绿色残留：回到顶部 / 分页链接 / 编辑此页 / 页脚链接 / 主题色选择器
+.back-to-top {
+  background: #3b82f6 !important;
+  color: #fff !important;
+  border-color: #3b82f6 !important;
+}
+
+.page-nav .nav-link,
+.vp-page-nav .nav-link,
+.page-nav a,
+.vp-page-nav a,
+.page-nav .prev a,
+.page-nav .next a {
+  color: #3b82f6 !important;
+
+  &:hover {
+    color: #1d4ed8 !important;
+  }
+}
+
+// 回到顶部按钮 hover
+.back-to-top:hover {
+  background: #1d4ed8 !important;
+  border-color: #1d4ed8 !important;
+}
+
 .page-meta-item a,
 .edit-link a,
 .edit-this-page a,
