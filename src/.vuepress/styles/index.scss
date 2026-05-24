@@ -3,11 +3,27 @@
 // 引入 Google Fonts（Inter + Noto Sans SC）
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap');
 
-// 蓝色主题色变量覆盖
+// 蓝色主题色变量覆盖（!important 覆盖 Theme Hope 默认绿色）
 :root {
-  --theme-color: #3b82f6;
-  --theme-color-light: #60a5fa;
-  --theme-color-dark: #1d4ed8;
+  --theme-color: #3b82f6 !important;
+  --theme-color-light: #60a5fa !important;
+  --theme-color-dark: #1d4ed8 !important;
+}
+
+// 修复 Theme Hope 默认绿色残留：编辑此页 / 页脚链接 / 主题色选择器
+.page-meta-item a,
+.edit-link a,
+.edit-this-page a,
+.footer-wrapper a,
+.vp-footer a,
+.theme-color-picker {
+  color: #3b82f6 !important;
+}
+
+// 页面底部 meta 区域的图标/文字
+.page-meta-item .icon,
+.edit-link .icon {
+  color: #3b82f6 !important;
 }
 
 // 正文排版优化
