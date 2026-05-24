@@ -1,0 +1,358 @@
+// 全局样式覆盖 —— 蓝色主题
+
+// 引入 Google Fonts（Inter + Noto Sans SC）
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap');
+
+// 蓝色主题色变量覆盖
+:root {
+  --theme-color: #3b82f6;
+  --theme-color-light: #60a5fa;
+  --theme-color-dark: #1d4ed8;
+}
+
+// 正文排版优化
+.markdown-content,
+.page-content {
+  font-family:
+    "Inter",
+    "Noto Sans SC",
+    "PingFang SC",
+    "Microsoft YaHei",
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    sans-serif !important;
+  font-size: 16px !important;
+  line-height: 1.8 !important;
+  letter-spacing: 0.3px !important;
+  color: #2c3e50 !important;
+}
+
+// 深色模式正文颜色
+[data-theme="dark"] {
+  .markdown-content,
+  .page-content {
+    color: #e0e0e0 !important;
+  }
+}
+
+// Hero 区域
+.hero {
+  .hero-title {
+    font-size: 3rem !important;
+    font-weight: 700 !important;
+    font-family:
+      "Inter",
+      "Noto Sans SC",
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      sans-serif !important;
+  }
+  .hero-desc {
+    font-size: 1.2rem !important;
+    color: #666 !important;
+  }
+}
+
+// 特性卡片
+.features {
+  .feature {
+    border-radius: 12px !important;
+    transition: all 0.3s ease !important;
+    border: 1px solid #e8e8e8 !important;
+
+    &:hover {
+      transform: translateY(-4px) !important;
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08) !important;
+      border-color: var(--theme-color, #3b82f6) !important;
+    }
+  }
+}
+
+// 代码块
+div[class*="language-"] {
+  border-radius: 8px !important;
+
+  pre {
+    font-size: 14px !important;
+  }
+}
+
+// 卡片容器
+.page-container {
+  max-width: 1200px !important;
+}
+
+// 深色模式
+[data-theme="dark"] {
+  .hero .hero-desc {
+    color: #aaa !important;
+  }
+  .feature {
+    border-color: #333 !important;
+    background: #1e1e1e !important;
+
+    &:hover {
+      border-color: var(--theme-color, #3b82f6) !important;
+    }
+  }
+}
+
+// 不蒜子访问统计
+#busuanzi_value_site_pv,
+#busuanzi_value_site_uv {
+  color: var(--theme-color, #3b82f6);
+  font-weight: 600;
+}
+
+// emoji 渲染修复
+.vp-navbar,
+.vp-nav-links,
+.vp-site-name,
+.vp-page-title,
+.theme-container h1,
+.theme-container h2 {
+  font-family: "Inter", "Noto Sans SC", "PingFang SC", "Microsoft YaHei",
+    "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif !important;
+}
+
+// 导航栏链接悬停色
+.vp-nav-links .nav-link:hover,
+.vp-nav-links .nav-link.active {
+  color: var(--theme-color, #3b82f6) !important;
+}
+
+// 侧边栏激活颜色
+.vp-sidebar-link.active {
+  color: var(--theme-color, #3b82f6) !important;
+  border-left-color: var(--theme-color, #3b82f6) !important;
+}
+
+// ==========================================
+// 恶搞单词 Vocab Meme 样式
+// ==========================================
+
+// 介绍页
+.vm-intro {
+  max-width: 720px;
+  margin: 50px 0 80px;
+  padding: 48px 20px 40px;
+  text-align: center;
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 12px;
+  }
+
+  .vm-tagline {
+    font-size: 1rem;
+    color: var(--text-color-light, #888);
+    line-height: 1.8;
+    margin-bottom: 32px;
+  }
+
+  .vm-hint {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin-top: 8px;
+  }
+}
+
+.vm-methods-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+  text-align: left;
+  margin-bottom: 32px;
+}
+
+.vm-method-box {
+  border: 1px solid var(--border-color, #e2e8f0);
+  border-radius: 10px;
+  padding: 18px 20px;
+  background: var(--bg-color, #fff);
+  transition: box-shadow 0.2s;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(59, 130, 246, 0.06);
+  }
+
+  .vm-m-title {
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 6px;
+
+    .vm-m-emoji {
+      font-size: 1.2rem;
+      margin-right: 4px;
+    }
+  }
+
+  .vm-m-label {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 600;
+    padding: 1px 6px;
+    border-radius: 3px;
+    margin-left: 4px;
+    vertical-align: middle;
+  }
+
+  .vm-m-desc {
+    font-size: 0.83rem;
+    color: var(--text-color-light, #888);
+    line-height: 1.7;
+    margin-bottom: 10px;
+  }
+
+  .vm-m-example {
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    line-height: 1.6;
+  }
+}
+
+// 方法标签颜色
+.vm-tag-yellow { background: #fef3c7; color: #b45309; }
+.vm-tag-blue   { background: #dbeafe; color: #1e40af; }
+.vm-tag-pink   { background: #fce7f3; color: #9d174d; }
+.vm-tag-green  { background: #d1fae5; color: #065f46; }
+.vm-tag-purple { background: #ede9fe; color: #5b21b6; }
+.vm-tag-orange { background: #ffedd5; color: #9a3412; }
+
+// 示例块颜色
+.vm-ex-yellow  { background: #fefce8; color: #854d0e; }
+.vm-ex-blue    { background: #eff6ff; color: #1e3a8a; }
+.vm-ex-pink    { background: #fdf2f8; color: #831843; }
+.vm-ex-green   { background: #ecfdf5; color: #064e3b; }
+.vm-ex-purple  { background: #f5f3ff; color: #4c1d95; }
+.vm-ex-orange  { background: #fff7ed; color: #7c2d12; }
+
+// 单词本页面
+.vm-page-header {
+  text-align: center;
+  padding: 24px 0 8px;
+
+  h1 { font-size: 1.6rem; margin-bottom: 4px; }
+  p { font-size: 0.85rem; color: var(--text-color-light, #999); }
+}
+
+.vm-word-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 14px;
+  padding: 0 0 48px;
+
+  @media (max-width: 480px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.vm-word-card {
+  border: 1px solid var(--border-color, #e2e8f0);
+  border-radius: 10px;
+  padding: 16px 18px;
+  background: var(--bg-color, #fff);
+  transition: box-shadow 0.2s, border-color 0.2s;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(59, 130, 246, 0.07);
+    border-color: #93c5fd;
+  }
+
+  .vm-num {
+    display: inline-block;
+    font-size: 0.7rem;
+    color: #94a3b8;
+    background: #f1f5f9;
+    border-radius: 4px;
+    padding: 1px 6px;
+    margin-bottom: 4px;
+  }
+
+  .vm-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 2px;
+  }
+
+  .vm-word {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #1e40af;
+  }
+
+  .vm-phonetic {
+    font-size: 0.8rem;
+    color: #94a3b8;
+    font-style: italic;
+  }
+
+  .vm-meaning {
+    font-size: 0.85rem;
+    color: #64748b;
+    margin-bottom: 6px;
+  }
+
+  .vm-meme-label {
+    display: inline-block;
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 4px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+  }
+
+  .vm-meme {
+    font-size: 0.82rem;
+    color: #475569;
+    line-height: 1.65;
+    padding: 6px 10px;
+    border-radius: 6px;
+    margin-bottom: 4px;
+  }
+
+  .vm-example {
+    font-size: 0.8rem;
+    color: #1e40af;
+    background: #f0f7ff;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-style: italic;
+  }
+}
+
+// 记忆法标签（在单词卡内）
+.vm-label-xieyin   { background: #fef3c7; color: #b45309; }
+.vm-label-chai     { background: #dbeafe; color: #1e40af; }
+.vm-label-duanzi   { background: #fce7f3; color: #9d174d; }
+.vm-label-lianxiang { background: #d1fae5; color: #065f46; }
+.vm-label-xingjin   { background: #ede9fe; color: #5b21b6; }
+.vm-label-koujue    { background: #ffedd5; color: #9a3412; }
+
+// 记忆法文本背景（在单词卡内）
+.vm-meme-yellow { background: #fefce8; color: #854d0e; }
+.vm-meme-blue   { background: #eff6ff; color: #1e3a8a; }
+.vm-meme-pink   { background: #fdf2f8; color: #831843; }
+.vm-meme-green  { background: #ecfdf5; color: #064e3b; }
+.vm-meme-purple { background: #f5f3ff; color: #4c1d95; }
+.vm-meme-orange { background: #fff7ed; color: #7c2d12; }
+
+// 介绍页引导页
+.vm-intro-mini {
+  max-width: 600px;
+  margin: 48px auto;
+  padding: 40px 20px;
+  text-align: center;
+
+  h1 { font-size: 1.8rem; margin-bottom: 12px; }
+  p { font-size: 1rem; color: var(--text-color-light, #888); line-height: 1.8; }
+
+  .vm-hint {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin-top: 8px;
+  }
+}
