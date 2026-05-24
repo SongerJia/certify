@@ -17,6 +17,9 @@ function findHtmlFiles(dir) {
   return results;
 }
 
+const ACCENT_STYLE =
+  '<style>:root{--vp-c-accent:#3b82f6!important;--vp-c-accent-bg:#3b82f6!important;--vp-c-accent-hover:#1d4ed8!important;--vp-c-accent-soft:#3b82f624!important}[data-theme=dark]{--vp-c-accent:#60a5fa!important}</style>';
+
 export default {
   base: "/certify/",
 
@@ -32,25 +35,21 @@ export default {
 
   theme,
 
-  // 自定义插件：构建后注入蓝色 accent CSS（lightningcss 会去重 CSS bundle 中的 :root 变量）
+  // 构建后在所有页面注入蓝色 accent CSS 变量（覆盖 Theme Hope 默认绿色）
+  // lightningcss 会去重 CSS bundle 中 :root 的重复变量声明，因此只能在构建后注入
   plugins: [
     () => ({
       name: "accent-color-override",
       onGenerated: async (app) => {
-        // bundler-vite 输出到项目根 dist/，非 .vuepress/dist/
         const dest = join(app.dir.source(), "..", "dist");
-        console.log("[accent-override] dest:", dest);
         const files = findHtmlFiles(dest);
-        console.log("[accent-override] Found", files.length, "HTML files");
-        const styleTag = '<style>:root{--vp-c-accent:#3b82f6!important;--vp-c-accent-bg:#3b82f6!important;--vp-c-accent-hover:#1d4ed8!important;--vp-c-accent-soft:#3b82f624!important}[data-theme=dark]{--vp-c-accent:#60a5fa!important;--vp-c-accent-bg:#3b82f6!important;--vp-c-accent-hover:#1d4ed8!important;--vp-c-accent-soft:#3b82f624!important}</style>';
         for (const file of files) {
           let html = readFileSync(file, "utf-8");
           if (!html.includes("vp-c-accent:#3b82f6")) {
-            html = html.replace("</head>", styleTag + "\n</head>");
+            html = html.replace("</head>", ACCENT_STYLE + "\n</head>");
             writeFileSync(file, html);
           }
         }
-        console.log("[accent-override] Done injecting into", files.length, "files");
       },
     }),
   ],
