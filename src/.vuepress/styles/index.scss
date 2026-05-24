@@ -156,10 +156,15 @@ div[class*="language-"] {
     "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif !important;
 }
 
-// 导航栏链接悬停色
+// 导航栏链接悬停色 + 激活指示条
 .vp-nav-links .nav-link:hover,
 .vp-nav-links .nav-link.active {
   color: var(--theme-color, #3b82f6) !important;
+}
+
+.vp-nav-links .nav-link.active::after {
+  background: #3b82f6 !important;
+  border-color: #3b82f6 !important;
 }
 
 // 侧边栏激活颜色
