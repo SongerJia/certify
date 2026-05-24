@@ -22,8 +22,9 @@ export default hopeTheme({
   displayFooter: true,
   footer: `MIT License © 2026 SongerJia | Powered by <a href="https://v2.vuepress.vuejs.org/" target="_blank">VuePress</a> & <a href="https://theme-hope.vuejs.press/" target="_blank">Theme Hope</a> · <span id="busuanzi_value_site_pv">-</span> 次访问`,
 
-  // 注入不蒜子访问统计脚本
+  // 注入不蒜子访问统计脚本 + favicon
   head: [
+    ["link", { rel: "icon", href: "/logo.svg", type: "image/svg+xml" }],
     ["script", { async: true, src: "https://busuanzi.ibruce.info/busuanzi/2.3.0/busuanzi.pure.min.js" }],
   ],
 
