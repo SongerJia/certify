@@ -5,902 +5,902 @@ title: 单词本_29
 <div class="vm-word-cards">
   <div class="vm-word-card">
     <div class="vm-num">#2801</div>
-    <div class="vm-head"><span class="vm-word">doll</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">doll</span><span class="vm-phonetic">/dɒl/</span></div>
     <div class="vm-meaning">n. 玩偶，洋娃娃</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「道欧」—— doll → 和 dull（沉闷）发音不同，doll 是可爱的洋娃娃</div>
-    <div class="vm-example">The word <b>doll</b> is important for IELTS.</div>
+    <div class="vm-example">The little girl clutched her favourite <b>doll</b> tightly as she fell asleep.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2802</div>
-    <div class="vm-head"><span class="vm-word">dome</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dome</span><span class="vm-phonetic">/dəʊm/</span></div>
     <div class="vm-meaning">n. 圆屋顶，穹顶</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「豆姆」—— dome → 和 home 押韵，穹顶之下就是家</div>
-    <div class="vm-example">The word <b>dome</b> is important for IELTS.</div>
+    <div class="vm-example">The cathedral's magnificent <b>dome</b> can be seen from miles away.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2803</div>
-    <div class="vm-head"><span class="vm-word">dominant</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dominant</span><span class="vm-phonetic">/ˈdɒmɪnənt/</span></div>
     <div class="vm-meaning">adj. 主导的，占优势的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「道米能特」—— domin（统治）+ ant → 统治的 → 主导的</div>
-    <div class="vm-example">The word <b>dominant</b> is important for IELTS.</div>
+    <div class="vm-example">English has become the <b>dominant</b> language of international business and science.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2804</div>
-    <div class="vm-head"><span class="vm-word">donate</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">donate</span><span class="vm-phonetic">/dəʊˈneɪt/</span></div>
     <div class="vm-meaning">v. 捐赠，捐献</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「豆内特」—— don（给予）+ ate → 捐赠</div>
-    <div class="vm-example">The word <b>donate</b> is important for IELTS.</div>
+    <div class="vm-example">She decided to <b>donate</b> a portion of her salary to the children's hospital every month.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2805</div>
-    <div class="vm-head"><span class="vm-word">donation</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">donation</span><span class="vm-phonetic">/dəʊˈneɪʃən/</span></div>
     <div class="vm-meaning">n. 捐赠物，捐款</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「豆内神」—— donate（捐赠）+ ion → 捐赠物</div>
-    <div class="vm-example">The word <b>donation</b> is important for IELTS.</div>
+    <div class="vm-example">The generous <b>donation</b> from the billionaire philanthropist helped build a new library.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2806</div>
-    <div class="vm-head"><span class="vm-word">doom</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">doom</span><span class="vm-phonetic">/duːm/</span></div>
     <div class="vm-meaning">n. 厄运，毁灭</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「杜姆」—— doom → 经典游戏《毁灭战士》，厄运的代名词</div>
-    <div class="vm-example">The word <b>doom</b> is important for IELTS.</div>
+    <div class="vm-example">The failure to act on climate change could <b>doom</b> future generations to catastrophic consequences.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2807</div>
-    <div class="vm-head"><span class="vm-word">dormitory</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dormitory</span><span class="vm-phonetic">/ˈdɔːrmɪtəri/</span></div>
     <div class="vm-meaning">n. 宿舍</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「多蜜桃瑞」—— dorm（睡眠）+ itory（地方）→ 睡觉的地方 → 宿舍</div>
-    <div class="vm-example">The word <b>dormitory</b> is important for IELTS.</div>
+    <div class="vm-example">The university <b>dormitory</b> houses over five hundred students during the academic year.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2808</div>
-    <div class="vm-head"><span class="vm-word">dose</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dose</span><span class="vm-phonetic">/dəʊs/</span></div>
     <div class="vm-meaning">n. 剂量，一剂</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「豆斯」—— dose → 和 does 差一个字母，does 是"做"，dose 是"吃药"</div>
-    <div class="vm-example">The word <b>dose</b> is important for IELTS.</div>
+    <div class="vm-example">The doctor prescribed a low <b>dose</b> of the medication to start with.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2809</div>
-    <div class="vm-head"><span class="vm-word">dot</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dot</span><span class="vm-phonetic">/dɒt/</span></div>
     <div class="vm-meaning">n. 点，小圆点</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「道特」—— dot → 短小精悍，和 hot、not 押韵</div>
-    <div class="vm-example">The word <b>dot</b> is important for IELTS.</div>
+    <div class="vm-example">A tiny <b>dot</b> on the radar screen indicated the approaching aircraft.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2810</div>
-    <div class="vm-head"><span class="vm-word">doubt</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">doubt</span><span class="vm-phonetic">/daʊt/</span></div>
     <div class="vm-meaning">n./v. 怀疑，疑惑</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「到特」—— doubt → b 不发音，记住 "d-out" → 把信心抽出去 → 怀疑</div>
-    <div class="vm-example">The word <b>doubt</b> is important for IELTS.</div>
+    <div class="vm-example">There is no <b>doubt</b> that regular exercise benefits both physical and mental health.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2811</div>
-    <div class="vm-head"><span class="vm-word">doubtful</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">doubtful</span><span class="vm-phonetic">/ˈdaʊtfʊl/</span></div>
     <div class="vm-meaning">adj. 可疑的，不确定的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「到特佛」—— doubt（怀疑）+ ful → 充满怀疑的 → 可疑的</div>
-    <div class="vm-example">The word <b>doubtful</b> is important for IELTS.</div>
+    <div class="vm-example">Experts remain <b>doubtful</b> about whether the target can be achieved by the deadline.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2812</div>
-    <div class="vm-head"><span class="vm-word">doubtless</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">doubtless</span><span class="vm-phonetic">/ˈdaʊtləs/</span></div>
     <div class="vm-meaning">adv. 无疑地，肯定地</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「到特乐斯」—— doubt（怀疑）+ less（无）→ 毫无疑问 → 肯定地</div>
-    <div class="vm-example">The word <b>doubtless</b> is important for IELTS.</div>
+    <div class="vm-example">The new discovery will <b>doubtless</b> lead to further research in this exciting field.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2813</div>
-    <div class="vm-head"><span class="vm-word">downtown</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">downtown</span><span class="vm-phonetic">/ˌdaʊnˈtaʊn/</span></div>
     <div class="vm-meaning">n./adj. 市中心（的）</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「当趟」—— down + town → 市区 → 市中心</div>
-    <div class="vm-example">The word <b>downtown</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>downtown</b> area has been revitalised with new shops, restaurants, and public spaces.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2814</div>
-    <div class="vm-head"><span class="vm-word">doze</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">doze</span><span class="vm-phonetic">/dəʊz/</span></div>
     <div class="vm-meaning">vi. 打瞌睡，打盹</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「豆兹」—— doze → 和 dose（剂量）只差一个字母，吃错剂量会打瞌睡</div>
-    <div class="vm-example">The word <b>doze</b> is important for IELTS.</div>
+    <div class="vm-example">The warm afternoon sun made him <b>doze</b> off in his armchair for a few minutes.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2815</div>
-    <div class="vm-head"><span class="vm-word">drag</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drag</span><span class="vm-phonetic">/dræɡ/</span></div>
     <div class="vm-meaning">v. 拖，拉，拽</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「拽格」—— drag → dr- 开头有"拽"的感觉，dragon（龙）drag 着尾巴</div>
-    <div class="vm-example">The word <b>drag</b> is important for IELTS.</div>
+    <div class="vm-example">The protesters tried to <b>drag</b> the heavy barricade across the road.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2816</div>
-    <div class="vm-head"><span class="vm-word">drain</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drain</span><span class="vm-phonetic">/dreɪn/</span></div>
     <div class="vm-meaning">v. 排干，耗尽 n. 排水管</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「坠恩」—— drain → 和 rain（雨）只差一个 d，雨水排入下水道</div>
-    <div class="vm-example">The word <b>drain</b> is important for IELTS.</div>
+    <div class="vm-example">The prolonged war continues to <b>drain</b> the country's financial resources.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2817</div>
-    <div class="vm-head"><span class="vm-word">drainage</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drainage</span><span class="vm-phonetic">/ˈdreɪnɪdʒ/</span></div>
     <div class="vm-meaning">n. 排水系统，排水</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「坠内之」—— drain（排水）+ age → 排水系统</div>
-    <div class="vm-example">The word <b>drainage</b> is important for IELTS.</div>
+    <div class="vm-example">Poor <b>drainage</b> caused severe flooding in low-lying areas after the heavy rain.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2818</div>
-    <div class="vm-head"><span class="vm-word">dramatic</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dramatic</span><span class="vm-phonetic">/drəˈmætɪk/</span></div>
     <div class="vm-meaning">adj. 戏剧性的，剧烈的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「抓麦体克」—— drama（戏剧）+ tic → 戏剧性的</div>
-    <div class="vm-example">The word <b>dramatic</b> is important for IELTS.</div>
+    <div class="vm-example">There has been a <b>dramatic</b> increase in the use of renewable energy worldwide.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2819</div>
-    <div class="vm-head"><span class="vm-word">dramatize</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dramatize</span><span class="vm-phonetic">/ˈdræmətaɪz/</span></div>
     <div class="vm-meaning">v. 使戏剧化，夸张</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「抓莫太兹」—— drama（戏剧）+ tize（使…化）→ 使戏剧化</div>
-    <div class="vm-example">The word <b>dramatize</b> is important for IELTS.</div>
+    <div class="vm-example">The film tends to <b>dramatize</b> historical events for entertainment purposes.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2820</div>
-    <div class="vm-head"><span class="vm-word">draw</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">draw</span><span class="vm-phonetic">/drɔː/</span></div>
     <div class="vm-meaning">v. 画，拉，吸引</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「捉」—— draw → 三种意思：draw a picture（画）/ draw attention（吸引）/ draw a card（抽）</div>
-    <div class="vm-example">The word <b>draw</b> is important for IELTS.</div>
+    <div class="vm-example">The artist used charcoal to <b>draw</b> a detailed portrait of the old fisherman.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2821</div>
-    <div class="vm-head"><span class="vm-word">drawback</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drawback</span><span class="vm-phonetic">/ˈdrɔːbæk/</span></div>
     <div class="vm-meaning">n. 缺点，不利条件</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「捉白克」—— draw（拉）+ back（回）→ 把人往回拉的东西 → 缺点</div>
-    <div class="vm-example">The word <b>drawback</b> is important for IELTS.</div>
+    <div class="vm-example">The main <b>drawback</b> of living in a big city is the high cost of housing.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2822</div>
-    <div class="vm-head"><span class="vm-word">drawer</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drawer</span><span class="vm-phonetic">/drɔːr/</span></div>
     <div class="vm-meaning">n. 抽屉</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「捉儿」—— draw（拉）+ er → 可以拉出来的东西 → 抽屉</div>
-    <div class="vm-example">The word <b>drawer</b> is important for IELTS.</div>
+    <div class="vm-example">She opened the desk <b>drawer</b> and pulled out a stack of old letters tied with ribbon.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2823</div>
-    <div class="vm-head"><span class="vm-word">drawing</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drawing</span><span class="vm-phonetic">/ˈdrɔːɪŋ/</span></div>
     <div class="vm-meaning">n. 绘画，图画</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「捉应」—— draw（画）+ ing → 绘画作品</div>
-    <div class="vm-example">The word <b>drawing</b> is important for IELTS.</div>
+    <div class="vm-example">His detailed architectural <b>drawing</b>s brought the proposed building to life.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2824</div>
-    <div class="vm-head"><span class="vm-word">dread</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dread</span><span class="vm-phonetic">/dred/</span></div>
     <div class="vm-meaning">n./v. 恐惧，惧怕</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「追得」—— dread → 和 dead（死）形近，死是最大的恐惧</div>
-    <div class="vm-example">The word <b>dread</b> is important for IELTS.</div>
+    <div class="vm-example">She felt a sense of <b>dread</b> as the deadline approached and the work was far from finished.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2825</div>
-    <div class="vm-head"><span class="vm-word">dreadful</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dreadful</span><span class="vm-phonetic">/ˈdredfəl/</span></div>
     <div class="vm-meaning">adj. 可怕的，糟透的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「追得佛」—— dread（恐惧）+ ful → 可怕的</div>
-    <div class="vm-example">The word <b>dreadful</b> is important for IELTS.</div>
+    <div class="vm-example">The survivors described the <b>dreadful</b> conditions they endured during the earthquake.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2826</div>
-    <div class="vm-head"><span class="vm-word">dreary</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dreary</span><span class="vm-phonetic">/ˈdrɪəri/</span></div>
     <div class="vm-meaning">adj. 沉闷的，阴郁的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「追瑞」—— dreary → 和 dreamy（梦幻的）形近，dreary 是反面的沉闷</div>
-    <div class="vm-example">The word <b>dreary</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>dreary</b> weather matched his gloomy mood perfectly that grey Sunday afternoon.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2827</div>
-    <div class="vm-head"><span class="vm-word">drench</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drench</span><span class="vm-phonetic">/drentʃ/</span></div>
     <div class="vm-meaning">vt. 使湿透，浸湿</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「润吃」—— drench → 和 trench（沟渠）形近，沟渠里的水把衣服浸湿</div>
-    <div class="vm-example">The word <b>drench</b> is important for IELTS.</div>
+    <div class="vm-example">The sudden downpour managed to <b>drench</b> everyone caught outside without an umbrella.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2828</div>
-    <div class="vm-head"><span class="vm-word">drift</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drift</span><span class="vm-phonetic">/drɪft/</span></div>
     <div class="vm-meaning">v. 漂流 n. 趋势</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「追夫特」—— drift → 汽车漂移（drift），随波漂流</div>
-    <div class="vm-example">The word <b>drift</b> is important for IELTS.</div>
+    <div class="vm-example">The boat began to <b>drift</b> away from the shore as the tide came in.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2829</div>
-    <div class="vm-head"><span class="vm-word">drill</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drill</span><span class="vm-phonetic">/drɪl/</span></div>
     <div class="vm-meaning">n. 钻头 v. 训练，钻孔</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「追欧」—— drill → 两个核心意思：钻孔 / 反复训练（像钻头一样反复钻）</div>
-    <div class="vm-example">The word <b>drill</b> is important for IELTS.</div>
+    <div class="vm-example">Firefighters regularly conduct a fire <b>drill</b> to ensure everyone knows the escape route.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2830</div>
-    <div class="vm-head"><span class="vm-word">drip</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drip</span><span class="vm-phonetic">/drɪp/</span></div>
     <div class="vm-meaning">v. 滴下 n. 水滴</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「追普」—— drip → 和 drop（滴落）同源，drip 是持续滴，drop 是一次性掉</div>
-    <div class="vm-example">The word <b>drip</b> is important for IELTS.</div>
+    <div class="vm-example">The steady <b>drip</b> of the leaking tap kept her awake throughout the night.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2831</div>
-    <div class="vm-head"><span class="vm-word">drown</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">drown</span><span class="vm-phonetic">/draʊn/</span></div>
     <div class="vm-meaning">v. 淹死，淹没</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「兆恩」—— drown → 和 down（向下）形近，沉下去 → 淹死</div>
-    <div class="vm-example">The word <b>drown</b> is important for IELTS.</div>
+    <div class="vm-example">The lifeguard jumped in to rescue the child who was about to <b>drown</b>.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2832</div>
-    <div class="vm-head"><span class="vm-word">due</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">due</span><span class="vm-phonetic">/djuː/</span></div>
     <div class="vm-meaning">adj. 到期的，应得的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「丢」—— due → due to（由于），核心含义是"应到的、到期的"</div>
-    <div class="vm-example">The word <b>due</b> is important for IELTS.</div>
+    <div class="vm-example">The assignment is <b>due</b> on Friday and late submissions will not be accepted.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2833</div>
-    <div class="vm-head"><span class="vm-word">dull</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dull</span><span class="vm-phonetic">/dʌl/</span></div>
     <div class="vm-meaning">adj. 枯燥的，迟钝的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「达欧」—— dull → 和 doll（娃娃）差一个字母，doll 可爱，dull 无聊</div>
-    <div class="vm-example">The word <b>dull</b> is important for IELTS.</div>
+    <div class="vm-example">The lecture was so <b>dull</b> that half the students fell asleep within the first hour.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2834</div>
-    <div class="vm-head"><span class="vm-word">duly</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">duly</span><span class="vm-phonetic">/ˈdjuːli/</span></div>
     <div class="vm-meaning">adv. 适当地，按时地</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「丢利」—— due（应到的）+ ly → 按时地、适当地</div>
-    <div class="vm-example">The word <b>duly</b> is important for IELTS.</div>
+    <div class="vm-example">The application was <b>duly</b> processed, and the candidate received confirmation within a week.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2835</div>
-    <div class="vm-head"><span class="vm-word">dumb</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dumb</span><span class="vm-phonetic">/dʌm/</span></div>
     <div class="vm-meaning">adj. 哑的，愚蠢的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「当姆」—— dumb → b 不发音，和 dam（水坝）区分，dumb 是哑的</div>
-    <div class="vm-example">The word <b>dumb</b> is important for IELTS.</div>
+    <div class="vm-example">It was a <b>dumb</b> decision to invest all his savings in a single risky stock.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2836</div>
-    <div class="vm-head"><span class="vm-word">dump</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dump</span><span class="vm-phonetic">/dʌmp/</span></div>
     <div class="vm-meaning">n. 垃圾场 v. 倾倒</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「当姆普」—— dump → 像"咚"的一声倒垃圾的感觉</div>
-    <div class="vm-example">The word <b>dump</b> is important for IELTS.</div>
+    <div class="vm-example">Illegal waste <b>dump</b>ing has severely polluted the river and surrounding farmland.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2837</div>
-    <div class="vm-head"><span class="vm-word">duplicate</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">duplicate</span><span class="vm-phonetic">/ˈdjuːplɪkeɪt/</span></div>
     <div class="vm-meaning">v. 复制 n. 复制品</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「丢普利K特」—— du（双）+ plic（折叠）+ ate → 折成双份 → 复制</div>
-    <div class="vm-example">The word <b>duplicate</b> is important for IELTS.</div>
+    <div class="vm-example">Please make a <b>duplicate</b> copy of the contract for your own records.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2838</div>
-    <div class="vm-head"><span class="vm-word">durable</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">durable</span><span class="vm-phonetic">/ˈdjʊərəbəl/</span></div>
     <div class="vm-meaning">adj. 耐用的，持久的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「丢热博」—— dur（持续）+ able（能）→ 能持续的 → 耐用的</div>
-    <div class="vm-example">The word <b>durable</b> is important for IELTS.</div>
+    <div class="vm-example">The furniture is made from <b>durable</b> materials designed to last for decades.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2839</div>
-    <div class="vm-head"><span class="vm-word">dwarf</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dwarf</span><span class="vm-phonetic">/dwɔːrf/</span></div>
     <div class="vm-meaning">n. 矮人，侏儒 v. 使相形见绌</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「多夫」—— dwarf → 动词义：使…相形见绌（大房子 dwarf 了小房子）</div>
-    <div class="vm-example">The word <b>dwarf</b> is important for IELTS.</div>
+    <div class="vm-example">The new skyscraper will <b>dwarf</b> every other building in the city skyline.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2840</div>
-    <div class="vm-head"><span class="vm-word">dwell</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dwell</span><span class="vm-phonetic">/dwel/</span></div>
     <div class="vm-meaning">vi. 居住，详述</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「杜威尔」—— dwell → dwell on（详述/纠结），和 well（好）合在一起记</div>
-    <div class="vm-example">The word <b>dwell</b> is important for IELTS.</div>
+    <div class="vm-example">It is not healthy to <b>dwell</b> on past mistakes instead of focusing on the future.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2841</div>
-    <div class="vm-head"><span class="vm-word">dweller</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dweller</span><span class="vm-phonetic">/ˈdwelər/</span></div>
     <div class="vm-meaning">n. 居民，居住者</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「杜威乐」—— dwell（居住）+ er → 居民</div>
-    <div class="vm-example">The word <b>dweller</b> is important for IELTS.</div>
+    <div class="vm-example">City <b>dweller</b>s often long for the peace and quiet of the countryside.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2842</div>
-    <div class="vm-head"><span class="vm-word">dwelling</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dwelling</span><span class="vm-phonetic">/ˈdwelɪŋ/</span></div>
     <div class="vm-meaning">n. 住所，住宅</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「杜威灵」—— dwell（居住）+ ing → 住所</div>
-    <div class="vm-example">The word <b>dwelling</b> is important for IELTS.</div>
+    <div class="vm-example">The ancient cliff <b>dwelling</b>s were carved directly into the rock face centuries ago.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2843</div>
-    <div class="vm-head"><span class="vm-word">dye</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">dye</span><span class="vm-phonetic">/daɪ/</span></div>
     <div class="vm-meaning">n. 染料 v. 染色</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「戴」—— dye → 和 die（死）同音，染头发染"死"了</div>
-    <div class="vm-example">The word <b>dye</b> is important for IELTS.</div>
+    <div class="vm-example">She decided to <b>dye</b> her hair bright red for the charity fundraising event.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2844</div>
-    <div class="vm-head"><span class="vm-word">eager</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">eager</span><span class="vm-phonetic">/ˈiːɡər/</span></div>
     <div class="vm-meaning">adj. 渴望的，热切的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「亿格」—— eager → 和 eagle（鹰）形近，鹰急切地冲向猎物</div>
-    <div class="vm-example">The word <b>eager</b> is important for IELTS.</div>
+    <div class="vm-example">Young graduates are <b>eager</b> to prove themselves in the competitive job market.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2845</div>
-    <div class="vm-head"><span class="vm-word">earnest</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">earnest</span><span class="vm-phonetic">/ˈɜːrnɪst/</span></div>
     <div class="vm-meaning">adj. 认真的，诚恳的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「额内斯特」—— earn（赚）+ est → 认真赚钱的人最值得尊敬</div>
-    <div class="vm-example">The word <b>earnest</b> is important for IELTS.</div>
+    <div class="vm-example">The negotiations began in <b>earnest</b> after both sides agreed to the basic framework.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2846</div>
-    <div class="vm-head"><span class="vm-word">earthquake</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">earthquake</span><span class="vm-phonetic">/ˈɜːrθkweɪk/</span></div>
     <div class="vm-meaning">n. 地震</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「俄斯奎克」—— earth（地球）+ quake（震动）→ 地震</div>
-    <div class="vm-example">The word <b>earthquake</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>earthquake</b> measured 7.2 on the Richter scale and destroyed thousands of homes.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2847</div>
-    <div class="vm-head"><span class="vm-word">ease</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">ease</span><span class="vm-phonetic">/iːz/</span></div>
     <div class="vm-meaning">n. 容易，舒适 v. 减轻</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「易兹」—— ease → 反义词 disease（去掉 ease 就不舒适 → 疾病）</div>
-    <div class="vm-example">The word <b>ease</b> is important for IELTS.</div>
+    <div class="vm-example">The new software is designed to <b>ease</b> the burden of administrative paperwork.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2848</div>
-    <div class="vm-head"><span class="vm-word">eccentricity</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">eccentricity</span><span class="vm-phonetic">/ˌeksenˈtrɪsəti/</span></div>
     <div class="vm-meaning">n. 古怪，怪癖</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾克森吹C体」—— ec（出）+ centr（中心）+ icity → 偏离中心 → 古怪</div>
-    <div class="vm-example">The word <b>eccentricity</b> is important for IELTS.</div>
+    <div class="vm-example">His <b>eccentricity</b> was well known in the neighbourhood; he walked his pet pig every morning.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2849</div>
-    <div class="vm-head"><span class="vm-word">echo</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">echo</span><span class="vm-phonetic">/ˈekəʊ/</span></div>
     <div class="vm-meaning">n. 回声 v. 回响</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾扣」—— echo → 希腊神话中的回声女神 Echo，念念不忘必有回声</div>
-    <div class="vm-example">The word <b>echo</b> is important for IELTS.</div>
+    <div class="vm-example">Her words seemed to <b>echo</b> through the empty hall long after she had finished speaking.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2850</div>
-    <div class="vm-head"><span class="vm-word">eclipse</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">eclipse</span><span class="vm-phonetic">/ɪˈklɪps/</span></div>
     <div class="vm-meaning">n. 日食/月食 v. 使黯然失色</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊克利普斯」—— ec（出）+ lipse（离开）→ 光芒离开 → 日食月食</div>
-    <div class="vm-example">The word <b>eclipse</b> is important for IELTS.</div>
+    <div class="vm-example">A total solar <b>eclipse</b> will be visible across the region next month.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2851</div>
-    <div class="vm-head"><span class="vm-word">ecology</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">ecology</span><span class="vm-phonetic">/iːˈkɒlədʒi/</span></div>
     <div class="vm-meaning">n. 生态学</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊考乐G」—— eco（家、环境）+ logy（学）→ 研究环境的学问 → 生态学</div>
-    <div class="vm-example">The word <b>ecology</b> is important for IELTS.</div>
+    <div class="vm-example">The study of <b>ecology</b> examines how living organisms interact with their environment.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2852</div>
-    <div class="vm-head"><span class="vm-word">economic</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">economic</span><span class="vm-phonetic">/ˌiːkəˈnɒmɪk/</span></div>
     <div class="vm-meaning">adj. 经济的，经济学的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊克闹米克」—— eco（家）+ nomic（管理）→ 管理家务 → 经济的</div>
-    <div class="vm-example">The word <b>economic</b> is important for IELTS.</div>
+    <div class="vm-example">The pandemic triggered the worst <b>economic</b> recession since the 1930s.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2853</div>
-    <div class="vm-head"><span class="vm-word">economical</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">economical</span><span class="vm-phonetic">/ˌiːkəˈnɒmɪkəl/</span></div>
     <div class="vm-meaning">adj. 节约的，经济的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊克闹米扣」—— 注意：economic 是"经济的"，economical 是"节约的"</div>
-    <div class="vm-example">The word <b>economical</b> is important for IELTS.</div>
+    <div class="vm-example">Buying in bulk is more <b>economical</b> than purchasing individual items.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2854</div>
-    <div class="vm-head"><span class="vm-word">economics</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">economics</span><span class="vm-phonetic">/ˌiːkəˈnɒmɪks/</span></div>
     <div class="vm-meaning">n. 经济学</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊克闹米克斯」—— economic（经济的）+ s → 经济学</div>
-    <div class="vm-example">The word <b>economics</b> is important for IELTS.</div>
+    <div class="vm-example">She is studying <b>economics</b> at university, with a particular interest in developing countries.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2855</div>
-    <div class="vm-head"><span class="vm-word">economize</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">economize</span><span class="vm-phonetic">/ɪˈkɒnəmaɪz/</span></div>
     <div class="vm-meaning">v. 节约，节省</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊康诺麦兹」—— economy（经济）+ ize（使…）→ 节约</div>
-    <div class="vm-example">The word <b>economize</b> is important for IELTS.</div>
+    <div class="vm-example">During the recession, families had to <b>economize</b> by cutting back on non-essential spending.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2856</div>
-    <div class="vm-head"><span class="vm-word">ecstasy</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">ecstasy</span><span class="vm-phonetic">/ˈekstəsi/</span></div>
     <div class="vm-meaning">n. 狂喜，入迷</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾克斯特C」—— ec（出）+ stasy（站立）→ 灵魂出窍 → 狂喜</div>
-    <div class="vm-example">The word <b>ecstasy</b> is important for IELTS.</div>
+    <div class="vm-example">The audience was in <b>ecstasy</b> as the legendary band took the stage after twenty years.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2857</div>
-    <div class="vm-head"><span class="vm-word">edge</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">edge</span><span class="vm-phonetic">/edʒ/</span></div>
     <div class="vm-meaning">n. 边缘，刀刃</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾之」—— edge → on the edge of（在…的边缘），刀刃般锋利</div>
-    <div class="vm-example">The word <b>edge</b> is important for IELTS.</div>
+    <div class="vm-example">The company's innovative approach gives it a competitive <b>edge</b> in the market.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2858</div>
-    <div class="vm-head"><span class="vm-word">edition</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">edition</span><span class="vm-phonetic">/ɪˈdɪʃən/</span></div>
     <div class="vm-meaning">n. 版本，版次</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊迪神」—— edit（编辑）+ ion → 编辑出来的 → 版本</div>
-    <div class="vm-example">The word <b>edition</b> is important for IELTS.</div>
+    <div class="vm-example">The latest <b>edition</b> of the textbook includes updated case studies and statistics.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2859</div>
-    <div class="vm-head"><span class="vm-word">education</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">education</span><span class="vm-phonetic">/ˌedʒʊˈkeɪʃən/</span></div>
     <div class="vm-meaning">n. 教育</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾就K神」—— educate（教育）+ ion → 教育</div>
-    <div class="vm-example">The word <b>education</b> is important for IELTS.</div>
+    <div class="vm-example">Access to quality <b>education</b> is one of the most effective ways to reduce poverty.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2860</div>
-    <div class="vm-head"><span class="vm-word">effective</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">effective</span><span class="vm-phonetic">/ɪˈfektɪv/</span></div>
     <div class="vm-meaning">adj. 有效的，生效的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊菲克体悟」—— effect（效果）+ ive → 有效果的 → 有效的</div>
-    <div class="vm-example">The word <b>effective</b> is important for IELTS.</div>
+    <div class="vm-example">The new drug has proven highly <b>effective</b> in treating the rare disease.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2861</div>
-    <div class="vm-head"><span class="vm-word">effectiveness</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">effectiveness</span><span class="vm-phonetic">/ɪˈfektɪvnəs/</span></div>
     <div class="vm-meaning">n. 有效性，效力</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊菲克体悟内斯」—— effective（有效的）+ ness → 有效性</div>
-    <div class="vm-example">The word <b>effectiveness</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>effectiveness</b> of the training programme was measured through employee performance reviews.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2862</div>
-    <div class="vm-head"><span class="vm-word">efficiency</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">efficiency</span><span class="vm-phonetic">/ɪˈfɪʃənsi/</span></div>
     <div class="vm-meaning">n. 效率，效能</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊菲神C」—— efficient 的名词形式，efficiency 是效率</div>
-    <div class="vm-example">The word <b>efficiency</b> is important for IELTS.</div>
+    <div class="vm-example">Improving energy <b>efficiency</b> is one of the cheapest ways to reduce carbon emissions.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2863</div>
-    <div class="vm-head"><span class="vm-word">efficient</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">efficient</span><span class="vm-phonetic">/ɪˈfɪʃənt/</span></div>
     <div class="vm-meaning">adj. 高效的，有效率的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊菲神特」—— 注意区分：effective（有效果的） vs efficient（高效率的）</div>
-    <div class="vm-example">The word <b>efficient</b> is important for IELTS.</div>
+    <div class="vm-example">The new heating system is far more <b>efficient</b> than the old one, cutting energy bills by forty percent.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2864</div>
-    <div class="vm-head"><span class="vm-word">effort</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">effort</span><span class="vm-phonetic">/ˈefərt/</span></div>
     <div class="vm-meaning">n. 努力，尽力</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾佛特」—— ef（出）+ fort（力量）→ 出力 → 努力</div>
-    <div class="vm-example">The word <b>effort</b> is important for IELTS.</div>
+    <div class="vm-example">The project required a massive collective <b>effort</b> from everyone involved.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2865</div>
-    <div class="vm-head"><span class="vm-word">eject</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">eject</span><span class="vm-phonetic">/ɪˈdʒekt/</span></div>
     <div class="vm-meaning">v. 弹出，驱逐</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊杰克特」—— e（出）+ ject（扔）→ 扔出去 → 弹出、驱逐</div>
-    <div class="vm-example">The word <b>eject</b> is important for IELTS.</div>
+    <div class="vm-example">The pilot was forced to <b>eject</b> from the aircraft moments before it crashed.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2866</div>
-    <div class="vm-head"><span class="vm-word">elaboration</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elaboration</span><span class="vm-phonetic">/ɪˌlæbəˈreɪʃən/</span></div>
     <div class="vm-meaning">n. 详细阐述，精心制作</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来博瑞神」—— elaborate（详细阐述）+ ion → 详细阐述</div>
-    <div class="vm-example">The word <b>elaboration</b> is important for IELTS.</div>
+    <div class="vm-example">The professor provided a detailed <b>elaboration</b> of her theory in the subsequent lecture.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2867</div>
-    <div class="vm-head"><span class="vm-word">elapse</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elapse</span><span class="vm-phonetic">/ɪˈlæps/</span></div>
     <div class="vm-meaning">vi. 流逝，过去</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来普斯」—— e（出）+ lapse（滑落）→ 滑出 → 流逝</div>
-    <div class="vm-example">The word <b>elapse</b> is important for IELTS.</div>
+    <div class="vm-example">Several months <b>elapse</b>d before the committee made its final decision.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2868</div>
-    <div class="vm-head"><span class="vm-word">elastic</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elastic</span><span class="vm-phonetic">/ɪˈlæstɪk/</span></div>
     <div class="vm-meaning">adj. 有弹性的 n. 松紧带</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来斯体克」—— elastic → 橡皮筋般有弹性，经济学术语 elastic demand（弹性需求）</div>
-    <div class="vm-example">The word <b>elastic</b> is important for IELTS.</div>
+    <div class="vm-example">The waistband is made of <b>elastic</b> material to ensure a comfortable fit.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2869</div>
-    <div class="vm-head"><span class="vm-word">elasticity</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elasticity</span><span class="vm-phonetic">/ˌiːlæˈstɪsəti/</span></div>
     <div class="vm-meaning">n. 弹性，灵活性</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来斯体C体」—— elastic（弹性的）+ ity → 弹性</div>
-    <div class="vm-example">The word <b>elasticity</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>elasticity</b> of demand measures how sensitive consumers are to price changes.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2870</div>
-    <div class="vm-head"><span class="vm-word">elbow</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elbow</span><span class="vm-phonetic">/ˈelbəʊ/</span></div>
     <div class="vm-meaning">n. 肘部</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾欧波」—— el（=ell 前臂长度）+ bow（弯曲）→ 手臂弯曲处 → 肘</div>
-    <div class="vm-example">The word <b>elbow</b> is important for IELTS.</div>
+    <div class="vm-example">She accidentally bumped her <b>elbow</b> against the door frame and winced in pain.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2871</div>
-    <div class="vm-head"><span class="vm-word">election</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">election</span><span class="vm-phonetic">/ɪˈlekʃən/</span></div>
     <div class="vm-meaning">n. 选举，当选</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来克神」—— elect（选举）+ ion → 选举</div>
-    <div class="vm-example">The word <b>election</b> is important for IELTS.</div>
+    <div class="vm-example">The presidential <b>election</b> attracted the highest voter turnout in the nation's history.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2872</div>
-    <div class="vm-head"><span class="vm-word">electrical</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">electrical</span><span class="vm-phonetic">/ɪˈlektrɪkəl/</span></div>
     <div class="vm-meaning">adj. 电的，与电有关的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来克吹扣」—— 注意：electric 是"用电的"，electrical 是"与电相关的"</div>
-    <div class="vm-example">The word <b>electrical</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>electrical</b> storm caused power outages across the entire region.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2873</div>
-    <div class="vm-head"><span class="vm-word">electrician</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">electrician</span><span class="vm-phonetic">/ɪˌlekˈtrɪʃən/</span></div>
     <div class="vm-meaning">n. 电工，电气技师</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来克吹神」—— electric（电）+ ian（人）→ 搞电的人 → 电工</div>
-    <div class="vm-example">The word <b>electrician</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>electrician</b> rewired the entire house to meet modern safety standards.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2874</div>
-    <div class="vm-head"><span class="vm-word">electron</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">electron</span><span class="vm-phonetic">/ɪˈlektrɒn/</span></div>
     <div class="vm-meaning">n. 电子</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来克创」—— electr（电）+ on（小粒子）→ 电子</div>
-    <div class="vm-example">The word <b>electron</b> is important for IELTS.</div>
+    <div class="vm-example">An <b>electron</b> microscope can magnify objects up to two million times their actual size.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2875</div>
-    <div class="vm-head"><span class="vm-word">electronic</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">electronic</span><span class="vm-phonetic">/ɪˌlekˈtrɒnɪk/</span></div>
     <div class="vm-meaning">adj. 电子的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来克创尼克」—— electron（电子）+ ic → 电子的</div>
-    <div class="vm-example">The word <b>electronic</b> is important for IELTS.</div>
+    <div class="vm-example"><b>Electronic</b> waste is one of the fastest growing environmental problems worldwide.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2876</div>
-    <div class="vm-head"><span class="vm-word">electronics</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">electronics</span><span class="vm-phonetic">/ɪˌlekˈtrɒnɪks/</span></div>
     <div class="vm-meaning">n. 电子学，电子设备</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊来克创尼克斯」—— electronic（电子的）+ s → 电子学</div>
-    <div class="vm-example">The word <b>electronics</b> is important for IELTS.</div>
+    <div class="vm-example">The consumer <b>electronics</b> industry releases new products at an astonishing pace.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2877</div>
-    <div class="vm-head"><span class="vm-word">elegance</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elegance</span><span class="vm-phonetic">/ˈelɪɡəns/</span></div>
     <div class="vm-meaning">n. 优雅，典雅</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾利根斯」—— elegant（优雅的）的名词形式 → elegance</div>
-    <div class="vm-example">The word <b>elegance</b> is important for IELTS.</div>
+    <div class="vm-example">The designer's collection was admired for its simplicity and timeless <b>elegance</b>.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2878</div>
-    <div class="vm-head"><span class="vm-word">elegant</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elegant</span><span class="vm-phonetic">/ˈelɪɡənt/</span></div>
     <div class="vm-meaning">adj. 优雅的，精致的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾利根特」—— e（出）+ leg（选择）+ ant → 精挑细选出来的 → 优雅的</div>
-    <div class="vm-example">The word <b>elegant</b> is important for IELTS.</div>
+    <div class="vm-example">She wore an <b>elegant</b> dress to the awards ceremony that evening.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2879</div>
-    <div class="vm-head"><span class="vm-word">elementary</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elementary</span><span class="vm-phonetic">/ˌelɪˈmentəri/</span></div>
     <div class="vm-meaning">adj. 基本的，初级的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾利门吹」—— element（元素）+ ary → 基本元素的 → 初级的</div>
-    <div class="vm-example">The word <b>elementary</b> is important for IELTS.</div>
+    <div class="vm-example">The book provides an <b>elementary</b> introduction to the principles of quantum physics.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2880</div>
-    <div class="vm-head"><span class="vm-word">elevate</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elevate</span><span class="vm-phonetic">/ˈelɪveɪt/</span></div>
     <div class="vm-meaning">vt. 提升，举起</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾利威特」—— e（出）+ lev（轻、举）+ ate → 举起来 → 提升</div>
-    <div class="vm-example">The word <b>elevate</b> is important for IELTS.</div>
+    <div class="vm-example">The platform will <b>elevate</b> the speaker so the entire audience can see her clearly.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2881</div>
-    <div class="vm-head"><span class="vm-word">elevation</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elevation</span><span class="vm-phonetic">/ˌelɪˈveɪʃən/</span></div>
     <div class="vm-meaning">n. 高度，海拔</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾利威神」—— elevate（提升）+ ion → 高度、海拔</div>
-    <div class="vm-example">The word <b>elevation</b> is important for IELTS.</div>
+    <div class="vm-example">The town is situated at an <b>elevation</b> of over two thousand metres above sea level.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2882</div>
-    <div class="vm-head"><span class="vm-word">elevator</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elevator</span><span class="vm-phonetic">/ˈelɪveɪtər/</span></div>
     <div class="vm-meaning">n. 电梯</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾利威特」—— elevate（提升）+ or（物）→ 提升人的东西 → 电梯</div>
-    <div class="vm-example">The word <b>elevator</b> is important for IELTS.</div>
+    <div class="vm-example">The office <b>elevator</b> was out of order, forcing everyone to take the stairs.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2883</div>
-    <div class="vm-head"><span class="vm-word">elimination</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elimination</span><span class="vm-phonetic">/ɪˌlɪmɪˈneɪʃən/</span></div>
     <div class="vm-meaning">n. 淘汰，消除</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊利米内神」—— eliminate（淘汰）+ ion → 淘汰</div>
-    <div class="vm-example">The word <b>elimination</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>elimination</b> of single-use plastics has become a key environmental priority.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2884</div>
-    <div class="vm-head"><span class="vm-word">ellipsis</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">ellipsis</span><span class="vm-phonetic">/ɪˈlɪpsɪs/</span></div>
     <div class="vm-meaning">n. 省略号，省略</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊利普西斯」—— ellipsis → 三个点 "..." 就是省略号</div>
-    <div class="vm-example">The word <b>ellipsis</b> is important for IELTS.</div>
+    <div class="vm-example">The writer used an <b>ellipsis</b> to indicate a pause in the character's speech.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2885</div>
-    <div class="vm-head"><span class="vm-word">elliptical</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elliptical</span><span class="vm-phonetic">/ɪˈlɪptɪkəl/</span></div>
     <div class="vm-meaning">adj. 椭圆的，省略的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊利普体扣」—— ellipse（椭圆）+ tical → 椭圆的</div>
-    <div class="vm-example">The word <b>elliptical</b> is important for IELTS.</div>
+    <div class="vm-example">The planet follows an <b>elliptical</b> orbit around the sun rather than a perfect circle.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2886</div>
-    <div class="vm-head"><span class="vm-word">elusive</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">elusive</span><span class="vm-phonetic">/ɪˈluːsɪv/</span></div>
     <div class="vm-meaning">adj. 难以捉摸的，难懂的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊路C无」—— e（出）+ lus（玩）+ ive → 玩出去的 → 难以捉摸的</div>
-    <div class="vm-example">The word <b>elusive</b> is important for IELTS.</div>
+    <div class="vm-example">A cure for Alzheimer's disease remains <b>elusive</b> despite decades of research.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2887</div>
-    <div class="vm-head"><span class="vm-word">emancipate</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">emancipate</span><span class="vm-phonetic">/ɪˈmænsɪpeɪt/</span></div>
     <div class="vm-meaning">vt. 解放，使自由</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊曼C佩特」—— e（出）+ man（手）+ cip（拿）+ ate → 把手拿出 → 解放</div>
-    <div class="vm-example">The word <b>emancipate</b> is important for IELTS.</div>
+    <div class="vm-example">The law was passed to <b>emancipate</b> slaves and grant them full citizenship rights.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2888</div>
-    <div class="vm-head"><span class="vm-word">emancipation</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">emancipation</span><span class="vm-phonetic">/ɪˌmænsɪˈpeɪʃən/</span></div>
     <div class="vm-meaning">n. 解放，释放</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊曼C佩神」—— emancipate（解放）+ ion → 解放</div>
-    <div class="vm-example">The word <b>emancipation</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>emancipation</b> of women in the workplace remains an ongoing struggle in many societies.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2889</div>
-    <div class="vm-head"><span class="vm-word">embarrass</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embarrass</span><span class="vm-phonetic">/ɪmˈbærəs/</span></div>
     <div class="vm-meaning">vt. 使尴尬，使难堪</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊姆拜若斯」—— em（使）+ barrass（障碍）→ 使困在障碍里 → 使尴尬</div>
-    <div class="vm-example">The word <b>embarrass</b> is important for IELTS.</div>
+    <div class="vm-example">He did not want to <b>embarrass</b> his daughter by singing loudly at her graduation.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2890</div>
-    <div class="vm-head"><span class="vm-word">embassy</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embassy</span><span class="vm-phonetic">/ˈembəsi/</span></div>
     <div class="vm-meaning">n. 大使馆</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「恩波C」—— embassy → 和 ambassador（大使）同源</div>
-    <div class="vm-example">The word <b>embassy</b> is important for IELTS.</div>
+    <div class="vm-example">Protesters gathered outside the <b>embassy</b> demanding political asylum.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2891</div>
-    <div class="vm-head"><span class="vm-word">embed</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embed</span><span class="vm-phonetic">/ɪmˈbed/</span></div>
     <div class="vm-meaning">vt. 嵌入，植入</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊姆白的」—— em（使进入）+ bed（床/层）→ 嵌入到层里 → 嵌入</div>
-    <div class="vm-example">The word <b>embed</b> is important for IELTS.</div>
+    <div class="vm-example">The journalist managed to <b>embed</b> herself with the military unit for frontline reporting.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2892</div>
-    <div class="vm-head"><span class="vm-word">embody</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embody</span><span class="vm-phonetic">/ɪmˈbɒdi/</span></div>
     <div class="vm-meaning">vt. 体现，具体表现</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊姆包迪」—— em（使）+ body（身体）→ 使有身体 → 体现</div>
-    <div class="vm-example">The word <b>embody</b> is important for IELTS.</div>
+    <div class="vm-example">The new constitution <b>embodies</b> the ideals of equality and justice for all citizens.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2893</div>
-    <div class="vm-head"><span class="vm-word">embrace</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embrace</span><span class="vm-phonetic">/ɪmˈbreɪs/</span></div>
     <div class="vm-meaning">v. 拥抱，包含</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊姆布瑞斯」—— em（进入）+ brace（手臂）→ 进入手臂中 → 拥抱</div>
-    <div class="vm-example">The word <b>embrace</b> is important for IELTS.</div>
+    <div class="vm-example">Companies need to <b>embrace</b> digital transformation to remain competitive.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2894</div>
-    <div class="vm-head"><span class="vm-word">embroider</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embroider</span><span class="vm-phonetic">/ɪmˈbrɔɪdər/</span></div>
     <div class="vm-meaning">v. 刺绣，润色</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊姆波伊德」—— em（使）+ broider（刺绣）→ 刺绣</div>
-    <div class="vm-example">The word <b>embroider</b> is important for IELTS.</div>
+    <div class="vm-example">She spent months learning to <b>embroider</b> intricate floral patterns onto the cushion covers.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2895</div>
-    <div class="vm-head"><span class="vm-word">embroidery</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">embroidery</span><span class="vm-phonetic">/ɪmˈbrɔɪdəri/</span></div>
     <div class="vm-meaning">n. 刺绣品，刺绣</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊姆波伊德瑞」—— embroider（刺绣）+ y → 刺绣品</div>
-    <div class="vm-example">The word <b>embroidery</b> is important for IELTS.</div>
+    <div class="vm-example">The traditional Chinese <b>embroidery</b> on the silk robe was breathtakingly beautiful.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2896</div>
-    <div class="vm-head"><span class="vm-word">emigrant</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">emigrant</span><span class="vm-phonetic">/ˈemɪɡrənt/</span></div>
     <div class="vm-meaning">n. 移民（移出者）</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾米格润特」—— e（出）+ migrant（迁移者）→ 移出去的人 → 移民（出）</div>
-    <div class="vm-example">The word <b>emigrant</b> is important for IELTS.</div>
+    <div class="vm-example">My great-grandfather was an <b>emigrant</b> who left Ireland during the potato famine.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2897</div>
-    <div class="vm-head"><span class="vm-word">emigrate</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">emigrate</span><span class="vm-phonetic">/ˈemɪɡreɪt/</span></div>
     <div class="vm-meaning">vi. 移居国外</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾米格瑞特」—— e（出）+ migrate（迁移）→ 迁出 → 移居国外</div>
-    <div class="vm-example">The word <b>emigrate</b> is important for IELTS.</div>
+    <div class="vm-example">Many young professionals choose to <b>emigrate</b> in search of better career opportunities.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2898</div>
-    <div class="vm-head"><span class="vm-word">eminent</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">eminent</span><span class="vm-phonetic">/ˈemɪnənt/</span></div>
     <div class="vm-meaning">adj. 杰出的，卓越的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「艾米能特」—— e（出）+ min（突出）+ ent → 突出的 → 杰出的</div>
-    <div class="vm-example">The word <b>eminent</b> is important for IELTS.</div>
+    <div class="vm-example">She is an <b>eminent</b> scholar whose work has shaped modern linguistic theory.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2899</div>
-    <div class="vm-head"><span class="vm-word">emit</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">emit</span><span class="vm-phonetic">/ɪˈmɪt/</span></div>
     <div class="vm-meaning">vt. 散发，排放</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊米特」—— e（出）+ mit（送）→ 送出去 → 散发、排放</div>
-    <div class="vm-example">The word <b>emit</b> is important for IELTS.</div>
+    <div class="vm-example">Factory chimneys <b>emit</b> large quantities of greenhouse gases every day.</div>
   </div>
 
   <div class="vm-word-card">
     <div class="vm-num">#2900</div>
-    <div class="vm-head"><span class="vm-word">emotion</span><span class="vm-phonetic"></span></div>
+    <div class="vm-head"><span class="vm-word">emotion</span><span class="vm-phonetic">/ɪˈməʊʃən/</span></div>
     <div class="vm-meaning">n. 情绪，情感</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「伊某神」—— e（出）+ motion（动）→ 内心涌动出来的 → 情感</div>
-    <div class="vm-example">The word <b>emotion</b> is important for IELTS.</div>
+    <div class="vm-example">Music has the power to evoke deep <b>emotion</b> in even the most reserved listener.</div>
   </div>
 
 </div>

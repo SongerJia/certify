@@ -9,7 +9,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 公司；陪伴；连队（军队）</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普尼 — 康（大家）普（普遍）尼（你的）公司/陪伴」—— </div>
-    <div class="vm-example">The word <b>company</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>company</b> announced plans to expand into Asian markets next year.</div>
   </div>
 
   <div class="vm-word-card">
@@ -18,7 +18,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 可比较的，比得上的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普若波 — 康普（普遍）若（如果）波（可比）较的话」—— </div>
-    <div class="vm-example">The word <b>comparable</b> is important for IELTS.</div>
+    <div class="vm-example">The two products are of <b>comparable</b> quality but differ significantly in price.</div>
   </div>
 
   <div class="vm-word-card">
@@ -27,7 +27,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 比较的，相对的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康派若提夫 — 康派（派系）若提夫（比较）分析」—— </div>
-    <div class="vm-example">The word <b>comparative</b> is important for IELTS.</div>
+    <div class="vm-example">A <b>comparative</b> analysis of the two systems revealed important differences.</div>
   </div>
 
   <div class="vm-word-card">
@@ -36,7 +36,7 @@ title: 单词本_25
     <div class="vm-meaning">adv. 比较地，相对地</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康派若提夫里 — 康派若提（比较地）说，相对而言」—— </div>
-    <div class="vm-example">The word <b>comparatively</b> is important for IELTS.</div>
+    <div class="vm-example">The new model is <b>comparatively</b> more expensive but offers better features.</div>
   </div>
 
   <div class="vm-word-card">
@@ -45,7 +45,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 比较，对比</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康派尔 — 康（一起）派尔（放在一起）比较」—— </div>
-    <div class="vm-example">The word <b>compare</b> is important for IELTS.</div>
+    <div class="vm-example">It is unfair to <b>compare</b> the education systems of two such different countries.</div>
   </div>
 
   <div class="vm-word-card">
@@ -54,7 +54,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 指南针；圆规；范围</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普斯 — 康（方向）普斯（普遍）需要指南针」—— </div>
-    <div class="vm-example">The word <b>compass</b> is important for IELTS.</div>
+    <div class="vm-example">The explorer relied on a magnetic <b>compass</b> to navigate through the dense jungle.</div>
   </div>
 
   <div class="vm-word-card">
@@ -63,7 +63,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 同情，怜悯</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康派神 — 康（健康）派（派遣）神（般的同情心）」—— </div>
-    <div class="vm-example">The word <b>compassion</b> is important for IELTS.</div>
+    <div class="vm-example">The nurse treated every patient with genuine <b>compassion</b> and respect.</div>
   </div>
 
   <div class="vm-word-card">
@@ -72,7 +72,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 强迫，迫使</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佩欧 — 康（健康）佩欧（被迫）服从」—— </div>
-    <div class="vm-example">The word <b>compel</b> is important for IELTS.</div>
+    <div class="vm-example">The evidence was so overwhelming that it would <b>compel</b> any jury to convict.</div>
   </div>
 
   <div class="vm-word-card">
@@ -81,7 +81,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 补偿，赔偿；薪酬</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康潘赛神 — 康潘（赔偿）赛神（比赛一样的补偿金）」—— </div>
-    <div class="vm-example">The word <b>compensation</b> is important for IELTS.</div>
+    <div class="vm-example">Workers are demanding fair <b>compensation</b> for the overtime they put in.</div>
   </div>
 
   <div class="vm-word-card">
@@ -90,7 +90,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 竞争，比赛</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康匹特 — 康（一起）匹特（比拼）竞争」—— </div>
-    <div class="vm-example">The word <b>compete</b> is important for IELTS.</div>
+    <div class="vm-example">Small businesses struggle to <b>compete</b> against large multinational corporations.</div>
   </div>
 
   <div class="vm-word-card">
@@ -99,7 +99,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 有能力的，胜任的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康匹腾特 — 康匹腾（有能力）特（特别）胜任」—— </div>
-    <div class="vm-example">The word <b>competent</b> is important for IELTS.</div>
+    <div class="vm-example">A <b>competent</b> manager should be able to handle conflicts within the team.</div>
   </div>
 
   <div class="vm-word-card">
@@ -108,7 +108,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 竞争；比赛</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康匹提神 — 康匹提（比拼）神（激烈的）竞争」—— </div>
-    <div class="vm-example">The word <b>competition</b> is important for IELTS.</div>
+    <div class="vm-example">Fierce <b>competition</b> in the smartphone market drives continuous innovation.</div>
   </div>
 
   <div class="vm-word-card">
@@ -117,7 +117,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 竞争的，有竞争力的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佩特提夫 — 康佩特（竞争）提夫（有竞争力的）」—— </div>
-    <div class="vm-example">The word <b>competitive</b> is important for IELTS.</div>
+    <div class="vm-example">Athletes train for years to stay <b>competitive</b> at the international level.</div>
   </div>
 
   <div class="vm-word-card">
@@ -126,7 +126,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 竞争力</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佩特提夫尼斯 — 康佩特提夫（竞争力）尼斯（衡量标准）」—— </div>
-    <div class="vm-example">The word <b>competitiveness</b> is important for IELTS.</div>
+    <div class="vm-example">Innovation is key to maintaining <b>competitiveness</b> in the global marketplace.</div>
   </div>
 
   <div class="vm-word-card">
@@ -135,7 +135,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 竞争者，对手</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佩提特 — 康佩提（比拼）特（特别）厉害的对手」—— </div>
-    <div class="vm-example">The word <b>competitor</b> is important for IELTS.</div>
+    <div class="vm-example">The company's main <b>competitor</b> launched a similar product at a lower price.</div>
   </div>
 
   <div class="vm-word-card">
@@ -144,7 +144,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 抱怨，投诉</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普雷恩 — 康普（普遍）雷恩（抱怨）声一片」—— </div>
-    <div class="vm-example">The word <b>complain</b> is important for IELTS.</div>
+    <div class="vm-example">Customers frequently <b>complain</b> about the slow delivery times during peak season.</div>
   </div>
 
   <div class="vm-word-card">
@@ -153,7 +153,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 抱怨；投诉</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普雷恩特 — 康普雷恩（抱怨）特（特别）多的投诉」—— </div>
-    <div class="vm-example">The word <b>complaint</b> is important for IELTS.</div>
+    <div class="vm-example">The manager addressed every customer <b>complaint</b> promptly and professionally.</div>
   </div>
 
   <div class="vm-word-card">
@@ -162,7 +162,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 复杂性，复杂程度</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普莱克色提 — 康普莱克（复杂）色提（程度高）」—— </div>
-    <div class="vm-example">The word <b>complexity</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>complexity</b> of the tax system makes it hard for ordinary people to comply.</div>
   </div>
 
   <div class="vm-word-card">
@@ -171,7 +171,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 服从，遵守；合规</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普莱恩斯 — 康普莱（遵守）恩斯（规矩）」—— </div>
-    <div class="vm-example">The word <b>compliance</b> is important for IELTS.</div>
+    <div class="vm-example">All staff must complete training to ensure <b>compliance</b> with safety regulations.</div>
   </div>
 
   <div class="vm-word-card">
@@ -180,7 +180,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 复杂的，难懂的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普里K提的 — 康普（普遍）里K（里面）提的（问题很复杂）」—— </div>
-    <div class="vm-example">The word <b>complicated</b> is important for IELTS.</div>
+    <div class="vm-example">The tax system has become increasingly <b>complicated</b> over the years.</div>
   </div>
 
   <div class="vm-word-card">
@@ -189,7 +189,7 @@ title: 单词本_25
     <div class="vm-meaning">n./v. 赞美，恭维（≠complement补充）</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普里门特 — 康普（经常）里门特（特别）赞美别人」—— </div>
-    <div class="vm-example">The word <b>compliment</b> is important for IELTS.</div>
+    <div class="vm-example">She received a warm <b>compliment</b> from her boss about the presentation.</div>
   </div>
 
   <div class="vm-word-card">
@@ -198,7 +198,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 赞美的；免费赠送的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普里门吹 — 康普（经常）里门（赞美）吹（捧）兼免费」—— </div>
-    <div class="vm-example">The word <b>complimentary</b> is important for IELTS.</div>
+    <div class="vm-example">The hotel offers a <b>complimentary</b> breakfast to all guests staying overnight.</div>
   </div>
 
   <div class="vm-word-card">
@@ -207,7 +207,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 组成，构成；创作（音乐/文章）；使平静</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普子 — 康普（把东西）子（组合）在一起」—— </div>
-    <div class="vm-example">The word <b>compose</b> is important for IELTS.</div>
+    <div class="vm-example">Mozart began to <b>compose</b> music at the astonishing age of five.</div>
   </div>
 
   <div class="vm-word-card">
@@ -216,7 +216,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 复合的，合成的；n. 复合材料</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普在特 — 康普（把材料）在（一起）特（特别）合成」—— </div>
-    <div class="vm-example">The word <b>composite</b> is important for IELTS.</div>
+    <div class="vm-example">The material is a <b>composite</b> of carbon fibre and lightweight plastic.</div>
   </div>
 
   <div class="vm-word-card">
@@ -225,7 +225,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 组成，构成；作文；作品</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普在神 — 康普（组成）在神（神奇的）作品」—— </div>
-    <div class="vm-example">The word <b>composition</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>composition</b> of the soil affects which plants can grow in that area.</div>
   </div>
 
   <div class="vm-word-card">
@@ -234,7 +234,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 理解，领会</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普瑞汉德 — 康普（普遍）瑞汉德（理解）能力」—— </div>
-    <div class="vm-example">The word <b>comprehend</b> is important for IELTS.</div>
+    <div class="vm-example">It took me several readings to fully <b>comprehend</b> the philosopher's argument.</div>
   </div>
 
   <div class="vm-word-card">
@@ -243,7 +243,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 理解（力）；阅读理解</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普瑞汉神 — 康普（普遍）瑞汉（理解）神（深度）能力」—— </div>
-    <div class="vm-example">The word <b>comprehension</b> is important for IELTS.</div>
+    <div class="vm-example">Reading <b>comprehension</b> is a skill that improves with regular practice.</div>
   </div>
 
   <div class="vm-word-card">
@@ -252,7 +252,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 压缩</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普瑞神 — 康普（把东西）瑞神（压缩）起来」—— </div>
-    <div class="vm-example">The word <b>compression</b> is important for IELTS.</div>
+    <div class="vm-example">Data <b>compression</b> allows large files to be sent quickly over the internet.</div>
   </div>
 
   <div class="vm-word-card">
@@ -261,7 +261,7 @@ title: 单词本_25
     <div class="vm-meaning">n./v. 妥协，折中；危害</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普若麦子 — 康普（双方）若（如果）麦子（妥协）各退一步」—— </div>
-    <div class="vm-example">The word <b>compromise</b> is important for IELTS.</div>
+    <div class="vm-example">Both sides had to make a <b>compromise</b> to reach a final agreement.</div>
   </div>
 
   <div class="vm-word-card">
@@ -270,7 +270,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 计算</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康普优特神 — 康普优特（计算）神（精确）的结果」—— </div>
-    <div class="vm-example">The word <b>computation</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>computation</b> required to simulate the climate model took several weeks.</div>
   </div>
 
   <div class="vm-word-card">
@@ -279,7 +279,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 隐藏，隐瞒</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C欧 — 康（健康）C（see）欧（隐藏）起来」—— </div>
-    <div class="vm-example">The word <b>conceal</b> is important for IELTS.</div>
+    <div class="vm-example">He tried to <b>conceal</b> his disappointment with a forced smile.</div>
   </div>
 
   <div class="vm-word-card">
@@ -288,7 +288,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 自负，自大</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C特 — 康C（自以为）特（特别）厉害就是自负」—— </div>
-    <div class="vm-example">The word <b>conceit</b> is important for IELTS.</div>
+    <div class="vm-example">His <b>conceit</b> made it difficult for him to work collaboratively with others.</div>
   </div>
 
   <div class="vm-word-card">
@@ -297,7 +297,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 自负的，骄傲自大的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C提的 — 康C提（自以为是）的状态就是自负的」—— </div>
-    <div class="vm-example">The word <b>conceited</b> is important for IELTS.</div>
+    <div class="vm-example">She is so <b>conceited</b> that she spends hours admiring herself in the mirror.</div>
   </div>
 
   <div class="vm-word-card">
@@ -306,7 +306,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 概念，观念；怀孕</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康赛普神 — 康赛（构思）普神（概念形成）」—— </div>
-    <div class="vm-example">The word <b>conception</b> is important for IELTS.</div>
+    <div class="vm-example">The project was successful from its initial <b>conception</b> to final delivery.</div>
   </div>
 
   <div class="vm-word-card">
@@ -315,7 +315,7 @@ title: 单词本_25
     <div class="vm-meaning">n./v. 关心，担忧；涉及</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康森 — 康（健康）森（深深）关心」—— </div>
-    <div class="vm-example">The word <b>concern</b> is important for IELTS.</div>
+    <div class="vm-example">Climate change is a growing <b>concern</b> for governments around the world.</div>
   </div>
 
   <div class="vm-word-card">
@@ -324,7 +324,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 音乐会；v. 协调</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康色特 — 康色（各种）特（特别）棒的音乐会」—— </div>
-    <div class="vm-example">The word <b>concert</b> is important for IELTS.</div>
+    <div class="vm-example">The orchestra performed a breathtaking <b>concert</b> at the historic opera house.</div>
   </div>
 
   <div class="vm-word-card">
@@ -333,7 +333,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 协调一致的，共同的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康色提的 — 康（共同）色提（提出）的一致行动」—— </div>
-    <div class="vm-example">The word <b>concerted</b> is important for IELTS.</div>
+    <div class="vm-example">A <b>concerted</b> effort by all nations is needed to tackle climate change effectively.</div>
   </div>
 
   <div class="vm-word-card">
@@ -342,7 +342,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 让步；特许权</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康赛神 — 康赛（比赛）神（让一步）海阔天空」—— </div>
-    <div class="vm-example">The word <b>concession</b> is important for IELTS.</div>
+    <div class="vm-example">The government made a significant <b>concession</b> to the striking workers.</div>
   </div>
 
   <div class="vm-word-card">
@@ -351,7 +351,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 决定性的，结论性的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康克鲁C夫 — 康（结果）克鲁C（决定性）的结论」—— </div>
-    <div class="vm-example">The word <b>conclusive</b> is important for IELTS.</div>
+    <div class="vm-example">The DNA evidence provided <b>conclusive</b> proof of the suspect's involvement.</div>
   </div>
 
   <div class="vm-word-card">
@@ -360,7 +360,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 混凝土；adj. 具体的，实在的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康克里特 — 康（健康）克里（里面）特（特别）结实的混凝土」—— </div>
-    <div class="vm-example">The word <b>concrete</b> is important for IELTS.</div>
+    <div class="vm-example">We need <b>concrete</b> evidence before making such a serious accusation.</div>
   </div>
 
   <div class="vm-word-card">
@@ -369,7 +369,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 谴责；判刑</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康丹姆 — 康丹（当众）姆（严厉）谴责」—— </div>
-    <div class="vm-example">The word <b>condemn</b> is important for IELTS.</div>
+    <div class="vm-example">The international community was quick to <b>condemn</b> the act of aggression.</div>
   </div>
 
   <div class="vm-word-card">
@@ -378,7 +378,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 谴责；定罪</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康丹内神 — 康丹（当众）内神（定罪）谴责」—— </div>
-    <div class="vm-example">The word <b>condemnation</b> is important for IELTS.</div>
+    <div class="vm-example">The act of violence drew widespread <b>condemnation</b> from world leaders.</div>
   </div>
 
   <div class="vm-word-card">
@@ -387,7 +387,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 凝结；浓缩</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康丹赛神 — 康丹（冷凝）赛神（水珠凝结）」—— </div>
-    <div class="vm-example">The word <b>condensation</b> is important for IELTS.</div>
+    <div class="vm-example"><b>Condensation</b> forms on cold windows when warm moist air comes into contact with them.</div>
   </div>
 
   <div class="vm-word-card">
@@ -396,7 +396,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 浓缩；凝结；简缩</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康丹斯 — 康丹（把东西）斯（压缩）浓缩」—— </div>
-    <div class="vm-example">The word <b>condense</b> is important for IELTS.</div>
+    <div class="vm-example">The author was asked to <b>condense</b> the 500-page manuscript into 200 pages.</div>
   </div>
 
   <div class="vm-word-card">
@@ -405,7 +405,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 冷凝器；电容器</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康丹色 — 康丹（冷凝）色（设备）就是冷凝器」—— </div>
-    <div class="vm-example">The word <b>condenser</b> is important for IELTS.</div>
+    <div class="vm-example">The air conditioning unit uses a <b>condenser</b> to convert gas back into liquid.</div>
   </div>
 
   <div class="vm-word-card">
@@ -414,7 +414,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 条件；状况，状态</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康迪神 — 康迪（条件）神（状况）如何？」—— </div>
-    <div class="vm-example">The word <b>condition</b> is important for IELTS.</div>
+    <div class="vm-example">The second-hand car was in excellent <b>condition</b> despite its age.</div>
   </div>
 
   <div class="vm-word-card">
@@ -423,7 +423,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 指挥（音乐）；售票员；导体</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康达克特 — 康达（指导）克特（火车/乐队）的指挥」—— </div>
-    <div class="vm-example">The word <b>conductor</b> is important for IELTS.</div>
+    <div class="vm-example">The train <b>conductor</b> checked every passenger's ticket before departure.</div>
   </div>
 
   <div class="vm-word-card">
@@ -432,7 +432,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 锥体，圆锥形；蛋筒</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「扣嗯 — 扣（锥形）嗯（蛋筒冰淇淋）」—— </div>
-    <div class="vm-example">The word <b>cone</b> is important for IELTS.</div>
+    <div class="vm-example">She ordered an ice cream <b>cone</b> with two scoops of chocolate and vanilla.</div>
   </div>
 
   <div class="vm-word-card">
@@ -441,7 +441,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 会议，大会</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佛润斯 — 康佛（大家）润斯（聚集）开会」—— </div>
-    <div class="vm-example">The word <b>conference</b> is important for IELTS.</div>
+    <div class="vm-example">She presented her research findings at an international <b>conference</b> in Paris.</div>
   </div>
 
   <div class="vm-word-card">
@@ -450,7 +450,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 坦白，承认；忏悔</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佛斯 — 康（当着）佛斯（坦白）忏悔」—— </div>
-    <div class="vm-example">The word <b>confess</b> is important for IELTS.</div>
+    <div class="vm-example">The suspect finally decided to <b>confess</b> to the crime after hours of questioning.</div>
   </div>
 
   <div class="vm-word-card">
@@ -459,7 +459,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 坦白，供认；忏悔</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佛神 — 康佛（坦白）神（真诚）的忏悔」—— </div>
-    <div class="vm-example">The word <b>confession</b> is important for IELTS.</div>
+    <div class="vm-example">His <b>confession</b> to the police came as a shock to everyone who knew him.</div>
   </div>
 
   <div class="vm-word-card">
@@ -468,7 +468,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 吐露（秘密）；信赖</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康范德 — 康范（放心）德（托付）吐露秘密」—— </div>
-    <div class="vm-example">The word <b>confide</b> is important for IELTS.</div>
+    <div class="vm-example">She chose to <b>confide</b> in her closest friend about the personal difficulties she faced.</div>
   </div>
 
   <div class="vm-word-card">
@@ -477,7 +477,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 信心；信任；秘密</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康飞登斯 — 康（健康）飞登（满满）斯（自信心）」—— </div>
-    <div class="vm-example">The word <b>confidence</b> is important for IELTS.</div>
+    <div class="vm-example">Public <b>confidence</b> in the banking system has been severely shaken.</div>
   </div>
 
   <div class="vm-word-card">
@@ -486,7 +486,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 有信心的，自信的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康飞登特 — 康飞登（自信满满）特（特别）从容」—— </div>
-    <div class="vm-example">The word <b>confident</b> is important for IELTS.</div>
+    <div class="vm-example">He felt <b>confident</b> about the exam after weeks of thorough preparation.</div>
   </div>
 
   <div class="vm-word-card">
@@ -495,7 +495,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 机密的，保密的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康飞登秀 — 康飞登（保密）秀（秀出来就麻烦了）」—— </div>
-    <div class="vm-example">The word <b>confidential</b> is important for IELTS.</div>
+    <div class="vm-example">All patient records are strictly <b>confidential</b> and cannot be shared without consent.</div>
   </div>
 
   <div class="vm-word-card">
@@ -504,7 +504,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 监禁，限制</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康范门特 — 康范（范围）门特（特别）受限制」—— </div>
-    <div class="vm-example">The word <b>confinement</b> is important for IELTS.</div>
+    <div class="vm-example">The prisoner was sentenced to solitary <b>confinement</b> for attacking a guard.</div>
   </div>
 
   <div class="vm-word-card">
@@ -513,7 +513,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 确认，证实</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佛美神 — 康佛（确认）美（没问题）神（正式）证实」—— </div>
-    <div class="vm-example">The word <b>confirmation</b> is important for IELTS.</div>
+    <div class="vm-example">We are still waiting for <b>confirmation</b> of the flight reservation.</div>
   </div>
 
   <div class="vm-word-card">
@@ -522,7 +522,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 没收，充公</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康飞斯K特 — 康飞斯（东西）K特（被没收了）」—— </div>
-    <div class="vm-example">The word <b>confiscate</b> is important for IELTS.</div>
+    <div class="vm-example">Customs officers have the right to <b>confiscate</b> any illegal goods at the border.</div>
   </div>
 
   <div class="vm-word-card">
@@ -531,7 +531,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 遵从，一致</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康佛米提 — 康佛（遵守）米提（规矩）保持一致」—— </div>
-    <div class="vm-example">The word <b>conformity</b> is important for IELTS.</div>
+    <div class="vm-example">There is strong social pressure towards <b>conformity</b> in many traditional societies.</div>
   </div>
 
   <div class="vm-word-card">
@@ -540,7 +540,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 对抗，对峙</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康夫让特神 — 康夫（双方面对）让（让对方）特神（对峙）」—— </div>
-    <div class="vm-example">The word <b>confrontation</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>confrontation</b> between police and protesters escalated into violence.</div>
   </div>
 
   <div class="vm-word-card">
@@ -549,7 +549,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 使困惑，混淆</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康夫子 — 康（让你）夫子（糊涂）混淆」—— </div>
-    <div class="vm-example">The word <b>confuse</b> is important for IELTS.</div>
+    <div class="vm-example">The complex instructions only served to <b>confuse</b> the students further.</div>
   </div>
 
   <div class="vm-word-card">
@@ -558,7 +558,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 困惑；混乱</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康夫神 — 康夫（让人）神（困惑）混乱」—— </div>
-    <div class="vm-example">The word <b>confusion</b> is important for IELTS.</div>
+    <div class="vm-example">The sudden change in the timetable caused widespread <b>confusion</b> among passengers.</div>
   </div>
 
   <div class="vm-word-card">
@@ -567,7 +567,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 祝贺，恭喜</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康格瑞球雷神 — 康格（恭喜）瑞（祥瑞）球雷神（祝贺声）」—— </div>
-    <div class="vm-example">The word <b>congratulation</b> is important for IELTS.</div>
+    <div class="vm-example">She received messages of <b>congratulation</b> from colleagues after her promotion.</div>
   </div>
 
   <div class="vm-word-card">
@@ -576,7 +576,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 国会，议会；大会</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康格瑞斯 — 康格（大家）瑞斯（聚集）在国会」—— </div>
-    <div class="vm-example">The word <b>congress</b> is important for IELTS.</div>
+    <div class="vm-example">The bill was passed by <b>Congress</b> with overwhelming bipartisan support.</div>
   </div>
 
   <div class="vm-word-card">
@@ -585,7 +585,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 国会议员（尤指美国众议员）</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康格瑞斯门 — 康格瑞斯（国会）门（人）= 国会议员」—— </div>
-    <div class="vm-example">The word <b>congressman</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>congressman</b> proposed a new bill to improve public healthcare services.</div>
   </div>
 
   <div class="vm-word-card">
@@ -594,7 +594,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 连词；结合，联合</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康章克神 — 康章（连接词）克神（结合）在一起」—— </div>
-    <div class="vm-example">The word <b>conjunction</b> is important for IELTS.</div>
+    <div class="vm-example">The project was completed on time through the <b>conjunction</b> of efforts from all departments.</div>
   </div>
 
   <div class="vm-word-card">
@@ -603,7 +603,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 连接，联系</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「科内克特 — 科（可以）内克特（内部连接）」—— </div>
-    <div class="vm-example">The word <b>connect</b> is important for IELTS.</div>
+    <div class="vm-example">The new railway line will <b>connect</b> the two major cities in under two hours.</div>
   </div>
 
   <div class="vm-word-card">
@@ -612,7 +612,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 连接，联系；关系</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「科内克神 — 科内克（连接）神（紧密的）联系」—— </div>
-    <div class="vm-example">The word <b>connection</b> is important for IELTS.</div>
+    <div class="vm-example">There is a proven <b>connection</b> between smoking and lung cancer.</div>
   </div>
 
   <div class="vm-word-card">
@@ -621,7 +621,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 征服，战胜</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康克 — 康（战胜）克服恐惧，征服一切」—— </div>
-    <div class="vm-example">The word <b>conquer</b> is important for IELTS.</div>
+    <div class="vm-example">Alexander the Great sought to <b>conquer</b> vast territories across three continents.</div>
   </div>
 
   <div class="vm-word-card">
@@ -630,7 +630,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 征服，战胜</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康奎斯特 — 康奎（征服）斯特（历史上）的胜利」—— </div>
-    <div class="vm-example">The word <b>conquest</b> is important for IELTS.</div>
+    <div class="vm-example">The Norman <b>conquest</b> of England in 1066 transformed the country's culture and language.</div>
   </div>
 
   <div class="vm-word-card">
@@ -639,7 +639,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 良知，良心</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康神斯 — 康（良心）神斯（在心中的）道德感」—— </div>
-    <div class="vm-example">The word <b>conscience</b> is important for IELTS.</div>
+    <div class="vm-example">His <b>conscience</b> would not allow him to remain silent about the injustice.</div>
   </div>
 
   <div class="vm-word-card">
@@ -648,7 +648,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 意识，知觉</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康社斯尼斯 — 康社（社会）斯尼斯（意识）形态」—— </div>
-    <div class="vm-example">The word <b>consciousness</b> is important for IELTS.</div>
+    <div class="vm-example">The patient regained <b>consciousness</b> several hours after the surgery.</div>
   </div>
 
   <div class="vm-word-card">
@@ -657,7 +657,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 共识，一致意见</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康森色斯 — 康森（大家）色斯（都同意的）共识」—— </div>
-    <div class="vm-example">The word <b>consensus</b> is important for IELTS.</div>
+    <div class="vm-example">There is a growing <b>consensus</b> among scientists about the causes of climate change.</div>
   </div>
 
   <div class="vm-word-card">
@@ -666,7 +666,7 @@ title: 单词本_25
     <div class="vm-meaning">adv. 因此，所以</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C昆特里 — 康C昆（结果）特里（因此）得出的结论」—— </div>
-    <div class="vm-example">The word <b>consequently</b> is important for IELTS.</div>
+    <div class="vm-example">The company lost its biggest client; <b>consequently</b>, profits fell sharply.</div>
   </div>
 
   <div class="vm-word-card">
@@ -675,7 +675,7 @@ title: 单词本_25
     <div class="vm-meaning">adv. 相当地，十分地</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C德若布里 — 康C德若（考虑）布里（相当）多地」—— </div>
-    <div class="vm-example">The word <b>considerably</b> is important for IELTS.</div>
+    <div class="vm-example">The price of housing has risen <b>considerably</b> in the past five years.</div>
   </div>
 
   <div class="vm-word-card">
@@ -684,7 +684,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 体贴的，考虑周到的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C德若特 — 康C德（考虑）若（别人）特（特别）体贴」—— </div>
-    <div class="vm-example">The word <b>considerate</b> is important for IELTS.</div>
+    <div class="vm-example">It was very <b>considerate</b> of you to bring food for everyone at the meeting.</div>
   </div>
 
   <div class="vm-word-card">
@@ -693,7 +693,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 考虑，思考；体贴</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C德瑞神 — 康C德瑞（仔细）神（思考）各种因素」—— </div>
-    <div class="vm-example">The word <b>consideration</b> is important for IELTS.</div>
+    <div class="vm-example">After careful <b>consideration</b>, the committee decided to approve the proposal.</div>
   </div>
 
   <div class="vm-word-card">
@@ -702,7 +702,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 交付，托付；托运</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康赛恩 — 康赛（把东西）恩（交付）出去」—— </div>
-    <div class="vm-example">The word <b>consign</b> is important for IELTS.</div>
+    <div class="vm-example">Old newspapers are <b>consign</b>ed to the recycling bin every week.</div>
   </div>
 
   <div class="vm-word-card">
@@ -711,7 +711,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 一致性，连贯性；浓度</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康C斯腾C — 康C斯腾（保持）C（一致性）很重要」—— </div>
-    <div class="vm-example">The word <b>consistency</b> is important for IELTS.</div>
+    <div class="vm-example"><b>Consistency</b> is the key to success when learning a new language.</div>
   </div>
 
   <div class="vm-word-card">
@@ -720,7 +720,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 安慰；n. 控制台，操控面板</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康搜 — 康（安慰）搜（一搜）控制台」—— </div>
-    <div class="vm-example">The word <b>console</b> is important for IELTS.</div>
+    <div class="vm-example">She tried to <b>console</b> her crying child after the playground accident.</div>
   </div>
 
   <div class="vm-word-card">
@@ -729,7 +729,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 辅音；adj. 一致的，协调的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康色能特 — 康色（发音）能（辅音）特（区别于元音）」—— </div>
-    <div class="vm-example">The word <b>consonant</b> is important for IELTS.</div>
+    <div class="vm-example">The plan is <b>consonant</b> with the company's long-term strategic goals.</div>
   </div>
 
   <div class="vm-word-card">
@@ -738,7 +738,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 阴谋，共谋</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康斯比若西 — 康斯（一起）比若（阴谋）西西（秘密勾当）」—— </div>
-    <div class="vm-example">The word <b>conspiracy</b> is important for IELTS.</div>
+    <div class="vm-example">Several officials were arrested for their involvement in the <b>conspiracy</b> to overthrow the government.</div>
   </div>
 
   <div class="vm-word-card">
@@ -747,7 +747,7 @@ title: 单词本_25
     <div class="vm-meaning">adv. 不断地，经常地</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康斯腾特里 — 康斯腾（稳定）特（持续）不断地发生」—— </div>
-    <div class="vm-example">The word <b>constantly</b> is important for IELTS.</div>
+    <div class="vm-example">Technology is <b>constantly</b> evolving and reshaping the way we live and work.</div>
   </div>
 
   <div class="vm-word-card">
@@ -756,7 +756,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 选民；成分；adj. 组成的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康斯提球恩特 — 康斯提（选民）球恩特（组成的）成分」—— </div>
-    <div class="vm-example">The word <b>constituent</b> is important for IELTS.</div>
+    <div class="vm-example">Hydrogen and oxygen are the <b>constituent</b> elements of water.</div>
   </div>
 
   <div class="vm-word-card">
@@ -765,7 +765,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 限制，约束</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康斯坠恩特 — 康斯（被）坠恩特（限制住）了」—— </div>
-    <div class="vm-example">The word <b>constraint</b> is important for IELTS.</div>
+    <div class="vm-example">Budget <b>constraint</b>s forced the team to scale back the original project plan.</div>
   </div>
 
   <div class="vm-word-card">
@@ -774,7 +774,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 建造，建设；建筑物</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康斯抓克神 — 康斯（大规模）抓克（建造）神（工程）」—— </div>
-    <div class="vm-example">The word <b>construction</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>construction</b> of the new airport is expected to create thousands of jobs.</div>
   </div>
 
   <div class="vm-word-card">
@@ -783,7 +783,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 顾问，咨询师</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康搜腾特 — 康搜（咨询）腾特（顾问）给出专业意见」—— </div>
-    <div class="vm-example">The word <b>consultant</b> is important for IELTS.</div>
+    <div class="vm-example">The firm hired a management <b>consultant</b> to help restructure the business.</div>
   </div>
 
   <div class="vm-word-card">
@@ -792,7 +792,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 消费者</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康苏莫 — 康苏（人们）莫（购买力）= 消费者」—— </div>
-    <div class="vm-example">The word <b>consumer</b> is important for IELTS.</div>
+    <div class="vm-example"><b>Consumer</b> spending accounts for nearly two-thirds of the national economy.</div>
   </div>
 
   <div class="vm-word-card">
@@ -801,7 +801,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 包含，容纳；控制</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康腾 — 康（容器里）腾（装得下）= 包含」—— </div>
-    <div class="vm-example">The word <b>contain</b> is important for IELTS.</div>
+    <div class="vm-example">The report <b>contain</b>s detailed statistics on population growth and migration.</div>
   </div>
 
   <div class="vm-word-card">
@@ -810,7 +810,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 容器；集装箱</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康腾呢 — 康腾（装东西的）容器/集装箱」—— </div>
-    <div class="vm-example">The word <b>container</b> is important for IELTS.</div>
+    <div class="vm-example">The shipping <b>container</b> revolutionised global trade in the twentieth century.</div>
   </div>
 
   <div class="vm-word-card">
@@ -819,7 +819,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 沉思，仔细考虑</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康腾普雷特 — 康腾（安静）普雷特（仔细地）沉思」—— </div>
-    <div class="vm-example">The word <b>contemplate</b> is important for IELTS.</div>
+    <div class="vm-example">He sat by the lake to <b>contemplate</b> his next career move.</div>
   </div>
 
   <div class="vm-word-card">
@@ -828,7 +828,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 沉思，冥想</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康腾普雷神 — 康腾（安静）普雷（慢慢）神（深入地）思考」—— </div>
-    <div class="vm-example">The word <b>contemplation</b> is important for IELTS.</div>
+    <div class="vm-example">He spent hours in quiet <b>contemplation</b> before making the life-changing decision.</div>
   </div>
 
   <div class="vm-word-card">
@@ -837,7 +837,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 轻视，蔑视</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康坦普特 — 康坦（坦然）普特（不屑地）轻视」—— </div>
-    <div class="vm-example">The word <b>contempt</b> is important for IELTS.</div>
+    <div class="vm-example">She looked at the criminal with undisguised <b>contempt</b>.</div>
   </div>
 
   <div class="vm-word-card">
@@ -846,7 +846,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 轻蔑的，鄙视的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康坦普球斯 — 康坦普（轻蔑）球斯（表现）出鄙视的态度」—— </div>
-    <div class="vm-example">The word <b>contemptuous</b> is important for IELTS.</div>
+    <div class="vm-example">She gave him a <b>contemptuous</b> look that made her disapproval perfectly clear.</div>
   </div>
 
   <div class="vm-word-card">
@@ -855,7 +855,7 @@ title: 单词本_25
     <div class="vm-meaning">v. 竞争，争夺；声称，主张</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康坦德 — 康坦（坦然）德（争夺）竞争」—— </div>
-    <div class="vm-example">The word <b>contend</b> is important for IELTS.</div>
+    <div class="vm-example">Several teams are expected to <b>contend</b> for the championship this season.</div>
   </div>
 
   <div class="vm-word-card">
@@ -864,7 +864,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 内容；含量；adj. 满足的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康坦特 — 康坦（内容）特（特别）丰富；心满意足」—— </div>
-    <div class="vm-example">The word <b>content</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>content</b> of the website is available in over thirty languages.</div>
   </div>
 
   <div class="vm-word-card">
@@ -873,7 +873,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 有争议的，引起争论的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康坦社斯 — 康坦（争议）社斯（社会上）讨论得很激烈」—— </div>
-    <div class="vm-example">The word <b>contentious</b> is important for IELTS.</div>
+    <div class="vm-example">The proposed tax reform remains a highly <b>contentious</b> issue in parliament.</div>
   </div>
 
   <div class="vm-word-card">
@@ -882,7 +882,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 比赛，竞赛；v. 竞争，争辩</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康泰斯特 — 康泰（比赛）斯特（竞赛场上）争高低」—— </div>
-    <div class="vm-example">The word <b>contest</b> is important for IELTS.</div>
+    <div class="vm-example">She won first prize in the national poetry <b>contest</b>.</div>
   </div>
 
   <div class="vm-word-card">
@@ -891,7 +891,7 @@ title: 单词本_25
     <div class="vm-meaning">n. 大陆，洲</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康剔能特 — 康剔（陆地）能特（特别大）= 大洲」—— </div>
-    <div class="vm-example">The word <b>continent</b> is important for IELTS.</div>
+    <div class="vm-example">Africa is the second largest <b>continent</b> in both area and population.</div>
   </div>
 
   <div class="vm-word-card">
@@ -900,7 +900,7 @@ title: 单词本_25
     <div class="vm-meaning">adj. 大陆的，洲的</div>
     <span class="vm-meme-label vm-label-xieyin">谐音</span>
     <div class="vm-meme">「康剔能头 — 康剔能（大洲的）头（头号）大陆特征」—— </div>
-    <div class="vm-example">The word <b>continental</b> is important for IELTS.</div>
+    <div class="vm-example">The <b>continental</b> breakfast included fresh croissants, jam, and coffee.</div>
   </div>
 
 </div>

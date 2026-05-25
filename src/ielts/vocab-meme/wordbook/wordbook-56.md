@@ -1,0 +1,908 @@
+---
+title: 单词本_56
+---
+
+<div class="vm-word-cards">
+
+<div class="vm-word-card">
+  <div class="vm-num">#5501</div>
+  <div class="vm-head"><span class="vm-word">refined</span><span class="vm-phonetic">/rɪˈfaɪnd/</span></div>
+  <div class="vm-meaning">adj. 精炼的/优雅的/有教养的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞范的」—— 瑞士风范的人，非常优雅精致 🎩</div>
+  <div class="vm-example">She has a <b>refined</b> taste in art and music.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5502</div>
+  <div class="vm-head"><span class="vm-word">refinement</span><span class="vm-phonetic">/rɪˈfaɪnmənt/</span></div>
+  <div class="vm-meaning">n. 精炼/优雅/改进/完善</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞范们特」—— 瑞士风范的人们，特别讲究精炼和优雅 ✨</div>
+  <div class="vm-example">The <b>refinement</b> of the design took several months.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5503</div>
+  <div class="vm-head"><span class="vm-word">reflect</span><span class="vm-phonetic">/rɪˈflekt/</span></div>
+  <div class="vm-meaning">v. 反映/反射/反思</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞弗莱克特」—— 瑞弗莱克特的镜子，反射出反思 🪞</div>
+  <div class="vm-example">The report <b>reflects</b> the views of the majority.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5504</div>
+  <div class="vm-head"><span class="vm-word">refreshment</span><span class="vm-phonetic">/rɪˈfreʃmənt/</span></div>
+  <div class="vm-meaning">n. 茶点/点心/恢复精神</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞弗雷是门特」—— 瑞弗雷给大家送来茶点，精神特好 🍪</div>
+  <div class="vm-example">Light <b>refreshments</b> will be served during the break.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5505</div>
+  <div class="vm-head"><span class="vm-word">refrigerator</span><span class="vm-phonetic">/rɪˈfrɪdʒəreɪtə/</span></div>
+  <div class="vm-meaning">n. 冰箱</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞弗里追瑞特」—— 瑞弗里追着瑞特，把吃的放进冰箱储存 🧊</div>
+  <div class="vm-example">Please put the milk back in the <b>refrigerator</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5506</div>
+  <div class="vm-head"><span class="vm-word">refund</span><span class="vm-phonetic">/ˈriːfʌnd/</span></div>
+  <div class="vm-meaning">n. 退款 v. 退还/偿还</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞放的」—— 瑞士方面放的退款，到账了 💰</div>
+  <div class="vm-example">The store offered a full <b>refund</b> for the defective product.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5507</div>
+  <div class="vm-head"><span class="vm-word">refusal</span><span class="vm-phonetic">/rɪˈfjuːzl/</span></div>
+  <div class="vm-meaning">n. 拒绝/谢绝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞弗有了」—— 瑞士方面拒绝，说"弗有了（没有了）"🙅</div>
+  <div class="vm-example">His <b>refusal</b> to cooperate led to the project's failure.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5508</div>
+  <div class="vm-head"><span class="vm-word">regarding</span><span class="vm-phonetic">/rɪˈɡɑːdɪŋ/</span></div>
+  <div class="vm-meaning">prep. 关于/至于</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞嘎丁」—— 瑞嘎丁了一声，关于这个问题要说清楚 📝</div>
+  <div class="vm-example">I am writing <b>regarding</b> your recent application.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5509</div>
+  <div class="vm-head"><span class="vm-word">regiment</span><span class="vm-phonetic">/ˈredʒɪmənt/</span></div>
+  <div class="vm-meaning">n. 团/大量 v. 严格控制</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞吉门特」—— 瑞吉军团把大门守得特严，管控很严格 🪖</div>
+  <div class="vm-example">The general commanded an entire <b>regiment</b> of soldiers.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5510</div>
+  <div class="vm-head"><span class="vm-word">rehearse</span><span class="vm-phonetic">/rɪˈhɜːs/</span></div>
+  <div class="vm-meaning">v. 排练/预演/复述</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞赫思」—— 瑞赫思排练了好久才上台 🎭</div>
+  <div class="vm-example">The actors spent weeks <b>rehearsing</b> for the play.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5511</div>
+  <div class="vm-head"><span class="vm-word">rein</span><span class="vm-phonetic">/reɪn/</span></div>
+  <div class="vm-meaning">n. 缰绳 v. 控制/勒住</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞嗯」—— 瑞嗯一声，勒住缰绳控制住局面 🐎</div>
+  <div class="vm-example">The government needs to <b>rein</b> in public spending.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5512</div>
+  <div class="vm-head"><span class="vm-word">rejection</span><span class="vm-phonetic">/rɪˈdʒekʃn/</span></div>
+  <div class="vm-meaning">n. 拒绝/排斥/否决</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞杰克神」—— 瑞杰克被拒了，像被神否决一样 💔</div>
+  <div class="vm-example">She received several <b>rejections</b> before finding a job.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5513</div>
+  <div class="vm-head"><span class="vm-word">rejoice</span><span class="vm-phonetic">/rɪˈdʒɔɪs/</span></div>
+  <div class="vm-meaning">v. 欣喜/高兴/庆祝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞乔斯」—— 瑞乔斯中彩票了，无比欣喜 🎉</div>
+  <div class="vm-example">The family <b>rejoiced</b> at the news of his safe return.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5514</div>
+  <div class="vm-head"><span class="vm-word">relaxation</span><span class="vm-phonetic">/ˌriːlækˈseɪʃn/</span></div>
+  <div class="vm-meaning">n. 放松/消遣/松弛</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞来可谁神」—— 瑞来了可以谁都不管，彻底放松享受 🏖️</div>
+  <div class="vm-example">Yoga is an excellent form of <b>relaxation</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5515</div>
+  <div class="vm-head"><span class="vm-word">relay</span><span class="vm-phonetic">/ˈriːleɪ/</span></div>
+  <div class="vm-meaning">n. 接力 v. 转播/传递/中继</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞雷」—— 瑞一声雷，接力棒传递出去 ⚡</div>
+  <div class="vm-example">She won the gold medal in the 4x100-meter <b>relay</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5516</div>
+  <div class="vm-head"><span class="vm-word">reliability</span><span class="vm-phonetic">/rɪˌlaɪəˈbɪləti/</span></div>
+  <div class="vm-meaning">n. 可靠性/可信度</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞来额比勒题」—— 瑞来额的比勒题目，可靠性很高 📊</div>
+  <div class="vm-example">The <b>reliability</b> of the data has been questioned.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5517</div>
+  <div class="vm-head"><span class="vm-word">reliance</span><span class="vm-phonetic">/rɪˈlaɪəns/</span></div>
+  <div class="vm-meaning">n. 依赖/信赖/依靠</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞来俺思」—— 瑞来俺的思，凡事都依赖我来思考 🤝</div>
+  <div class="vm-example">The country's <b>reliance</b> on oil exports makes it vulnerable.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5518</div>
+  <div class="vm-head"><span class="vm-word">relieve</span><span class="vm-phonetic">/rɪˈliːv/</span></div>
+  <div class="vm-meaning">v. 缓解/减轻/解除</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞利夫」—— 瑞利夫医生的药，能缓解一切痛苦 💊</div>
+  <div class="vm-example">This medicine should <b>relieve</b> your headache within minutes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5519</div>
+  <div class="vm-head"><span class="vm-word">religious</span><span class="vm-phonetic">/rɪˈlɪdʒəs/</span></div>
+  <div class="vm-meaning">adj. 宗教的/虔诚的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞里这斯」—— 瑞里这个斯文人，对宗教非常虔诚 🙏</div>
+  <div class="vm-example">She comes from a deeply <b>religious</b> family.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5520</div>
+  <div class="vm-head"><span class="vm-word">remainder</span><span class="vm-phonetic">/rɪˈmeɪndə/</span></div>
+  <div class="vm-meaning">n. 剩余物/余数/残余</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞门德」—— 瑞打开门，德只剩下了剩余的东西 📦</div>
+  <div class="vm-example">He spent the <b>remainder</b> of the day reading.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5521</div>
+  <div class="vm-head"><span class="vm-word">remains</span><span class="vm-phonetic">/rɪˈmeɪnz/</span></div>
+  <div class="vm-meaning">n. 遗迹/残余物/遗体</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞门兹」—— 瑞门兹城堡的遗迹，残存至今 🏛️</div>
+  <div class="vm-example">Archaeologists discovered the <b>remains</b> of an ancient temple.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5522</div>
+  <div class="vm-head"><span class="vm-word">remind</span><span class="vm-phonetic">/rɪˈmaɪnd/</span></div>
+  <div class="vm-meaning">v. 提醒/使想起</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞慢的」—— 瑞提醒得慢了点，但总算想起来了 ⏰</div>
+  <div class="vm-example">Please <b>remind</b> me to call her tomorrow morning.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5523</div>
+  <div class="vm-head"><span class="vm-word">reminiscence</span><span class="vm-phonetic">/ˌremɪˈnɪsns/</span></div>
+  <div class="vm-meaning">n. 回忆/怀旧/往事</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞迷你神思」—— 瑞在迷你神思中，陷入了深深的回忆 💭</div>
+  <div class="vm-example">The old photographs stirred memories of happy <b>reminiscences</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5524</div>
+  <div class="vm-head"><span class="vm-word">reminiscent</span><span class="vm-phonetic">/ˌremɪˈnɪsnt/</span></div>
+  <div class="vm-meaning">adj. 怀旧的/回忆往事的/使人想起的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞迷你森特」—— 瑞想到迷你森林特有感，让人怀念过往 🌲</div>
+  <div class="vm-example">The building's style is <b>reminiscent</b> of classical architecture.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5525</div>
+  <div class="vm-head"><span class="vm-word">remit</span><span class="vm-phonetic">/rɪˈmɪt/</span></div>
+  <div class="vm-meaning">v. 汇款/免除/提交/减轻</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞密特」—— 瑞秘密地特汇汇款，免除债务 💸</div>
+  <div class="vm-example">He worked abroad and <b>remitted</b> money to his family every month.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5526</div>
+  <div class="vm-head"><span class="vm-word">remnant</span><span class="vm-phonetic">/ˈremnənt/</span></div>
+  <div class="vm-meaning">n. 残余/剩余/遗迹</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞门能特」—— 瑞修的城门能特，是仅有残余的遗迹 🧱</div>
+  <div class="vm-example">Only a small <b>remnant</b> of the original forest remains.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5527</div>
+  <div class="vm-head"><span class="vm-word">renewal</span><span class="vm-phonetic">/rɪˈnjuːəl/</span></div>
+  <div class="vm-meaning">n. 更新/续期/复兴</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞纽儿」—— 瑞纽儿续期了会员卡，迎来了更新 🔄</div>
+  <div class="vm-example">Your subscription is due for <b>renewal</b> next month.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5528</div>
+  <div class="vm-head"><span class="vm-word">rental</span><span class="vm-phonetic">/ˈrentl/</span></div>
+  <div class="vm-meaning">n. 租金/出租 adj. 租赁的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「润头」—— 润出去租房，租金交到让人头大 🏠</div>
+  <div class="vm-example">The <b>rental</b> market in this city is very competitive.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5529</div>
+  <div class="vm-head"><span class="vm-word">repeal</span><span class="vm-phonetic">/rɪˈpiːl/</span></div>
+  <div class="vm-meaning">v. 废除/撤销 n. 废除</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞批哦」—— 瑞怒批这个法规，哦，要废除它 🗑️</div>
+  <div class="vm-example">The government decided to <b>repeal</b> the controversial law.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5530</div>
+  <div class="vm-head"><span class="vm-word">repent</span><span class="vm-phonetic">/rɪˈpent/</span></div>
+  <div class="vm-meaning">v. 后悔/忏悔/懊悔</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞盆特」—— 瑞把盆特砸坏了，非常后悔 😔</div>
+  <div class="vm-example">He <b>repented</b> of his foolish decision after it was too late.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5531</div>
+  <div class="vm-head"><span class="vm-word">repetition</span><span class="vm-phonetic">/ˌrepəˈtɪʃn/</span></div>
+  <div class="vm-meaning">n. 重复/反复/重演</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞泼提神」—— 瑞泼水提神，反复多次才有用 🔁</div>
+  <div class="vm-example"><b>Repetition</b> is the key to learning a new language.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5532</div>
+  <div class="vm-head"><span class="vm-word">replacement</span><span class="vm-phonetic">/rɪˈpleɪsmənt/</span></div>
+  <div class="vm-meaning">n. 替换/替代品/替换人</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普雷是门特」—— 瑞的普雷这个角色替换了门口特工 🔄</div>
+  <div class="vm-example">We need to find a <b>replacement</b> for the broken part.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5533</div>
+  <div class="vm-head"><span class="vm-word">representation</span><span class="vm-phonetic">/ˌreprɪzenˈteɪʃn/</span></div>
+  <div class="vm-meaning">n. 代表/表现/陈述/描绘</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普瑞增特神」—— 瑞普瑞增特神一般的代表，陈述清晰 🗣️</div>
+  <div class="vm-example">This painting is a vivid <b>representation</b> of rural life.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5534</div>
+  <div class="vm-head"><span class="vm-word">representative</span><span class="vm-phonetic">/ˌreprɪˈzentətɪv/</span></div>
+  <div class="vm-meaning">n. 代表/代理人 adj. 有代表性的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普瑞怎特替夫」—— 瑞普瑞怎特替夫君当代表去开会 👔</div>
+  <div class="vm-example">He was chosen as the student <b>representative</b> on the committee.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5535</div>
+  <div class="vm-head"><span class="vm-word">repress</span><span class="vm-phonetic">/rɪˈpres/</span></div>
+  <div class="vm-meaning">v. 镇压/压制/压抑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普瑞斯」—— 瑞普瑞斯被强行镇压，情绪被压制住了 😤</div>
+  <div class="vm-example">She tried to <b>repress</b> her anger during the meeting.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5536</div>
+  <div class="vm-head"><span class="vm-word">reprimand</span><span class="vm-phonetic">/ˈreprɪmɑːnd/</span></div>
+  <div class="vm-meaning">v. 训斥/斥责 n. 谴责</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普瑞曼德」—— 瑞普瑞被曼德老板狠狠训斥了一顿 😠</div>
+  <div class="vm-example">The manager <b>reprimanded</b> the employee for arriving late.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5537</div>
+  <div class="vm-head"><span class="vm-word">reproduction</span><span class="vm-phonetic">/ˌriːprəˈdʌkʃn/</span></div>
+  <div class="vm-meaning">n. 繁殖/复制/复制品</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普绕达克神」—— 瑞普绕着达克神繁殖，复制出了一大堆 🐣</div>
+  <div class="vm-example">The museum sells high-quality <b>reproductions</b> of famous paintings.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5538</div>
+  <div class="vm-head"><span class="vm-word">reptile</span><span class="vm-phonetic">/ˈreptaɪl/</span></div>
+  <div class="vm-meaning">n. 爬行动物</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普太哦」—— 瑞普看到爬行动物，太可怕了哦 🦎</div>
+  <div class="vm-example">Snakes, lizards, and turtles are all <b>reptiles</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5539</div>
+  <div class="vm-head"><span class="vm-word">reputable</span><span class="vm-phonetic">/ˈrepjətəbl/</span></div>
+  <div class="vm-meaning">adj. 声誉好的/可敬的/有名望的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普优特薄」—— 瑞的声誉好，优特薄的名望 🏆</div>
+  <div class="vm-example">We only buy products from <b>reputable</b> suppliers.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5540</div>
+  <div class="vm-head"><span class="vm-word">repute</span><span class="vm-phonetic">/rɪˈpjuːt/</span></div>
+  <div class="vm-meaning">n. 名声/声誉 v. 认为/称为</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞普优特」—— 瑞普优特的声誉很好，名声响亮 📣</div>
+  <div class="vm-example">He is a writer of international <b>repute</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5541</div>
+  <div class="vm-head"><span class="vm-word">requisite</span><span class="vm-phonetic">/ˈrekwɪzɪt/</span></div>
+  <div class="vm-meaning">adj. 必需的/必备的 n. 必需品</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞亏贼特」—— 瑞亏了贼特厉害，必需品都买不起了 📋</div>
+  <div class="vm-example">A degree is a <b>requisite</b> qualification for this position.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5542</div>
+  <div class="vm-head"><span class="vm-word">rescind</span><span class="vm-phonetic">/rɪˈsɪnd/</span></div>
+  <div class="vm-meaning">v. 废除/取消/撤销</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞辛德」—— 瑞辛德签的合同被废除作废了 ❌</div>
+  <div class="vm-example">The company decided to <b>rescind</b> the job offer.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5543</div>
+  <div class="vm-head"><span class="vm-word">resemblance</span><span class="vm-phonetic">/rɪˈzembləns/</span></div>
+  <div class="vm-meaning">n. 相似/相像/类似</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞怎布伦斯」—— 瑞怎布伦斯的相貌，相似得惊人 👯</div>
+  <div class="vm-example">There is a striking <b>resemblance</b> between the two paintings.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5544</div>
+  <div class="vm-head"><span class="vm-word">resentment</span><span class="vm-phonetic">/rɪˈzentmənt/</span></div>
+  <div class="vm-meaning">n. 怨恨/愤恨/不满</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞怎特门特」—— 瑞怎特对门口特工，心中充满怨恨 😡</div>
+  <div class="vm-example">Years of unfair treatment bred deep <b>resentment</b> among the workers.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5545</div>
+  <div class="vm-head"><span class="vm-word">reservoir</span><span class="vm-phonetic">/ˈrezəvwɑː/</span></div>
+  <div class="vm-meaning">n. 水库/蓄水池/储藏</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞泽哇」—— 瑞泽哇地一声，水库决堤了 🌊</div>
+  <div class="vm-example">The <b>reservoir</b> supplies water to the entire city.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5546</div>
+  <div class="vm-head"><span class="vm-word">resident</span><span class="vm-phonetic">/ˈrezɪdənt/</span></div>
+  <div class="vm-meaning">n. 居民/住户 adj. 居住的/常驻的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞贼登特」—— 瑞贼登特，是这个小区的居民 🏘️</div>
+  <div class="vm-example">All <b>residents</b> are required to attend the meeting.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5547</div>
+  <div class="vm-head"><span class="vm-word">residual</span><span class="vm-phonetic">/rɪˈzɪdjuəl/</span></div>
+  <div class="vm-meaning">adj. 剩余的/残留的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞贼丢哦」—— 瑞的贼把值钱的丢咯，只剩残留的破烂 🗑️</div>
+  <div class="vm-example">There is still some <b>residual</b> heat in the engine.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5548</div>
+  <div class="vm-head"><span class="vm-word">resignation</span><span class="vm-phonetic">/ˌrezɪɡˈneɪʃn/</span></div>
+  <div class="vm-meaning">n. 辞职/辞职信/屈从/顺从</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞贼内神」—— 瑞贼内心崩溃，递交了辞职信 ✉️</div>
+  <div class="vm-example">His sudden <b>resignation</b> surprised everyone in the company.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5549</div>
+  <div class="vm-head"><span class="vm-word">resistance</span><span class="vm-phonetic">/rɪˈzɪstəns/</span></div>
+  <div class="vm-meaning">n. 抵抗/阻力/反抗</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞贼斯腾思」—— 瑞贼死撑着腾思，一直在抵抗 🛡️</div>
+  <div class="vm-example">The new policy met with strong <b>resistance</b> from the public.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5550</div>
+  <div class="vm-head"><span class="vm-word">resistant</span><span class="vm-phonetic">/rɪˈzɪstənt/</span></div>
+  <div class="vm-meaning">adj. 抵抗的/抗拒的/有抵抗力的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞贼斯腾特」—— 瑞贼死撑特厉害，对什么都抗拒 💪</div>
+  <div class="vm-example">These jeans are made of water-<b>resistant</b> material.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5551</div>
+  <div class="vm-head"><span class="vm-word">resolute</span><span class="vm-phonetic">/ˈrezəluːt/</span></div>
+  <div class="vm-meaning">adj. 坚决的/果断的/不屈不挠的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞泽路特」—— 瑞走上这条路特别坚决，绝不回头 🎯</div>
+  <div class="vm-example">He remained <b>resolute</b> in his decision despite the criticism.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5552</div>
+  <div class="vm-head"><span class="vm-word">resolution</span><span class="vm-phonetic">/ˌrezəˈluːʃn/</span></div>
+  <div class="vm-meaning">n. 决心/决议/分辨率/解决</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞泽路神」—— 瑞泽路神下了决心，要做新年决议 📜</div>
+  <div class="vm-example">She made a New Year's <b>resolution</b> to exercise more.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5553</div>
+  <div class="vm-head"><span class="vm-word">resonance</span><span class="vm-phonetic">/ˈrezənəns/</span></div>
+  <div class="vm-meaning">n. 共鸣/共振/回响</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞泽嫩思」—— 瑞泽嫩思的话语，引起了大家的共鸣 🎵</div>
+  <div class="vm-example">His speech struck a deep <b>resonance</b> with the audience.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5554</div>
+  <div class="vm-head"><span class="vm-word">respect</span><span class="vm-phonetic">/rɪˈspekt/</span></div>
+  <div class="vm-meaning">n./v. 尊重/尊敬/方面</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯拜克特」—— 瑞向斯拜克特表示尊敬 🙇</div>
+  <div class="vm-example">You should always <b>respect</b> other people's opinions.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5555</div>
+  <div class="vm-head"><span class="vm-word">respective</span><span class="vm-phonetic">/rɪˈspektɪv/</span></div>
+  <div class="vm-meaning">adj. 各自的/分别的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯拜克替夫」—— 瑞和斯拜克替夫各自回家 🏠</div>
+  <div class="vm-example">The two groups went back to their <b>respective</b> rooms.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5556</div>
+  <div class="vm-head"><span class="vm-word">respectively</span><span class="vm-phonetic">/rɪˈspektɪvli/</span></div>
+  <div class="vm-meaning">adv. 分别地/各自地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯拜克替夫里」—— 瑞和斯拜克替夫分别离开各自的屋里 🚪</div>
+  <div class="vm-example">John and Mary were awarded first and second places <b>respectively</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5557</div>
+  <div class="vm-head"><span class="vm-word">responsibility</span><span class="vm-phonetic">/rɪˌspɒnsəˈbɪləti/</span></div>
+  <div class="vm-meaning">n. 责任/职责/义务</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯帮色比勒题」—— 瑞斯帮忙解决颜色比勒的难题，这是他的责任 📋</div>
+  <div class="vm-example">Parents have a <b>responsibility</b> to educate their children.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5558</div>
+  <div class="vm-head"><span class="vm-word">responsible</span><span class="vm-phonetic">/rɪˈspɒnsəbl/</span></div>
+  <div class="vm-meaning">adj. 负责的/有责任的/可靠的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯帮色薄」—— 瑞斯帮忙解决颜色薄的问题，很负责 ✅</div>
+  <div class="vm-example">Who is <b>responsible</b> for managing this project?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5559</div>
+  <div class="vm-head"><span class="vm-word">restless</span><span class="vm-phonetic">/ˈrestləs/</span></div>
+  <div class="vm-meaning">adj. 焦躁不安的/不休息的/不安宁的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯特乐思」—— 瑞斯特的乐思停不下来，焦躁不安 😰</div>
+  <div class="vm-example">The baby was <b>restless</b> all night and couldn't sleep.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5560</div>
+  <div class="vm-head"><span class="vm-word">restoration</span><span class="vm-phonetic">/ˌrestəˈreɪʃn/</span></div>
+  <div class="vm-meaning">n. 恢复/修复/归还/复位</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯特瑞神」—— 瑞斯特瑞神来修复古建筑，恢复了原貌 🏗️</div>
+  <div class="vm-example">The <b>restoration</b> of the old cathedral took ten years.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5561</div>
+  <div class="vm-head"><span class="vm-word">restraint</span><span class="vm-phonetic">/rɪˈstreɪnt/</span></div>
+  <div class="vm-meaning">n. 克制/约束/限制</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯蠢特」—— 瑞斯虽然气得发蠢，但还是保持了克制 🔒</div>
+  <div class="vm-example">He showed remarkable <b>restraint</b> in the face of provocation.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5562</div>
+  <div class="vm-head"><span class="vm-word">restriction</span><span class="vm-phonetic">/rɪˈstrɪkʃn/</span></div>
+  <div class="vm-meaning">n. 限制/约束/规定</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯追克神」—— 瑞斯被追着施加各种限制 🚫</div>
+  <div class="vm-example">The government imposed travel <b>restrictions</b> during the pandemic.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5563</div>
+  <div class="vm-head"><span class="vm-word">restrictive</span><span class="vm-phonetic">/rɪˈstrɪktɪv/</span></div>
+  <div class="vm-meaning">adj. 限制性的/约束的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斯追克替夫」—— 瑞斯追着克替夫，非常限制性的管控 🔗</div>
+  <div class="vm-example">The school has a very <b>restrictive</b> dress code.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5564</div>
+  <div class="vm-head"><span class="vm-word">retailer</span><span class="vm-phonetic">/ˈriːteɪlə/</span></div>
+  <div class="vm-meaning">n. 零售商</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞特乐」—— 瑞特乐零售商，生意红火 🏪</div>
+  <div class="vm-example">This <b>retailer</b> offers a wide range of electronic products.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5565</div>
+  <div class="vm-head"><span class="vm-word">retention</span><span class="vm-phonetic">/rɪˈtenʃn/</span></div>
+  <div class="vm-meaning">n. 保留/保持/记忆力/留存</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞坦神」—— 瑞有坦一样的神记忆力，知识完好保留 🧠</div>
+  <div class="vm-example">The company focuses on employee <b>retention</b> through better benefits.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5566</div>
+  <div class="vm-head"><span class="vm-word">retirement</span><span class="vm-phonetic">/rɪˈtaɪəmənt/</span></div>
+  <div class="vm-meaning">n. 退休/退役</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞太额门特」—— 瑞太老了，额门口告别，光荣退休 👴</div>
+  <div class="vm-example">He spent his <b>retirement</b> traveling around the world.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5567</div>
+  <div class="vm-head"><span class="vm-word">retract</span><span class="vm-phonetic">/rɪˈtrækt/</span></div>
+  <div class="vm-meaning">v. 撤回/缩回/收回</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞揣克特」—— 瑞揣着克特别紧张，赶紧收回了话 🔙</div>
+  <div class="vm-example">The newspaper was forced to <b>retract</b> the false story.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5568</div>
+  <div class="vm-head"><span class="vm-word">retroactive</span><span class="vm-phonetic">/ˌretrəʊˈæktɪv/</span></div>
+  <div class="vm-meaning">adj. 有追溯效力的/溯及既往的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞抽艾克替夫」—— 瑞抽了艾克的替夫，有追溯效力可以追究往期 ⏪</div>
+  <div class="vm-example">The new tax law is <b>retroactive</b> to January 1st.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5569</div>
+  <div class="vm-head"><span class="vm-word">revelation</span><span class="vm-phonetic">/ˌrevəˈleɪʃn/</span></div>
+  <div class="vm-meaning">n. 揭露/启示/出乎意料的事</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞维雷神」—— 瑞维雷电一般的揭露，震惊了所有人 ⚡</div>
+  <div class="vm-example">The document was a shocking <b>revelation</b> about the scandal.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5570</div>
+  <div class="vm-head"><span class="vm-word">revenge</span><span class="vm-phonetic">/rɪˈvendʒ/</span></div>
+  <div class="vm-meaning">n./v. 报复/报仇</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞文制」—— 瑞文制定了周密计划，要去报仇雪恨 🗡️</div>
+  <div class="vm-example">He swore to take <b>revenge</b> on those who betrayed him.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5571</div>
+  <div class="vm-head"><span class="vm-word">revere</span><span class="vm-phonetic">/rɪˈvɪə/</span></div>
+  <div class="vm-meaning">v. 尊敬/崇敬/敬畏</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞威尔」—— 瑞对威尔充满崇敬，将他当偶像 🙌</div>
+  <div class="vm-example">The ancient Greeks <b>revered</b> their gods and goddesses.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5572</div>
+  <div class="vm-head"><span class="vm-word">reverence</span><span class="vm-phonetic">/ˈrevərəns/</span></div>
+  <div class="vm-meaning">n. 尊敬/崇敬/敬畏 v. 尊崇</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞沃润思」—— 瑞沃润思对大师充满崇敬 🛐</div>
+  <div class="vm-example">He spoke of his mentor with great <b>reverence</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5573</div>
+  <div class="vm-head"><span class="vm-word">revert</span><span class="vm-phonetic">/rɪˈvɜːt/</span></div>
+  <div class="vm-meaning">v. 恢复/回到/归还</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞沃特」—— 瑞沃特恢复了原来的状态 🔄</div>
+  <div class="vm-example">The garden had <b>reverted</b> to a wilderness after years of neglect.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5574</div>
+  <div class="vm-head"><span class="vm-word">revision</span><span class="vm-phonetic">/rɪˈvɪʒn/</span></div>
+  <div class="vm-meaning">n. 修订/修改/复习</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞威任」—— 瑞威任在修订稿子，仔细修改 📝</div>
+  <div class="vm-example">The textbook requires a thorough <b>revision</b> before publication.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5575</div>
+  <div class="vm-head"><span class="vm-word">revitalize</span><span class="vm-phonetic">/ˌriːˈvaɪtəlaɪz/</span></div>
+  <div class="vm-meaning">v. 使复兴/使恢复活力</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞歪特莱兹」—— 瑞歪特莱兹小镇，被新投资恢复活力 🌱</div>
+  <div class="vm-example">The new mayor's plans aim to <b>revitalize</b> the downtown area.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5576</div>
+  <div class="vm-head"><span class="vm-word">revival</span><span class="vm-phonetic">/rɪˈvaɪvl/</span></div>
+  <div class="vm-meaning">n. 复兴/复苏/复活</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞歪我」—— 瑞歪过来后，我感受到了复兴的气息 🌟</div>
+  <div class="vm-example">There has been a <b>revival</b> of interest in traditional crafts.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5577</div>
+  <div class="vm-head"><span class="vm-word">revive</span><span class="vm-phonetic">/rɪˈvaɪv/</span></div>
+  <div class="vm-meaning">v. 复苏/复兴/使复活</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞歪舞」—— 瑞歪着跳舞，把旧时光都复苏了 💃</div>
+  <div class="vm-example">The doctors managed to <b>revive</b> the unconscious patient.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5578</div>
+  <div class="vm-head"><span class="vm-word">revoke</span><span class="vm-phonetic">/rɪˈvəʊk/</span></div>
+  <div class="vm-meaning">v. 撤销/废除/取消</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞沃克」—— 瑞沃克的签证被撤销了，不能入境 🚫</div>
+  <div class="vm-example">The court decided to <b>revoke</b> his driver's license.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5579</div>
+  <div class="vm-head"><span class="vm-word">revolutionary</span><span class="vm-phonetic">/ˌrevəˈluːʃənəri/</span></div>
+  <div class="vm-meaning">adj. 革命性的/彻底变革的 n. 革命者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞沃路是呢瑞」—— 瑞沃这条路是非常瑞的革新，革命性的变革 🔥</div>
+  <div class="vm-example">The invention of the internet was a <b>revolutionary</b> breakthrough.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5580</div>
+  <div class="vm-head"><span class="vm-word">revolve</span><span class="vm-phonetic">/rɪˈvɒlv/</span></div>
+  <div class="vm-meaning">v. 旋转/围绕/以...为中心</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞沃呜」—— 瑞沃呜呜转，不停旋转 🌀</div>
+  <div class="vm-example">The Earth <b>revolves</b> around the Sun once a year.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5581</div>
+  <div class="vm-head"><span class="vm-word">rib</span><span class="vm-phonetic">/rɪb/</span></div>
+  <div class="vm-meaning">n. 肋骨/排骨</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞布」—— 瑞布裹在肋骨上，保护内脏 🦴</div>
+  <div class="vm-example">He broke a <b>rib</b> during the rugby match.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5582</div>
+  <div class="vm-head"><span class="vm-word">ribbon</span><span class="vm-phonetic">/ˈrɪbən/</span></div>
+  <div class="vm-meaning">n. 丝带/缎带/绶带</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞本」—— 瑞本子上系着漂亮的丝带 🎀</div>
+  <div class="vm-example">She tied a yellow <b>ribbon</b> around the gift box.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5583</div>
+  <div class="vm-head"><span class="vm-word">riddle</span><span class="vm-phonetic">/ˈrɪdl/</span></div>
+  <div class="vm-meaning">n. 谜语/谜题 v. 穿孔/布满</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞斗」—— 瑞在斗智斗勇，猜一个谜语 🤔</div>
+  <div class="vm-example">Can you solve this ancient <b>riddle</b>?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5584</div>
+  <div class="vm-head"><span class="vm-word">ridge</span><span class="vm-phonetic">/rɪdʒ/</span></div>
+  <div class="vm-meaning">n. 山脊/隆起/脊状</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞之」—— 瑞走到山脊之上，俯瞰大地 ⛰️</div>
+  <div class="vm-example">We walked along the mountain <b>ridge</b> enjoying the view.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5585</div>
+  <div class="vm-head"><span class="vm-word">ridicule</span><span class="vm-phonetic">/ˈrɪdɪkjuːl/</span></div>
+  <div class="vm-meaning">v./n. 嘲笑/奚落/愚弄</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞迪Q了」—— 瑞迪被Q了，被人当众嘲笑 😂</div>
+  <div class="vm-example">The media has poured <b>ridicule</b> on the politician's proposal.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5586</div>
+  <div class="vm-head"><span class="vm-word">rifle</span><span class="vm-phonetic">/ˈraɪfl/</span></div>
+  <div class="vm-meaning">n. 步枪/来复枪 v. 快速搜寻/翻找</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞佛」—— 瑞佛背着步枪，快速搜寻目标 🔫</div>
+  <div class="vm-example">The thief <b>rifled</b> through the drawers looking for valuables.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5587</div>
+  <div class="vm-head"><span class="vm-word">righteous</span><span class="vm-phonetic">/ˈraɪtʃəs/</span></div>
+  <div class="vm-meaning">adj. 正义的/正直的/公正的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞车斯」—— 瑞开车斯文有礼，是个正直的人 ⚖️</div>
+  <div class="vm-example">They were fighting for a <b>righteous</b> cause.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5588</div>
+  <div class="vm-head"><span class="vm-word">rigidity</span><span class="vm-phonetic">/rɪˈdʒɪdəti/</span></div>
+  <div class="vm-meaning">n. 僵硬/刚性/严格</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞机得题」—— 瑞的机器得了僵硬的毛病，动弹不得 🔩</div>
+  <div class="vm-example">The <b>rigidity</b> of the steel frame ensures structural stability.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5589</div>
+  <div class="vm-head"><span class="vm-word">rigor</span><span class="vm-phonetic">/ˈrɪɡə/</span></div>
+  <div class="vm-meaning">n. 严格/严厉/严酷/艰苦</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「瑞格」—— 瑞格非常严格，做事极度严谨 🔒</div>
+  <div class="vm-example">He endured the <b>rigors</b> of military training without complaint.</div>
+
+
+<div class="vm-word-card">
+  <div class="vm-num">#5590</div>
+  <div class="vm-head"><span class="vm-word">spell</span><span class="vm-phonetic">/spel/</span></div>
+  <div class="vm-meaning">v. 拼写 n. 咒语/一段时间</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯佩尔」—— 斯（这）佩（配）尔（儿）需要拼写 🔤</div>
+  <div class="vm-example">Can you spell your name for me, please?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5591</div>
+  <div class="vm-head"><span class="vm-word">spiral</span><span class="vm-phonetic">/ˈspaɪrəl/</span></div>
+  <div class="vm-meaning">n./adj./v. 螺旋(的)/盘旋上升</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯派若」—— 斯（这）派若螺旋上升 🌀</div>
+  <div class="vm-example">The company's debt began to spiral out of control.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5592</div>
+  <div class="vm-head"><span class="vm-word">spit</span><span class="vm-phonetic">/spɪt/</span></div>
+  <div class="vm-meaning">v. 吐口水/吐出 n. 烤肉叉</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯皮特」—— 斯（这）皮（匹）特（特）别爱吐 🤮</div>
+  <div class="vm-example">It is impolite to spit on the ground in public.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5593</div>
+  <div class="vm-head"><span class="vm-word">spite</span><span class="vm-phonetic">/spaɪt/</span></div>
+  <div class="vm-meaning">n. 恶意/怨恨 v. 刁难</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯派特」—— 斯（这）派特（特别）有恶意 😤</div>
+  <div class="vm-example">She finished the project in spite of all the difficulties.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5594</div>
+  <div class="vm-head"><span class="vm-word">splash</span><span class="vm-phonetic">/splæʃ/</span></div>
+  <div class="vm-meaning">v./n. 溅/泼/哗啦声</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普拉什」—— 四普拉（泼拉）什水花飞溅 💦</div>
+  <div class="vm-example">The children love to splash water in the swimming pool.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5595</div>
+  <div class="vm-head"><span class="vm-word">splendid</span><span class="vm-phonetic">/ˈsplendɪd/</span></div>
+  <div class="vm-meaning">adj. 极好的/辉煌的/壮丽的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普兰迪的」—— 四普兰迪的辉煌成就 🌟</div>
+  <div class="vm-example">We had a splendid view of the sunset from the mountaintop.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5596</div>
+  <div class="vm-head"><span class="vm-word">split</span><span class="vm-phonetic">/splɪt/</span></div>
+  <div class="vm-meaning">v./n. 分裂/分开/裂开</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普利特」—— 四普利（力）特（特别）分裂 ✂️</div>
+  <div class="vm-example">Let's split the bill evenly among all of us.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5597</div>
+  <div class="vm-head"><span class="vm-word">spokesman</span><span class="vm-phonetic">/ˈspoʊksmən/</span></div>
+  <div class="vm-meaning">n. 发言人/代言人</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯波克斯曼」—— 斯（这）波克（博客）斯曼是发言人 🎤</div>
+  <div class="vm-example">The company spokesman addressed the media about the incident.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5598</div>
+  <div class="vm-head"><span class="vm-word">sponge</span><span class="vm-phonetic">/spʌndʒ/</span></div>
+  <div class="vm-meaning">n. 海绵 v. 用海绵擦</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯潘吉」—— 斯（这）潘吉用海绵吸 🧽</div>
+  <div class="vm-example">Use a sponge to clean the dishes with warm soapy water.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5599</div>
+  <div class="vm-head"><span class="vm-word">spoon</span><span class="vm-phonetic">/spuːn/</span></div>
+  <div class="vm-meaning">n. 勺子/匙</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯布恩」—— 斯（这）布恩用勺子舀 🥄</div>
+  <div class="vm-example">She stirred her coffee with a silver spoon.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5600</div>
+  <div class="vm-head"><span class="vm-word">sporadic</span><span class="vm-phonetic">/spəˈrædɪk/</span></div>
+  <div class="vm-meaning">adj. 零星的/偶发的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯波瑞迪克」—— 斯（这）波瑞（锐）迪克偶发事件 🎲</div>
+  <div class="vm-example">There have been sporadic reports of violence in the region.</div>
+</div>
+</div>
+
+</div>

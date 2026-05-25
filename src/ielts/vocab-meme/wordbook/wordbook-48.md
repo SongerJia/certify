@@ -1,0 +1,907 @@
+---
+title: 单词本_48
+---
+
+<div class="vm-word-cards">
+
+<div class="vm-word-card">
+  <div class="vm-num">#4701</div>
+  <div class="vm-head"><span class="vm-word">humid</span><span class="vm-phonetic">/ˈhjuːmɪd/</span></div>
+  <div class="vm-meaning">adj. 潮湿的/湿润的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「休美的」—— 休息的地方美但很潮湿 💧</div>
+  <div class="vm-example">The <b>humid</b> climate made it difficult to sleep without air conditioning.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4702</div>
+  <div class="vm-head"><span class="vm-word">hurdle</span><span class="vm-phonetic">/hɜːdl/</span></div>
+  <div class="vm-meaning">n. 障碍/栏架 v. 跨越障碍</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「喝抖」—— 喝了酒发抖，跨不过障碍 🚧</div>
+  <div class="vm-example">The final <b>hurdle</b> before getting the job was a tough interview.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4703</div>
+  <div class="vm-head"><span class="vm-word">husband</span><span class="vm-phonetic">/ˈhʌzbənd/</span></div>
+  <div class="vm-meaning">n. 丈夫</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「哈笨」—— 哈哈，笨蛋丈夫 👨</div>
+  <div class="vm-example">Her <b>husband</b> surprised her with flowers on their anniversary.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4704</div>
+  <div class="vm-head"><span class="vm-word">hush</span><span class="vm-phonetic">/hʌʃ/</span></div>
+  <div class="vm-meaning">v./n. 安静/肃静/嘘</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「哈事」—— 哈？什么事？嘘 🤫</div>
+  <div class="vm-example">The teacher said '<b>hush</b>' to quiet the noisy classroom.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4705</div>
+  <div class="vm-head"><span class="vm-word">hustle</span><span class="vm-phonetic">/ˈhʌsl/</span></div>
+  <div class="vm-meaning">v. 忙碌/催促 n. 忙乱/推搡</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「哈搜」—— 哈哈哈搜索，忙忙碌碌 🏃</div>
+  <div class="vm-example">She had to <b>hustle</b> to catch the last bus home.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4706</div>
+  <div class="vm-head"><span class="vm-word">hymn</span><span class="vm-phonetic">/hɪm/</span></div>
+  <div class="vm-meaning">n. 赞美诗/圣歌</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「黑幕」—— 黑幕里唱赞美诗 ⛪</div>
+  <div class="vm-example">The choir sang a beautiful <b>hymn</b> at the wedding.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4707</div>
+  <div class="vm-head"><span class="vm-word">hypocrisy</span><span class="vm-phonetic">/hɪˈpɒkrəsi/</span></div>
+  <div class="vm-meaning">n. 伪善/虚伪</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「嗨泼可瑞斯」—— 嗨泼可瑞斯的虚伪 😶</div>
+  <div class="vm-example">His criticism of corruption was seen as pure <b>hypocrisy</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4708</div>
+  <div class="vm-head"><span class="vm-word">hysteria</span><span class="vm-phonetic">/hɪˈstɪəriə/</span></div>
+  <div class="vm-meaning">n. 歇斯底里/过度兴奋</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「黑死提瑞儿」—— 黑死提瑞儿歇斯底里 😱</div>
+  <div class="vm-example">The announcement caused mass <b>hysteria</b> among fans.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4709</div>
+  <div class="vm-head"><span class="vm-word">idiomatic</span><span class="vm-phonetic">/ˌɪdiəˈmætɪk/</span></div>
+  <div class="vm-meaning">adj. 符合语言习惯的/地道的/惯用的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一弟欧麦题可」—— 一弟欧麦题可的地道表达 ✍️</div>
+  <div class="vm-example">'Break a leg' is an <b>idiomatic</b> expression meaning good luck.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4710</div>
+  <div class="vm-head"><span class="vm-word">idol</span><span class="vm-phonetic">/ˈaɪdl/</span></div>
+  <div class="vm-meaning">n. 偶像/神像/崇拜对象</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「爱斗」—— 爱斗的人是偶像 ⭐</div>
+  <div class="vm-example">The pop star became an <b>idol</b> for millions of teenagers.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4711</div>
+  <div class="vm-head"><span class="vm-word">ignite</span><span class="vm-phonetic">/ɪɡˈnaɪt/</span></div>
+  <div class="vm-meaning">v. 点燃/引发/激动</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一哥奈特」—— 一哥奈特点燃了激情 🔥</div>
+  <div class="vm-example">The speech <b>ignited</b> a wave of protests across the country.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4712</div>
+  <div class="vm-head"><span class="vm-word">illegible</span><span class="vm-phonetic">/ɪˈledʒəbl/</span></div>
+  <div class="vm-meaning">adj. 字迹难辨认的/难以阅读的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一来只伯」—— 一来只伯伯的字迹难辨认 📝</div>
+  <div class="vm-example">His handwriting was so <b>illegible</b> that I couldn't read the note.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4713</div>
+  <div class="vm-head"><span class="vm-word">illusive</span><span class="vm-phonetic">/ɪˈluːsɪv/</span></div>
+  <div class="vm-meaning">adj. 造成幻觉的/虚幻的/迷惑人的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一路死无」—— 一路上死了无数，虚幻的梦 💭</div>
+  <div class="vm-example">The mirage was an <b>illusive</b> image of water in the desert.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4714</div>
+  <div class="vm-head"><span class="vm-word">immediately</span><span class="vm-phonetic">/ɪˈmiːdiətli/</span></div>
+  <div class="vm-meaning">adv. 立即/马上/直接地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一米迪特里」—— 一米距离特立即到 🏃</div>
+  <div class="vm-example">Please call me <b>immediately</b> if there's any problem.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4715</div>
+  <div class="vm-head"><span class="vm-word">immoral</span><span class="vm-phonetic">/ɪˈmɒrəl/</span></div>
+  <div class="vm-meaning">adj. 不道德的/邪恶的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一磨肉」—— 一磨肉是不道德的行为 😈</div>
+  <div class="vm-example">Stealing from the poor is deeply <b>immoral</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4716</div>
+  <div class="vm-head"><span class="vm-word">immortal</span><span class="vm-phonetic">/ɪˈmɔːtl/</span></div>
+  <div class="vm-meaning">adj. 不朽的/永生的 n. 不朽的人物</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摩投」—— 一摩投不朽的作品 📖</div>
+  <div class="vm-example">Shakespeare's works are virtually <b>immortal</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4717</div>
+  <div class="vm-head"><span class="vm-word">impede</span><span class="vm-phonetic">/ɪmˈpiːd/</span></div>
+  <div class="vm-meaning">v. 阻碍/妨碍/阻止</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一批地的」—— 一批地的东西阻碍了道路 🚧</div>
+  <div class="vm-example">Bad weather could <b>impede</b> the rescue operation.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4718</div>
+  <div class="vm-head"><span class="vm-word">imperative</span><span class="vm-phonetic">/ɪmˈperətɪv/</span></div>
+  <div class="vm-meaning">adj. 极重要的/紧急的 n. 祈使语气/必要的事</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摸怕若踢五」—— 一摸怕若踢五是紧急的 🚨</div>
+  <div class="vm-example">It is <b>imperative</b> that we act now before it's too late.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4719</div>
+  <div class="vm-head"><span class="vm-word">imperial</span><span class="vm-phonetic">/ɪmˈpɪəriəl/</span></div>
+  <div class="vm-meaning">adj. 帝国的/皇家的/宏伟的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摸皮俄瑞」—— 一摸皮俄瑞帝国的 🏰</div>
+  <div class="vm-example">The museum houses a magnificent <b>imperial</b> collection of artifacts.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4720</div>
+  <div class="vm-head"><span class="vm-word">implore</span><span class="vm-phonetic">/ɪmˈplɔː/</span></div>
+  <div class="vm-meaning">v. 恳求/哀求/乞求</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摸破」—— 一摸破了恳求帮忙 🙏</div>
+  <div class="vm-example">She <b>implored</b> him not to leave her alone.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4721</div>
+  <div class="vm-head"><span class="vm-word">impractical</span><span class="vm-phonetic">/ɪmˈpræktɪkl/</span></div>
+  <div class="vm-meaning">adj. 不切实际的/不实用的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摸怕可题扣」—— 一摸怕可题扣不实际 💡</div>
+  <div class="vm-example">Your plan sounds nice but is completely <b>impractical</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4722</div>
+  <div class="vm-head"><span class="vm-word">imprisonment</span><span class="vm-phonetic">/ɪmˈprɪznmənt/</span></div>
+  <div class="vm-meaning">n. 监禁/关押/徒刑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摸普瑞森门特」—— 一摸普瑞森门特被监禁 🔒</div>
+  <div class="vm-example">He was sentenced to ten years' <b>imprisonment</b> for his crimes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4723</div>
+  <div class="vm-head"><span class="vm-word">improvise</span><span class="vm-phonetic">/ˈɪmprəvaɪz/</span></div>
+  <div class="vm-meaning">v. 即兴创作/临时凑合/即席发言</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一摸普若外兹」—— 一摸普若外兹即兴演奏 🎵</div>
+  <div class="vm-example">The actor forgot his lines and had to <b>improvise</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4724</div>
+  <div class="vm-head"><span class="vm-word">inadvertent</span><span class="vm-phonetic">/ˌɪnədˈvɜːtənt/</span></div>
+  <div class="vm-meaning">adj. 无意的/疏忽的/不经意的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因爱的我腾特」—— 因爱我腾特无意做了 😅</div>
+  <div class="vm-example">An <b>inadvertent</b> error caused the system to crash.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4725</div>
+  <div class="vm-head"><span class="vm-word">inaugurate</span><span class="vm-phonetic">/ɪˈnɔːɡjʊreɪt/</span></div>
+  <div class="vm-meaning">v. 为...举行就职典礼/开创/启动</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因诺格觉锐特」—— 因诺格觉锐特就任总统 🎩</div>
+  <div class="vm-example">The new president will be <b>inaugurated</b> next month.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4726</div>
+  <div class="vm-head"><span class="vm-word">incense</span><span class="vm-phonetic">/ˈɪnsens/</span></div>
+  <div class="vm-meaning">n. 香 v. 激怒</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因森斯」—— 因森林烧香 🕯️</div>
+  <div class="vm-example">The monk lit some <b>incense</b> during meditation.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4727</div>
+  <div class="vm-head"><span class="vm-word">incessant</span><span class="vm-phonetic">/ɪnˈsesnt/</span></div>
+  <div class="vm-meaning">adj. 不断的/连续不停的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因塞森特」—— 因塞森特不断来 🔄</div>
+  <div class="vm-example">The <b>incessant</b> noise from construction kept us awake all night.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4728</div>
+  <div class="vm-head"><span class="vm-word">incidentally</span><span class="vm-phonetic">/ˌɪnsɪˈdentli/</span></div>
+  <div class="vm-meaning">adv. 偶然地/顺便说一句</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因森丹特里」—— 因森丹特里偶然遇到 👋</div>
+  <div class="vm-example"><b>Incidentally</b>, have you heard the latest news?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4729</div>
+  <div class="vm-head"><span class="vm-word">inclination</span><span class="vm-phonetic">/ˌɪnkliˈneɪʃn/</span></div>
+  <div class="vm-meaning">n. 倾向/爱好/斜坡</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因可内内神」—— 因可内内神的倾向 ❤️</div>
+  <div class="vm-example">She has a strong <b>inclination</b> toward art and music.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4730</div>
+  <div class="vm-head"><span class="vm-word">inclined</span><span class="vm-phonetic">/ɪnˈklaɪnd/</span></div>
+  <div class="vm-meaning">adj. 倾向于...的/有...意向的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因克兰得」—— 因克兰得倾向于同意 👍</div>
+  <div class="vm-example">I'm <b>inclined</b> to believe her story.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4731</div>
+  <div class="vm-head"><span class="vm-word">incompatible</span><span class="vm-phonetic">/ˌɪnkəmˈpætəbl/</span></div>
+  <div class="vm-meaning">adj. 不相容的/不协调的/矛盾的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因肯摸拍特伯」—— 因肯摸拍特伯不相容 ⚡</div>
+  <div class="vm-example">The two software versions are completely <b>incompatible</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4732</div>
+  <div class="vm-head"><span class="vm-word">inconsistency</span><span class="vm-phonetic">/ˌɪnkənˈsɪstənsi/</span></div>
+  <div class="vm-meaning">n. 不一致/前后矛盾/反复无常</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因肯森斯特恩斯」—— 因肯森斯特恩斯不一致 🔄</div>
+  <div class="vm-example">There are several <b>inconsistencies</b> in your statement.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4733</div>
+  <div class="vm-head"><span class="vm-word">inconvenient</span><span class="vm-phonetic">/ˌɪnkənˈviːniənt/</span></div>
+  <div class="vm-meaning">adj. 不方便的/打扰的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因肯维尼恩特」—— 因肯维恩特不方便 😣</div>
+  <div class="vm-example">Would tomorrow at three o'clock be <b>inconvenient</b> for you?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4734</div>
+  <div class="vm-head"><span class="vm-word">incredulous</span><span class="vm-phonetic">/ɪnˈkredjʊləs/</span></div>
+  <div class="vm-meaning">adj. 不轻信的/表示怀疑的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因可瑞丢勒斯」—— 因可丢勒斯表示怀疑 🤨</div>
+  <div class="vm-example">She gave me an <b>incredulous</b> look when I told her the news.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4735</div>
+  <div class="vm-head"><span class="vm-word">increment</span><span class="vm-phonetic">/ˈɪŋkrɪmənt/</span></div>
+  <div class="vm-meaning">n. 增量/增加/加薪</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因克热门特」—— 因克热门特增量 📈</div>
+  <div class="vm-example">Each <b>increment</b> in salary is based on performance.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4736</div>
+  <div class="vm-head"><span class="vm-word">incur</span><span class="vm-phonetic">/ɪnˈkɜː/</span></div>
+  <div class="vm-meaning">v. 招致/遭受/引起</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因壳」—— 因外壳招致损坏 💸</div>
+  <div class="vm-example">The company may <b>incur</b> significant losses this quarter.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4737</div>
+  <div class="vm-head"><span class="vm-word">indebted</span><span class="vm-phonetic">/ɪnˈdetɪd/</span></div>
+  <div class="vm-meaning">adj. 感激的/负债的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因戴提得」—— 因戴提得欠债感激 🙏</div>
+  <div class="vm-example">I am deeply <b>indebted</b> to my mentor for her guidance.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4738</div>
+  <div class="vm-head"><span class="vm-word">indefinitely</span><span class="vm-phonetic">/ɪnˈdefɪnətli/</span></div>
+  <div class="vm-meaning">adv. 无限期地/不确定地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因代费你特里」—— 因代费你特里无限期 ⏳</div>
+  <div class="vm-example">The meeting has been postponed <b>indefinitely</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4739</div>
+  <div class="vm-head"><span class="vm-word">indent</span><span class="vm-phonetic">/ɪnˈdent/</span></div>
+  <div class="vm-meaning">v. 缩进 n. 订单/契约/凹痕</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因登特」—— 因登特缩进排版 📄</div>
+  <div class="vm-example">Remember to <b>indent</b> the first line of each paragraph.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4740</div>
+  <div class="vm-head"><span class="vm-word">indicative</span><span class="vm-phonetic">/ɪnˈdɪkətɪv/</span></div>
+  <div class="vm-meaning">adj. 指示的/表明的/ indicative</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因地可踢五」—— 因地可踢五是表明的 📊</div>
+  <div class="vm-example">These results are <b>indicative</b> of a larger trend.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4741</div>
+  <div class="vm-head"><span class="vm-word">indictment</span><span class="vm-phonetic">/ɪnˈdaɪtmənt/</span></div>
+  <div class="vm-meaning">n. 起诉/控告/起诉书</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因地特门特」—— 因地特门特被起诉 ⚖️</div>
+  <div class="vm-example">The grand jury returned an <b>indictment</b> against the CEO.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4742</div>
+  <div class="vm-head"><span class="vm-word">indifference</span><span class="vm-phonetic">/ɪnˈdɪfrəns/</span></div>
+  <div class="vm-meaning">n. 冷漠/漠不关心/无关紧要</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因地佛润斯」—— 因地佛润斯冷漠 😐</div>
+  <div class="vm-example">His <b>indifference</b> to the problem frustrated everyone.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4743</div>
+  <div class="vm-head"><span class="vm-word">indigestion</span><span class="vm-phonetic">/ˌɪndɪˈdʒestʃən/</span></div>
+  <div class="vm-meaning">n. 消化不良/无法理解</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因地接斯神」—— 因地接斯神消化不良 🤢</div>
+  <div class="vm-example">Eating too quickly often causes <b>indigestion</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4744</div>
+  <div class="vm-head"><span class="vm-word">indignant</span><span class="vm-phonetic">/ɪnˈdɪɡnənt/</span></div>
+  <div class="vm-meaning">adj. 愤慨的/义愤填膺的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因地嗯特」—— 因地嗯特愤慨 😠</div>
+  <div class="vm-example">She was <b>indignant</b> at the accusation of lying.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4745</div>
+  <div class="vm-head"><span class="vm-word">indignation</span><span class="vm-phonetic">/ˌɪndɪɡˈneɪʃn/</span></div>
+  <div class="vm-meaning">n. 愤慨/义愤</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因地内神】—— 因地内神义愤 😡</div>
+  <div class="vm-example">The unfair decision aroused public <b>indignation</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4746</div>
+  <div class="vm-head"><span class="vm-word">inducement</span><span class="vm-phonetic">/ɪnˈdjuːsmənt/</span></div>
+  <div class="vm-meaning">n. 引诱/诱因/激励</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因丢斯门特」—— 因丢斯门特的诱惑 🎁</div>
+  <div class="vm-example">Financial <b>inducement</b> was offered to attract investors.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4747</div>
+  <div class="vm-head"><span class="vm-word">indulge</span><span class="vm-phonetic">/ɪnˈdʌldʒ/</span></div>
+  <div class="vm-meaning">v. 放纵/沉溺于/满足欲望</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因大智」—— 因大智者放纵自己 🍰</div>
+  <div class="vm-example">On weekends I like to <b>indulge</b> in my favorite desserts.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4748</div>
+  <div class="vm-head"><span class="vm-word">industrialization</span><span class="vm-phonetic">/ɪnˌdʌstriəlaɪˈzeɪʃn/</span></div>
+  <div class="vm-meaning">n. 工业化</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因达斯特瑞来神」—— 因达斯特瑞来神工业化 🏭</div>
+  <div class="vm-example">Rapid <b>industrialization</b> transformed the country's economy.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4749</div>
+  <div class="vm-head"><span class="vm-word">industrialized</span><span class="vm-phonetic">/ɪnˈdʌstriəlaɪzd/</span></div>
+  <div class="vm-meaning">adj. 工业化的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因达斯特来兹」—— 因达斯特来兹工业化国家 🏭</div>
+  <div class="vm-example">Most <b>industrialized</b> nations face aging population problems.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4750</div>
+  <div class="vm-head"><span class="vm-word">industrious</span><span class="vm-phonetic">/ɪnˈdʌstriəs/</span></div>
+  <div class="vm-meaning">adj. 勤奋的/勤劳的/努力的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因达斯特瑞斯」—— 因达斯特瑞斯勤劳工作 🐝</div>
+  <div class="vm-example">The <b>industrious</b> bee collects nectar all day long.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4751</div>
+  <div class="vm-head"><span class="vm-word">inertia</span><span class="vm-phonetic">/ɪnɜːʃə/</span></div>
+  <div class="vm-meaning">n. 惯性/惰性/迟钝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「呢射」—— 呢射出惯性 ⚽</div>
+  <div class="vm-example"><b>Inertia</b> keeps the planet moving around the sun.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4752</div>
+  <div class="vm-head"><span class="vm-word">infantry</span><span class="vm-phonetic">/ˈɪnfəntri/</span></div>
+  <div class="vm-meaning">n. 步兵/步兵团</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因凡吹」—— 因凡吹是步兵 🪖</div>
+  <div class="vm-example">The <b>infantry</b> advanced cautiously through the forest.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4753</div>
+  <div class="vm-head"><span class="vm-word">infection</span><span class="vm-phonetic">/ɪnˈfekʃn/</span></div>
+  <div class="vm-meaning">n. 感染/传染病/影响</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因飞可神」—— 因飞可神感染病毒 🦠</div>
+  <div class="vm-example">Wash your hands to prevent the spread of <b>infection</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4754</div>
+  <div class="vm-head"><span class="vm-word">inference</span><span class="vm-phonetic">ˈɪnfərəns/</span></div>
+  <div class="vm-meaning">n. 推断/推理/结论</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因佛润斯」—— 因佛润斯推断结果 🔍</div>
+  <div class="vm-example">What <b>inference</b> can you draw from these facts?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4755</div>
+  <div class="vm-head"><span class="vm-word">inferiority</span><span class="vm-phonetic">/ˌɪnfɪəriˈɒrəti/</span></div>
+  <div class="vm-meaning">n. 低劣/自卑/次等</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因非俄瑞提」—— 因非俄瑞提自卑感 😔</div>
+  <div class="vm-example">Feelings of <b>inferiority</b> can hold people back from success.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4756</div>
+  <div class="vm-head"><span class="vm-word">infinity</span><span class="vm-phonetic">/ɪnˈfɪnəti/</span></div>
+  <div class="vm-meaning">n. 无穷/无限大量</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因非你提」—— 因非你提无限 ♾️</div>
+  <div class="vm-example">The universe seems to stretch into <b>infinity</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4757</div>
+  <div class="vm-head"><span class="vm-word">inflict</span><span class="vm-phonetic">/ɪnˈflɪkt/</span></div>
+  <div class="vm-meaning">v. 使遭受/造成/施加</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因夫利可特」—— 因夫利可特造成伤害 💥</div>
+  <div class="vm-example">The hurricane <b>inflicted</b> severe damage on coastal areas.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4758</div>
+  <div class="vm-head"><span class="vm-word">influential</span><span class="vm-phonetic">/ˌɪnfluˈenʃl/</span></div>
+  <div class="vm-meaning">adj. 有影响力的/有权势的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因夫伦收」—— 因夫伦收有影响力的 👑</div>
+  <div class="vm-example">She is one of the most <b>influential</b> writers of our time.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4759</div>
+  <div class="vm-head"><span class="vm-word">influenza</span><span class="vm-phonetic">/ˌɪnfluˈenzə/</span></div>
+  <div class="vm-meaning">n. 流行性感冒</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因夫伦则」—— 因夫伦则是流感 🤧</div>
+  <div class="vm-example">She caught a bad case of <b>influenza</b> during winter.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4760</div>
+  <div class="vm-head"><span class="vm-word">influx</span><span class="vm-phonetic">/ˈɪnflʌks/</span></div>
+  <div class="vm-meaning">n. 涌入/汇集/流入</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因夫拉克斯」—— 因夫拉克斯涌入人群 👥</div>
+  <div class="vm-example">There has been a huge <b>influx</b> of tourists this summer.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4761</div>
+  <div class="vm-head"><span class="vm-word">informative</span><span class="vm-phonetic">/ɪnˈfɔːmətɪv/</span></div>
+  <div class="vm-meaning">adj. 提供信息的/增长知识的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因佛迈提五」—— 因佛迈提五提供信息 📚</div>
+  <div class="vm-example">The lecture was very <b>informative</b> about space exploration.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4762</div>
+  <div class="vm-head"><span class="vm-word">infringe</span><span class="vm-phonetic">/ɪnˈfrɪndʒ/</span></div>
+  <div class="vm-meaning">v. 侵犯/违反/ infringement</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因夫润之」—— 因夫润之侵犯了版权 ⚖️</div>
+  <div class="vm-example">Don't <b>infringe</b> on other people's privacy.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4763</div>
+  <div class="vm-head"><span class="vm-word">ingenious</span><span class="vm-phonetic">/ɪnˈdʒiːniəs/</span></div>
+  <div class="vm-meaning">adj. 巧妙的/独创的/心灵手巧的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因真牛斯」—— 因真牛斯太巧妙的 🧠</div>
+  <div class="vm-example">She came up with an <b>ingenious</b> solution to the problem.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4764</div>
+  <div class="vm-head"><span class="vm-word">ingenuity</span><span class="vm-phonetic">/ˌɪndʒəˈnjuːəti/</span></div>
+  <div class="vm-meaning">n. 独创性/心灵手巧/精巧</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因真牛爱提」—— 因真牛爱提有独创力 💡</div>
+  <div class="vm-example">The engineer showed great <b>ingenuity</b> in designing the bridge.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4765</div>
+  <div class="vm-head"><span class="vm-word">initially</span><span class="vm-phonetic">/ɪˈnɪʃəli/</span></div>
+  <div class="vm-meaning">adv. 最初/开始时/首先</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一尼收里」—— 一尼收里最初的想法 💭</div>
+  <div class="vm-example"><b>Initially</b>, we thought the project would take only two weeks.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4766</div>
+  <div class="vm-head"><span class="vm-word">initiate</span><span class="vm-phonetic">/ɪˈnɪʃieɪt/</span></div>
+  <div class="vm-meaning">v. 开始/发起/接纳 n. 新加入者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一尼收诶特」—— 一尼收诶特开始行动 🚀</div>
+  <div class="vm-example">The government plans to <b>initiate</b> a new education program.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4767</div>
+  <div class="vm-head"><span class="vm-word">injustice</span><span class="vm-phonetic">/ɪnˈdʒʌstɪs/</span></div>
+  <div class="vm-meaning">n. 不公正/不公平/非正义</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因扎死替斯」—— 因扎死替斯不公平 ⚖️</div>
+  <div class="vm-example">Protesters gathered against social <b>injustice</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4768</div>
+  <div class="vm-head"><span class="vm-word">innocuous</span><span class="vm-phonetic">/ɪˈnɒkjuəs/</span></div>
+  <div class="vm-meaning">adj. 无害的/无害处的/无伤大雅的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「闹可饿斯」—— 闹可饿斯是无害的小白兔 🐇</div>
+  <div class="vm-example">It seemed like an <b>innocuous</b> comment but caused offense.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4769</div>
+  <div class="vm-head"><span class="vm-word">innovative</span><span class="vm-phonetic">/ˈɪnəveɪtɪv/</span></div>
+  <div class="vm-meaning">adj. 创新的/革新的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「爱诺喂提五」—— 爱诺喂提五创新的 💡</div>
+  <div class="vm-example">This company is known for its <b>innovative</b> products.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4770</div>
+  <div class="vm-head"><span class="vm-word">innumerable</span><span class="vm-phonetic">/ɪˈnjuːmrəbl/</span></div>
+  <div class="vm-meaning">adj.无数的/数不清的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因纽莫若伯」—— 因纽莫若伯数不清的星星 ⭐</div>
+  <div class="vm-example">There are <b>innumerable</b> stars visible on a clear night.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4771</div>
+  <div class="vm-head"><span class="vm-word">insane</span><span class="vm-phonetic">/ɪnˈseɪn/</span></div>
+  <div class="vm-meaning">adj. 疯狂的/荒唐的/精神病的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因森」—— 因森林里疯狂的 😵</div>
+  <div class="vm-example">The prices in that city are absolutely <b>insane</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4772</div>
+  <div class="vm-head"><span class="vm-word">insider</span><span class="vm-phonetic">/ɪnˈsaɪdə/</span></div>
+  <div class="vm-meaning">n. 内部人士/知情人</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因赛德」—— 因赛德内部人员 👤</div>
+  <div class="vm-example">An <b>insider</b> revealed details of the merger deal.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4773</div>
+  <div class="vm-head"><span class="vm-word">insignificant</span><span class="vm-phonetic">/ˌɪnsɪɡˈnɪfɪkənt/</span></div>
+  <div class="vm-meaning">adj. 不重要的/微不足道的/无意义的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因森哥尼非肯特」—— 因森哥尼非肯特不重要 🤏</div>
+  <div class="vm-example">The cost was <b>insignificant</b> compared to the benefits.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4774</div>
+  <div class="vm-head"><span class="vm-word">insolvent</span><span class="vm-phonetic">/ɪnˈsɒlvənt/</span></div>
+  <div class="vm-meaning">adj. 无力偿付的/破产的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因索文特」—— 因索文特破产了 💸</div>
+  <div class="vm-example">The company went <b>insolvent</b> after years of losses.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4775</div>
+  <div class="vm-head"><span class="vm-word">inspection</span><span class="vm-phonetic">/ɪnˈspekʃn/</span></div>
+  <div class="vm-meaning">n. 检查/视察/检验</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯拜可神」—— 因斯拜可神检查 🔍</div>
+  <div class="vm-example">All factories must pass regular safety <b>inspections</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4776</div>
+  <div class="vm-head"><span class="vm-word">inspector</span><span class="vm-phonetic">/ɪnˈspektə/</span></div>
+  <div class="vm-meaning">n. 检查员/巡视员/督察</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯拜可特」—— 因斯拜可特检查员 👮</div>
+  <div class="vm-example">The health <b>inspector</b> found several violations.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4777</div>
+  <div class="vm-head"><span class="vm-word">installation</span><span class="vm-phonetic">/ˌɪnstəˈleɪʃn/</span></div>
+  <div class="vm-meaning">n. 安装/装置/就职</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯托雷神」—— 因斯托雷神安装设备 🔧</div>
+  <div class="vm-example">The <b>installation</b> of the new system took three days.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4778</div>
+  <div class="vm-head"><span class="vm-word">installment</span><span class="vm-phonetic">/ɪnˈstɔːlmənt/</span></div>
+  <div class="vm-meaning">n. 分期付款/分期连载/安装</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯托门特」—— 因斯托门特分期付款 💳</div>
+  <div class="vm-example">You can pay for the car in monthly <b>installments</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4779</div>
+  <div class="vm-head"><span class="vm-word">instigate</span><span class="vm-phonetic">/ˈɪnstɪɡeɪt/</span></div>
+  <div class="vm-meaning">v. 教唆/煽动/发起</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯提给特」—— 因斯提给特煽动暴乱 🔥</div>
+  <div class="vm-example">He was accused of <b>instigating</b> the riot.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4780</div>
+  <div class="vm-head"><span class="vm-word">instinctive</span><span class="vm-phonetic">/ɪnˈstɪŋktɪv/</span></div>
+  <div class="vm-meaning">adj. 本能的/天性的/直觉的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯廷可提五」—— 因斯汀可提五本能反应 🦁</div>
+  <div class="vm-example">It was an <b>instinctive</b> reaction to jump back from the edge.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4781</div>
+  <div class="vm-head"><span class="vm-word">instructive</span><span class="vm-phonetic">/ɪnˈstrʌktɪv/</span></div>
+  <div class="vm-meaning">adj. 有教育意义的/有益的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯抓可提五」—— 因斯抓可提五有教育的 📖</div>
+  <div class="vm-example">The documentary was very <b>instructive</b> about wildlife.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4782</div>
+  <div class="vm-head"><span class="vm-word">instrumental</span><span class="vm-phonetic">/ˌɪnstruˈmentl/</span></div>
+  <div class="vm-meaning">adj. 起重要作用的/用乐器演奏的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因斯楚门投」—— 因斯楚门投起重要作用 🎼</div>
+  <div class="vm-example">He was <b>instrumental</b> in negotiating the peace treaty.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4783</div>
+  <div class="vm-head"><span class="vm-word">insufficient</span><span class="vm-phonetic">/ˌɪnsəˈfɪʃnt/</span></div>
+  <div class="vm-meaning">adj. 不足的/不够的/无能的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因瑟非神特」—— 因瑟非神特资金不足 💸</div>
+  <div class="vm-example">We have <b>insufficient</b> data to draw any conclusions.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4784</div>
+  <div class="vm-head"><span class="vm-word">insulate</span><span class="vm-phonetic">/ɪnsjuleɪt/</span></div>
+  <div class="vm-meaning">v. 隔离/绝缘/使隔离</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因修累特」—— 因修累特隔离起来 🧱</div>
+  <div class="vm-example">Wear gloves to <b>insulate</b> your hands from the cold.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4785</div>
+  <div class="vm-head"><span class="vm-word">insulation</span><span class="vm-phonetic">/ˌɪnsjuˈleɪʃn/</span></div>
+  <div class="vm-meaning">n. 绝缘/隔热/隔离</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因修累神」—— 因修累神隔热材料 🏠</div>
+  <div class="vm-example">Good roof <b>insulation</b> can reduce heating costs.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4786</div>
+  <div class="vm-head"><span class="vm-word">intellect</span><span class="vm-phonetic">/ˈɪntəlekt/</span></div>
+  <div class="vm-meaning">n. 智力/才智/知识分子</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因泰莱可特」—— 因泰莱可特智力超群 🧠</div>
+  <div class="vm-example">She is respected for her sharp <b>intellect</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4787</div>
+  <div class="vm-head"><span class="vm-word">intensive</span><span class="vm-phonetic">/ɪnˈtensɪv/</span></div>
+  <div class="vm-meaning">adj. 密集的/加强的/彻底的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因ten死五」—— 因ten死五密集训练 🏋️</div>
+  <div class="vm-example">The patient underwent <b>intensive</b> care after surgery.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4788</div>
+  <div class="vm-head"><span class="vm-word">intent</span><span class="vm-phonetic">/ɪnˈtent/</span></div>
+  <div class="vm-meaning">n. 意图/目的 adj. 专注的/决心的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因ten特」—— 因ten特有意图的 🎯</div>
+  <div class="vm-example">His <b>intent</b> was clear: he wanted to help.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4789</div>
+  <div class="vm-head"><span class="vm-word">interference</span><span class="vm-phonetic">/ˌɪntəˈfɪərəns/</span></div>
+  <div class="vm-meaning">n. 干扰/干涉/妨碍</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因泰非润斯」—— 因泰菲润斯干扰信号 📻</div>
+  <div class="vm-example">Thank you for your help, but please stop <b>interfering</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4790</div>
+  <div class="vm-head"><span class="vm-word">interim</span><span class="vm-phonetic">/ˈɪntərɪm/</span></div>
+  <div class="vm-meaning">adj. 暂时的/过渡的 n. 过渡期间</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因泰瑞姆」—— 因泰瑞姆过渡期 ⏰</div>
+  <div class="vm-example">An <b>interim</b> government was appointed before elections.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4791</div>
+  <div class="vm-head"><span class="vm-word">interpretation</span><span class="vm-phonetic">/ɪnˌtɜːprɪˈteɪʃn/</span></div>
+  <div class="vm-meaning">n. 解释/理解/演绎</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因特普瑞teishen」—— 因特普瑞teishen解释 📖</div>
+  <div class="vm-example">There are different <b>interpretations</b> of this poem.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4792</div>
+  <div class="vm-head"><span class="vm-word">intrude</span><span class="vm-phonetic">/ɪnˈtruːd/</span></div>
+  <div class="vm-meaning">v. 闯入/侵入/把...强加于</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因出入的」—— 因出入的不该闯入 🚫</div>
+  <div class="vm-example">Sorry to <b>intrude</b>, but I need to ask you something.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4793</div>
+  <div class="vm-head"><span class="vm-word">inundate</span><span class="vm-phonetic">/ˈɪnʌndeɪt/</span></div>
+  <div class="vm-meaning">v. 淹没/泛滥/使应接不暇</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因昂deit」—— 因昂deit淹没城市 🌊</div>
+  <div class="vm-example">The office was <b>inundated</b> with complaints after the announcement.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4794</div>
+  <div class="vm-head"><span class="vm-word">invader</span><span class="vm-phonetic">/ɪnˈveɪdə/</span></div>
+  <div class="vm-meaning">n. 入侵者/侵略者/侵入物</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因威德」—— 因威德入侵者 ⚔️</div>
+  <div class="vm-example">The castle was built to defend against foreign <b>invaders</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4795</div>
+  <div class="vm-head"><span class="vm-word">invalid</span><span class="vm-phonetic">/ɪnˈvælɪd/</span></div>
+  <div class="vm-meaning">adj. 无效的/作废的 n. 病弱者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因外里的」—— 因外里的无效 🚫</div>
+  <div class="vm-example">This ticket is <b>invalid</b>; it expired yesterday.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4796</div>
+  <div class="vm-head"><span class="vm-word">invalidate</span><span class="vm-phonetic">/ɪnˈvælideɪt/</span></div>
+  <div class="vm-meaning">v. 使无效/使作废/推翻</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因外里deit」—— 因外里deit使无效 ❌</div>
+  <div class="vm-example">New evidence may <b>invalidate</b> the previous verdict.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4797</div>
+  <div class="vm-head"><span class="vm-word">invaluable</span><span class="vm-phonetic">/ɪnˈvæljuəbl/</span></div>
+  <div class="vm-meaning">adj. 无价的/极宝贵的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因外流伯」—— 因外流伯是无价之宝 💎</div>
+  <div class="vm-example">Her advice proved <b>invaluable</b> during the crisis.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4798</div>
+  <div class="vm-head"><span class="vm-word">invariably</span><span class="vm-phonetic">/ɪnˈveəriəbli/</span></div>
+  <div class="vm-meaning">adv. 总是/不变地/一贯地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因外俄里伯里」—— 因外俄里伯里总是这样 😐</div>
+  <div class="vm-example">He is <b>invariably</b> late for every meeting.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4799</div>
+  <div class="vm-head"><span class="vm-word">inventory</span><span class="vm-phonetic">/ˈɪnvəntəri/</span></div>
+  <div class="vm-meaning">n. 存货清单/库存/详细目录</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因ven推瑞」—— 因ven推瑞库存清单 📦</div>
+  <div class="vm-example">We need to do a full <b>inventory</b> of warehouse stock.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4800</div>
+  <div class="vm-head"><span class="vm-word">inverse</span><span class="vm-phonetic">/ˈɪnvɜːs/</span></div>
+  <div class="vm-meaning">adj. 相反的/颠倒的 n. 反面/相反的事物</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因沃斯」—— 因沃斯是相反的 ↔️</div>
+  <div class="vm-example">There is an <b>inverse</b> relationship between price and demand.</div>
+</div>
+
+</div>

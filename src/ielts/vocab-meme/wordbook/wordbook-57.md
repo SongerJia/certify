@@ -1,0 +1,908 @@
+---
+title: 单词本_57
+---
+
+<div class="vm-word-cards">
+
+<div class="vm-word-card">
+  <div class="vm-num">#5601</div>
+  <div class="vm-head"><span class="vm-word">rim</span><span class="vm-phonetic">/rɪm/</span></div>
+  <div class="vm-meaning">n. 边缘/边框/轮辋</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「锐目」—— 锐利的目光扫过桌子的边缘，差点摔杯子 👀</div>
+  <div class="vm-example">She placed her glass on the <b>rim</b> of the table and it nearly fell.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5602</div>
+  <div class="vm-head"><span class="vm-word">rinse</span><span class="vm-phonetic">/rɪns/</span></div>
+  <div class="vm-meaning">v. 冲洗/漂洗/漱口</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「润丝」—— 用润丝精冲洗头发 🚿</div>
+  <div class="vm-example"><b>Rinse</b> the vegetables thoroughly before cooking.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5603</div>
+  <div class="vm-head"><span class="vm-word">riot</span><span class="vm-phonetic">/ˈraɪət/</span></div>
+  <div class="vm-meaning">n. 暴乱/骚乱 v. 闹事</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「崴啊特」—— 脚崴了还要特别去参加暴乱，太疯狂了 🔥</div>
+  <div class="vm-example">The protest quickly turned into a violent <b>riot</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5604</div>
+  <div class="vm-head"><span class="vm-word">rip</span><span class="vm-phonetic">/rɪp/</span></div>
+  <div class="vm-meaning">v. 撕破/撕裂/猛冲</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「锐破」—— 锋利地撕破 📄</div>
+  <div class="vm-example">Be careful not to <b>rip</b> the paper when you open the envelope.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5605</div>
+  <div class="vm-head"><span class="vm-word">ripe</span><span class="vm-phonetic">/raɪp/</span></div>
+  <div class="vm-meaning">adj. 成熟的/时机成熟的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「软噗」—— 成熟的果子软噗噗的 🍑</div>
+  <div class="vm-example">The bananas are not yet <b>ripe</b> enough to eat.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5606</div>
+  <div class="vm-head"><span class="vm-word">ripen</span><span class="vm-phonetic">/ˈraɪpən/</span></div>
+  <div class="vm-meaning">v. 使成熟/变熟</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「软喷」—— 水果变软喷香，就是成熟了 🍅</div>
+  <div class="vm-example">The tomatoes will <b>ripen</b> faster if left in direct sunlight.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5607</div>
+  <div class="vm-head"><span class="vm-word">ripple</span><span class="vm-phonetic">/ˈrɪpl/</span></div>
+  <div class="vm-meaning">n. 涟漪/波纹 v. 泛起涟漪</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「锐坡」—— 锐利的风吹过山坡，湖面泛起涟漪 🌊</div>
+  <div class="vm-example">The news sent a <b>ripple</b> of excitement through the crowd.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5608</div>
+  <div class="vm-head"><span class="vm-word">rise</span><span class="vm-phonetic">/raɪz/</span></div>
+  <div class="vm-meaning">v. 上升/增加/起床 n. 上升/增长</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来子」—— 太阳来了，儿子该起床了 ☀️</div>
+  <div class="vm-example">House prices continue to <b>rise</b> in this area.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5609</div>
+  <div class="vm-head"><span class="vm-word">risky</span><span class="vm-phonetic">/ˈrɪski/</span></div>
+  <div class="vm-meaning">adj. 危险的/冒险的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「锐死Key」—— 冒险的举动锐利得像死Key，风险极大 ⚠️</div>
+  <div class="vm-example">Investing in startups can be a very <b>risky</b> business.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5610</div>
+  <div class="vm-head"><span class="vm-word">roam</span><span class="vm-phonetic">/rəʊm/</span></div>
+  <div class="vm-meaning">v. 漫游/闲逛/流浪</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「肉亩」—— 在肉菜市场闲逛，一亩地走遍 🚶</div>
+  <div class="vm-example">The tourists loved to <b>roam</b> around the old town.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5611</div>
+  <div class="vm-head"><span class="vm-word">roar</span><span class="vm-phonetic">/rɔː/</span></div>
+  <div class="vm-meaning">v. 吼叫/咆哮/轰鸣 n. 吼声/轰鸣声</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「绕」—— 狮子的咆哮声绕梁三日 🦁</div>
+  <div class="vm-example">The lion let out a mighty <b>roar</b> that echoed across the savannah.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5612</div>
+  <div class="vm-head"><span class="vm-word">roast</span><span class="vm-phonetic">/rəʊst/</span></div>
+  <div class="vm-meaning">v. 烤/烘烤 n. 烤肉</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「肉丝特」—— 烤肉撕成特别的肉丝 🍖</div>
+  <div class="vm-example">We're going to <b>roast</b> a chicken for Sunday dinner.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5613</div>
+  <div class="vm-head"><span class="vm-word">robe</span><span class="vm-phonetic">/rəʊb/</span></div>
+  <div class="vm-meaning">n. 长袍/睡袍/礼服</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「柔波」—— 长袍随风起伏如柔波 👘</div>
+  <div class="vm-example">The judge put on her black <b>robe</b> before entering the courtroom.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5614</div>
+  <div class="vm-head"><span class="vm-word">rod</span><span class="vm-phonetic">/rɒd/</span></div>
+  <div class="vm-meaning">n. 杆/棒/钓竿</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「弱的」—— 这根杆太弱了，一折就断 🎣</div>
+  <div class="vm-example">He cast his fishing <b>rod</b> into the river and waited patiently.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5615</div>
+  <div class="vm-head"><span class="vm-word">roll</span><span class="vm-phonetic">/rəʊl/</span></div>
+  <div class="vm-meaning">v. 滚动/卷 n. 卷/名册/面包卷</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「揉」—— 揉面的时候面团滚来滚去 🥐</div>
+  <div class="vm-example">The teacher called the <b>roll</b> at the beginning of each class.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5616</div>
+  <div class="vm-head"><span class="vm-word">rooster</span><span class="vm-phonetic">/ˈruːstə/</span></div>
+  <div class="vm-meaning">n. 公鸡</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「入斯特」—— 公鸡一叫，大家都得入斯特（start）起床 🐓</div>
+  <div class="vm-example">The <b>rooster</b> crows at dawn every morning without fail.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5617</div>
+  <div class="vm-head"><span class="vm-word">rot</span><span class="vm-phonetic">/rɒt/</span></div>
+  <div class="vm-meaning">v. 腐烂/腐朽 n. 腐烂</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「弱的」—— 身体太弱了，像腐烂的木头 🪵</div>
+  <div class="vm-example">The wood began to <b>rot</b> after years of exposure to rain.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5618</div>
+  <div class="vm-head"><span class="vm-word">rotary</span><span class="vm-phonetic">/ˈrəʊtəri/</span></div>
+  <div class="vm-meaning">adj. 旋转的/转动的 n. 旋转装置</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「揉特瑞」—— 揉面时特瑞（特别）喜欢用旋转的手法 🔄</div>
+  <div class="vm-example">The engine uses a <b>rotary</b> mechanism instead of a piston system.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5619</div>
+  <div class="vm-head"><span class="vm-word">rotation</span><span class="vm-phonetic">/rəʊˈteɪʃn/</span></div>
+  <div class="vm-meaning">n. 旋转/轮换/交替</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「肉特申」—— 肉在轮换着特申（特别申请）被烤 🔁</div>
+  <div class="vm-example">The crops are grown on a three-year <b>rotation</b> to maintain soil quality.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5620</div>
+  <div class="vm-head"><span class="vm-word">roughly</span><span class="vm-phonetic">/ˈrʌfli/</span></div>
+  <div class="vm-meaning">adv. 粗略地/大约/粗暴地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉夫里」—— 在拉面馆里粗略地估计了一下人数 📊</div>
+  <div class="vm-example">The project will take <b>roughly</b> six months to complete.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5621</div>
+  <div class="vm-head"><span class="vm-word">round</span><span class="vm-phonetic">/raʊnd/</span></div>
+  <div class="vm-meaning">adj. 圆形的 adv. 围绕地 n. 一轮/回合</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「软的」—— 圆形的甜甜圈是软软的 🍩</div>
+  <div class="vm-example">The Earth is not perfectly <b>round</b> but slightly flattened at the poles.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5622</div>
+  <div class="vm-head"><span class="vm-word">roundabout</span><span class="vm-phonetic">/ˈraʊndəbaʊt/</span></div>
+  <div class="vm-meaning">adj. 迂回的/绕道的 n. 环形交叉路口</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「软的吧特」—— 绕弯路走得腿都软了，特别的远 🔄</div>
+  <div class="vm-example">He told us the story in a <b>roundabout</b> way instead of getting straight to the point.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5623</div>
+  <div class="vm-head"><span class="vm-word">rouse</span><span class="vm-phonetic">/raʊz/</span></div>
+  <div class="vm-meaning">v. 唤醒/激起/使振奋</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「闹子」—— 闹钟把儿子唤醒了 ⏰</div>
+  <div class="vm-example">It took a lot of effort to <b>rouse</b> him from his deep sleep.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5624</div>
+  <div class="vm-head"><span class="vm-word">royalty</span><span class="vm-phonetic">/ˈrɔɪəlti/</span></div>
+  <div class="vm-meaning">n. 皇室/版税/专利使用费</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「若尔提」—— 若尔提出了一大笔版税 💰</div>
+  <div class="vm-example">The author earns a 10% <b>royalty</b> on every copy of the book sold.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5625</div>
+  <div class="vm-head"><span class="vm-word">rub</span><span class="vm-phonetic">/rʌb/</span></div>
+  <div class="vm-meaning">v. 擦/摩擦/涂抹 n. 摩擦/障碍</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉不」—— 拉不动了，擦一擦油该润滑了 🧴</div>
+  <div class="vm-example">She used a cloth to <b>rub</b> the stain off the table.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5626</div>
+  <div class="vm-head"><span class="vm-word">ruinous</span><span class="vm-phonetic">/ˈruːɪnəs/</span></div>
+  <div class="vm-meaning">adj. 毁灭性的/导致破产的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「入印纳斯」—— 毁灭性的政策进入印度和纳斯达克 💥</div>
+  <div class="vm-example">The company faced <b>ruinous</b> debts and was forced to close down.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5627</div>
+  <div class="vm-head"><span class="vm-word">rule</span><span class="vm-phonetic">/ruːl/</span></div>
+  <div class="vm-meaning">n. 规则/统治 v. 统治/裁定</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「入哦」—— 进入新公司哦，先看规则 📋</div>
+  <div class="vm-example">The new <b>rule</b> prohibits smoking in all public buildings.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5628</div>
+  <div class="vm-head"><span class="vm-word">rupture</span><span class="vm-phonetic">/ˈrʌptʃə/</span></div>
+  <div class="vm-meaning">v. 破裂/断裂 n. 破裂/决裂/疝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉破扯」—— 拉破扯裂，关系彻底破裂 💔</div>
+  <div class="vm-example">The pipeline <b>ruptured</b> and caused a massive gas leak.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5629</div>
+  <div class="vm-head"><span class="vm-word">rust</span><span class="vm-phonetic">/rʌst/</span></div>
+  <div class="vm-meaning">n. 铁锈/锈 v. 生锈/腐蚀</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉斯特」—— 拉斯特（last）太久没用，铁门生锈了 🔩</div>
+  <div class="vm-example">The old bicycle had been left outside and was covered in <b>rust</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5630</div>
+  <div class="vm-head"><span class="vm-word">sack</span><span class="vm-phonetic">/sæk/</span></div>
+  <div class="vm-meaning">n. 麻袋/解雇 v. 解雇/洗劫</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞壳」—— 把东西塞进外壳也就是麻袋里去 🎒</div>
+  <div class="vm-example">He was given the <b>sack</b> for repeated lateness to work.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5631</div>
+  <div class="vm-head"><span class="vm-word">saddle</span><span class="vm-phonetic">/ˈsædl/</span></div>
+  <div class="vm-meaning">n. 马鞍/车座 v. 给装鞍/使负担</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞抖」—— 马鞍塞紧了还是会抖 🐴</div>
+  <div class="vm-example">The cowboy swung himself into the <b>saddle</b> with ease.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5632</div>
+  <div class="vm-head"><span class="vm-word">sag</span><span class="vm-phonetic">/sæɡ/</span></div>
+  <div class="vm-meaning">v. 下垂/下陷/减弱</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞隔」—— 塞进去隔板后还是往下垂 📉</div>
+  <div class="vm-example">The old sofa has started to <b>sag</b> in the middle.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5633</div>
+  <div class="vm-head"><span class="vm-word">salmon</span><span class="vm-phonetic">/ˈsæmən/</span></div>
+  <div class="vm-meaning">n. 三文鱼/鲑鱼 adj. 橙红色的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞门」—— 三文鱼塞满门口的水箱 🐟</div>
+  <div class="vm-example">Grilled <b>salmon</b> is a popular dish in many restaurants.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5634</div>
+  <div class="vm-head"><span class="vm-word">salute</span><span class="vm-phonetic">/səˈluːt/</span></div>
+  <div class="vm-meaning">v. 敬礼/致敬/赞扬 n. 敬礼</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「洒路特」—— 在洒满阳光的路上特别敬礼 🫡</div>
+  <div class="vm-example">The soldiers <b>saluted</b> as the general passed by.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5635</div>
+  <div class="vm-head"><span class="vm-word">sandy</span><span class="vm-phonetic">/ˈsændi/</span></div>
+  <div class="vm-meaning">adj. 沙的/多沙的/沙色的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「三弟」—— 三弟在沙滩上玩了一整天 🏖️</div>
+  <div class="vm-example">The beach has beautiful <b>sandy</b> shores that stretch for miles.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5636</div>
+  <div class="vm-head"><span class="vm-word">sanitary</span><span class="vm-phonetic">/ˈsænɪtəri/</span></div>
+  <div class="vm-meaning">adj. 卫生的/清洁的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「三尼特瑞」—— 三个尼姑特别瑞（注重）卫生 🧹</div>
+  <div class="vm-example">The restaurant must meet strict <b>sanitary</b> standards before opening.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5637</div>
+  <div class="vm-head"><span class="vm-word">sarcasm</span><span class="vm-phonetic">/ˈsɑːkæzəm/</span></div>
+  <div class="vm-meaning">n. 讽刺/挖苦/嘲讽</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「沙卡怎」—— 沙哑的声音卡住了，这种讽刺怎么听都不舒服 😏</div>
+  <div class="vm-example">His voice dripped with <b>sarcasm</b> as he complimented her terrible painting.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5638</div>
+  <div class="vm-head"><span class="vm-word">sarcastic</span><span class="vm-phonetic">/sɑːˈkæstɪk/</span></div>
+  <div class="vm-meaning">adj. 讽刺的/挖苦的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「沙卡斯蒂克」—— 沙哑的卡斯蒂克说话总是很讽刺 🗣️</div>
+  <div class="vm-example">Her <b>sarcastic</b> remarks often upset her colleagues.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5639</div>
+  <div class="vm-head"><span class="vm-word">satisfaction</span><span class="vm-phonetic">/ˌsætɪsˈfækʃn/</span></div>
+  <div class="vm-meaning">n. 满意/满足/赔偿</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞题死反身」—— 把难题塞进去解决，死了也反身过来，真是满足 😌</div>
+  <div class="vm-example">Customer <b>satisfaction</b> is our top priority at this company.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5640</div>
+  <div class="vm-head"><span class="vm-word">sauce</span><span class="vm-phonetic">/sɔːs/</span></div>
+  <div class="vm-meaning">n. 调味汁/酱汁</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「少思」—— 少思量，多加酱！🌶️</div>
+  <div class="vm-example">The pasta was delicious with a creamy mushroom <b>sauce</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5641</div>
+  <div class="vm-head"><span class="vm-word">saucer</span><span class="vm-phonetic">/ˈsɔːsə/</span></div>
+  <div class="vm-meaning">n. 碟子/茶托</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「少涩」—— 这个茶托用起来手感少涩，非常光滑 🍵</div>
+  <div class="vm-example">She placed the teacup neatly on its matching <b>saucer</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5642</div>
+  <div class="vm-head"><span class="vm-word">savage</span><span class="vm-phonetic">/ˈsævɪdʒ/</span></div>
+  <div class="vm-meaning">adj. 野蛮的/凶猛的/残酷的 n. 野蛮人</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞危局」—— 塞进危险局面，野蛮人疯狂入侵 🦍</div>
+  <div class="vm-example">The explorers encountered <b>savage</b> storms during their Arctic expedition.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5643</div>
+  <div class="vm-head"><span class="vm-word">save</span><span class="vm-phonetic">/seɪv/</span></div>
+  <div class="vm-meaning">v. 拯救/节省/保存/储蓄 prep. 除了</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞五」—— 每次塞五块钱进存钱罐，慢慢就省下来了 🐷</div>
+  <div class="vm-example">You can <b>save</b> a lot of money by cooking at home instead of eating out.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5644</div>
+  <div class="vm-head"><span class="vm-word">savings</span><span class="vm-phonetic">/ˈseɪvɪŋz/</span></div>
+  <div class="vm-meaning">n. 储蓄/存款</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞银子」—— 往存钱罐里塞银子 💰</div>
+  <div class="vm-example">They used their entire life <b>savings</b> to buy their first house.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5645</div>
+  <div class="vm-head"><span class="vm-word">savvy</span><span class="vm-phonetic">/ˈsævi/</span></div>
+  <div class="vm-meaning">n. 实际知识/悟性 adj. 有见识的/精明的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞威」—— 塞满威风的人，一定很精明有见识 🧠</div>
+  <div class="vm-example">She is a tech-<b>savvy</b> entrepreneur who spotted the trend early.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5646</div>
+  <div class="vm-head"><span class="vm-word">scar</span><span class="vm-phonetic">/skɑː/</span></div>
+  <div class="vm-meaning">n. 伤疤/创伤 v. 留下伤疤</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「撕嘎」—— 撕开一道口子，发出嘎的声音，留下伤疤 🤕</div>
+  <div class="vm-example">The accident left a permanent <b>scar</b> on his left arm.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5647</div>
+  <div class="vm-head"><span class="vm-word">scarcely</span><span class="vm-phonetic">/ˈskeəsli/</span></div>
+  <div class="vm-meaning">adv. 几乎不/刚刚/勉强</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死该死里」—— 死该往死里逃，几乎逃不出去 😰</div>
+  <div class="vm-example">I could <b>scarcely</b> believe my eyes when I saw the final score.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5648</div>
+  <div class="vm-head"><span class="vm-word">scare</span><span class="vm-phonetic">/skeə/</span></div>
+  <div class="vm-meaning">v. 惊吓/使害怕 n. 惊恐/恐慌</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死该儿」—— 死该吓唬儿子，让他不要乱跑 👻</div>
+  <div class="vm-example">The loud bang gave everyone in the room a terrible <b>scare</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5649</div>
+  <div class="vm-head"><span class="vm-word">scarf</span><span class="vm-phonetic">/skɑːf/</span></div>
+  <div class="vm-meaning">n. 围巾/头巾</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「撕嘎服」—— 围巾一撕嘎的响，跟衣服摩擦出静电 🧣</div>
+  <div class="vm-example">She wrapped a warm <b>scarf</b> around her neck before stepping outside.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5650</div>
+  <div class="vm-head"><span class="vm-word">scarlet</span><span class="vm-phonetic">/ˈskɑːlɪt/</span></div>
+  <div class="vm-meaning">adj. 猩红色的/鲜红色的 n. 猩红色</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「撕嘎立特」—— 撕开嘎嘣脆的特立独行的鲜红布料 🔴</div>
+  <div class="vm-example">She wore a stunning <b>scarlet</b> dress to the award ceremony.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5651</div>
+  <div class="vm-head"><span class="vm-word">scene</span><span class="vm-phonetic">/siːn/</span></div>
+  <div class="vm-meaning">n. 场景/场面/景色/事发地点</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「心」—— 用心感受每一个场景 🎬</div>
+  <div class="vm-example">The police arrived at the <b>scene</b> of the accident within five minutes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5652</div>
+  <div class="vm-head"><span class="vm-word">scenery</span><span class="vm-phonetic">/ˈsiːnəri/</span></div>
+  <div class="vm-meaning">n. 风景/景色/舞台布景</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「心里」—— 美丽的风景印在心里 🏞️</div>
+  <div class="vm-example">The mountain <b>scenery</b> along the hiking trail was absolutely breathtaking.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5653</div>
+  <div class="vm-head"><span class="vm-word">scenic</span><span class="vm-phonetic">/ˈsiːnɪk/</span></div>
+  <div class="vm-meaning">adj. 风景优美的/舞台布景的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「悉尼客」—— 悉尼的游客都觉得风景优美 🌅</div>
+  <div class="vm-example">We took the <b>scenic</b> route along the coast instead of the highway.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5654</div>
+  <div class="vm-head"><span class="vm-word">scent</span><span class="vm-phonetic">/sent/</span></div>
+  <div class="vm-meaning">n. 气味/香味/香水 v. 闻到/使充满气味</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「散特」—— 香味散发得特别远 🌸</div>
+  <div class="vm-example">The <b>scent</b> of fresh bread filled the entire bakery.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5655</div>
+  <div class="vm-head"><span class="vm-word">scholar</span><span class="vm-phonetic">/ˈskɒlə/</span></div>
+  <div class="vm-meaning">n. 学者/奖学金获得者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考了」—— 学者总是思考了很多 🎓</div>
+  <div class="vm-example">He is a distinguished <b>scholar</b> in the field of ancient history.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5656</div>
+  <div class="vm-head"><span class="vm-word">scissors</span><span class="vm-phonetic">/ˈsɪzəz/</span></div>
+  <div class="vm-meaning">n. 剪刀</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「狮子子」—— 狮子拿着剪刀给狮子宝宝剪毛 ✂️</div>
+  <div class="vm-example">Please pass me the <b>scissors</b> so I can cut this string.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5657</div>
+  <div class="vm-head"><span class="vm-word">scoff</span><span class="vm-phonetic">/skɒf/</span></div>
+  <div class="vm-meaning">v. 嘲笑/狼吞虎咽 n. 嘲笑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考夫」—— 思考的大夫嘲笑病人的观点 🤨</div>
+  <div class="vm-example">Don't <b>scoff</b> at his ideas just because he is new to the team.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5658</div>
+  <div class="vm-head"><span class="vm-word">scold</span><span class="vm-phonetic">/skəʊld/</span></div>
+  <div class="vm-meaning">v. 责骂/训斥</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考的」—— 老师思考之后，还是决定训斥学生 😠</div>
+  <div class="vm-example">My mother would <b>scold</b> me whenever I came home late.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5659</div>
+  <div class="vm-head"><span class="vm-word">scorch</span><span class="vm-phonetic">/skɔːtʃ/</span></div>
+  <div class="vm-meaning">v. 烧焦/烤焦/枯萎 n. 烧焦</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死烤持」—— 死劲烤，持续烤，肯定会烧焦 🔥</div>
+  <div class="vm-example">Be careful not to <b>scorch</b> the shirt while ironing it.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5660</div>
+  <div class="vm-head"><span class="vm-word">score</span><span class="vm-phonetic">/skɔː/</span></div>
+  <div class="vm-meaning">n. 分数/得分/二十 v. 得分/评分</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考」—— 好好思考才能拿高分 📝</div>
+  <div class="vm-example">The final <b>score</b> of the match was three to one.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5661</div>
+  <div class="vm-head"><span class="vm-word">scotch</span><span class="vm-phonetic">/skɒtʃ/</span></div>
+  <div class="vm-meaning">v. 阻止/平息/粉碎</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考持」—— 思考之后坚持阻止这个计划 🛑</div>
+  <div class="vm-example">The government moved quickly to <b>scotch</b> the rumours of a tax increase.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5662</div>
+  <div class="vm-head"><span class="vm-word">scout</span><span class="vm-phonetic">/skaʊt/</span></div>
+  <div class="vm-meaning">n. 侦察兵/童子军 v. 侦察/物色</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考特」—— 特别会思考的侦察兵 🕵️</div>
+  <div class="vm-example">The talent <b>scout</b> attended the game to look for promising young players.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5663</div>
+  <div class="vm-head"><span class="vm-word">scramble</span><span class="vm-phonetic">/ˈskræmbl/</span></div>
+  <div class="vm-meaning">v. 攀爬/争夺/匆忙做/炒蛋 n. 争夺/攀爬</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死快跑伯」—— 死命快跑的大伯，争夺第一 🏃</div>
+  <div class="vm-example">Everyone <b>scrambled</b> to get the best seats when the doors opened.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5664</div>
+  <div class="vm-head"><span class="vm-word">scrap</span><span class="vm-phonetic">/skræp/</span></div>
+  <div class="vm-meaning">n. 碎片/废料/残羹剩饭 v. 报废/废弃</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「撕快破」—— 撕得快破的碎片，全是废料 🗑️</div>
+  <div class="vm-example">The old ship was sold for <b>scrap</b> metal.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5665</div>
+  <div class="vm-head"><span class="vm-word">scrape</span><span class="vm-phonetic">/skreɪp/</span></div>
+  <div class="vm-meaning">v. 刮/擦/勉强通过 n. 刮擦/困境</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死刻破」—— 死命用刻刀刮破表面 🪥</div>
+  <div class="vm-example">He used a knife to <b>scrape</b> the old paint off the wall.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5666</div>
+  <div class="vm-head"><span class="vm-word">screw</span><span class="vm-phonetic">/skruː/</span></div>
+  <div class="vm-meaning">n. 螺丝/螺旋桨 v. 拧紧/拧螺丝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「丝克入」—— 螺丝克服阻力旋转拧入 🔩</div>
+  <div class="vm-example">You need to <b>screw</b> this bolt in tightly or it will come loose.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5667</div>
+  <div class="vm-head"><span class="vm-word">screwdriver</span><span class="vm-phonetic">/ˈskruːdraɪvə/</span></div>
+  <div class="vm-meaning">n. 螺丝刀/起子</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「丝克入拽我」—— 螺丝刀拧螺丝时，差点把我拽进去 🪛</div>
+  <div class="vm-example">Can you hand me the <b>screwdriver</b>? I need to tighten this hinge.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5668</div>
+  <div class="vm-head"><span class="vm-word">script</span><span class="vm-phonetic">/skrɪpt/</span></div>
+  <div class="vm-meaning">n. 剧本/脚本/手稿/文字</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死刻破特」—— 死磕着修改剧本，特别破了还在改 📜</div>
+  <div class="vm-example">The actor decided to deviate from the <b>script</b> and improvise his lines.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5669</div>
+  <div class="vm-head"><span class="vm-word">scrub</span><span class="vm-phonetic">/skrʌb/</span></div>
+  <div class="vm-meaning">v. 擦洗/用力搓洗 n. 擦洗/灌木丛</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「死擦不」—— 死命擦也不干净，得加洗洁剂 🧽</div>
+  <div class="vm-example">She had to <b>scrub</b> the floor for hours to remove the stubborn stains.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5670</div>
+  <div class="vm-head"><span class="vm-word">sculptor</span><span class="vm-phonetic">/ˈskʌlptə/</span></div>
+  <div class="vm-meaning">n. 雕塑家/雕刻家</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「思考了普特」—— 雕塑家思考了普通与特别之间的平衡 🗿</div>
+  <div class="vm-example">The famous <b>sculptor</b> unveiled his latest marble statue at the gallery.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5671</div>
+  <div class="vm-head"><span class="vm-word">seam</span><span class="vm-phonetic">/siːm/</span></div>
+  <div class="vm-meaning">n. 接缝/缝口/矿层</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细母」—— 细心的母亲缝的接缝谁也看不出来 🪡</div>
+  <div class="vm-example">The <b>seam</b> on this shirt is coming apart, so I need to sew it back.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5672</div>
+  <div class="vm-head"><span class="vm-word">seaport</span><span class="vm-phonetic">/ˈsiːpɔːt/</span></div>
+  <div class="vm-meaning">n. 海港/港口城市</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「西波特」—— 西边的波特式海港 ⚓</div>
+  <div class="vm-example">Rotterdam is one of the busiest <b>seaports</b> in the world.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5673</div>
+  <div class="vm-head"><span class="vm-word">seashore</span><span class="vm-phonetic">/ˈsiːʃɔː/</span></div>
+  <div class="vm-meaning">n. 海岸/海滨</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细秀」—— 细细的海浪秀出美丽的海滨风光 🏝️</div>
+  <div class="vm-example">The children collected shells along the <b>seashore</b> all afternoon.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5674</div>
+  <div class="vm-head"><span class="vm-word">seasonal</span><span class="vm-phonetic">/ˈsiːzənl/</span></div>
+  <div class="vm-meaning">adj. 季节性的/周期性的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细怎呢」—— 细节的季节性变化该怎么说呢 🌸</div>
+  <div class="vm-example">Many workers in the tourism sector are employed on a <b>seasonal</b> basis.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5675</div>
+  <div class="vm-head"><span class="vm-word">secret</span><span class="vm-phonetic">/ˈsiːkrɪt/</span></div>
+  <div class="vm-meaning">n. 秘密 adj. 秘密的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细可瑞特」—— 细节可以特别瑞（富），但这是秘密 🤫</div>
+  <div class="vm-example">She whispered the <b>secret</b> into my ear so that no one else could hear.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5676</div>
+  <div class="vm-head"><span class="vm-word">security</span><span class="vm-phonetic">/sɪˈkjʊərɪti/</span></div>
+  <div class="vm-meaning">n. 安全/安保/保障/证券</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「西可瑞提」—— 西边的可瑞提（city）安保做得很好 🔒</div>
+  <div class="vm-example">The airport has tightened its <b>security</b> measures after the recent incident.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5677</div>
+  <div class="vm-head"><span class="vm-word">seemingly</span><span class="vm-phonetic">/ˈsiːmɪŋli/</span></div>
+  <div class="vm-meaning">adv. 表面上/似乎/看起来</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细明里」—— 仔细看才能明白里面的玄机，表面上看不出来 👀</div>
+  <div class="vm-example">The task was <b>seemingly</b> simple but turned out to be quite complex.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5678</div>
+  <div class="vm-head"><span class="vm-word">seismic</span><span class="vm-phonetic">/ˈsaɪzmɪk/</span></div>
+  <div class="vm-meaning">adj. 地震的/地震引起的/巨大的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞子麦克」—— 塞子堵不住的地震波被麦克风收到 🌍</div>
+  <div class="vm-example">The policy change had <b>seismic</b> effects on the entire industry.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5679</div>
+  <div class="vm-head"><span class="vm-word">selection</span><span class="vm-phonetic">/sɪˈlekʃn/</span></div>
+  <div class="vm-meaning">n. 选择/挑选/精选品</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「西来客申」—— 西方的来客申请精选的商品 🎯</div>
+  <div class="vm-example">The restaurant offers a wide <b>selection</b> of vegetarian dishes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5680</div>
+  <div class="vm-head"><span class="vm-word">seminal</span><span class="vm-phonetic">/ˈsemɪnl/</span></div>
+  <div class="vm-meaning">adj. 种子的/开创性的/影响深远的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞米诺」—— 播种的人塞了一粒米，诺大的影响由此开始 🌱</div>
+  <div class="vm-example">Einstein published his <b>seminal</b> paper on relativity in 1905.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5681</div>
+  <div class="vm-head"><span class="vm-word">senator</span><span class="vm-phonetic">/ˈsenətə/</span></div>
+  <div class="vm-meaning">n. 参议员/上议院议员</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞呢特」—— 塞进呢特（net）中选上了参议员 🏛️</div>
+  <div class="vm-example">The <b>senator</b> delivered a passionate speech on healthcare reform.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5682</div>
+  <div class="vm-head"><span class="vm-word">sensitivity</span><span class="vm-phonetic">/ˌsensɪˈtɪvɪti/</span></div>
+  <div class="vm-meaning">n. 敏感/灵敏度/感受性</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「三思题维提」—— 再三思考题目，维护提出的敏感性问题 🤔</div>
+  <div class="vm-example">The report was handled with great <b>sensitivity</b> due to its controversial nature.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5683</div>
+  <div class="vm-head"><span class="vm-word">sentence</span><span class="vm-phonetic">/ˈsentəns/</span></div>
+  <div class="vm-meaning">n. 句子/判决/徒刑 v. 判决</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「三腾死」—— 法官念了三个句子，判了他死刑 ⚖️</div>
+  <div class="vm-example">The judge handed down a <b>sentence</b> of five years in prison.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5684</div>
+  <div class="vm-head"><span class="vm-word">sentimental</span><span class="vm-phonetic">/ˌsentɪˈmentl/</span></div>
+  <div class="vm-meaning">adj. 感伤的/多愁善感的/情感的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「三题满透」—— 三个题目满满的情绪透了出来 😢</div>
+  <div class="vm-example">The old photograph had great <b>sentimental</b> value to the family.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5685</div>
+  <div class="vm-head"><span class="vm-word">separate</span><span class="vm-phonetic">/ˈsepəreɪt/</span></div>
+  <div class="vm-meaning">v. 分开/分离/分居 adj. 分开的/独立的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞破瑞」—— 塞破的瑞（wish）把两人分开了 💔</div>
+  <div class="vm-example">The teacher asked the two boys to <b>separate</b> and sit at opposite ends.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5686</div>
+  <div class="vm-head"><span class="vm-word">serenity</span><span class="vm-phonetic">/sɪˈrenɪti/</span></div>
+  <div class="vm-meaning">n. 宁静/平静/安详</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「室瑞尼提」—— 室内瑞（rich）的尼姑提出需要宁静 🧘</div>
+  <div class="vm-example">The garden was a place of perfect <b>serenity</b>, far from the city noise.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5687</div>
+  <div class="vm-head"><span class="vm-word">serious</span><span class="vm-phonetic">/ˈsɪəriəs/</span></div>
+  <div class="vm-meaning">adj. 严肃的/严重的/认真的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细耳俄斯」—— 仔细竖起耳朵听俄国斯大爷的严肃讲话 😐</div>
+  <div class="vm-example">This is a very <b>serious</b> matter that requires our immediate attention.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5688</div>
+  <div class="vm-head"><span class="vm-word">seriously</span><span class="vm-phonetic">/ˈsɪəriəsli/</span></div>
+  <div class="vm-meaning">adv. 认真地/严肃地/严重地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「细耳俄斯里」—— 仔细竖起耳朵听俄国斯里面的严肃讲话 🔍</div>
+  <div class="vm-example">You need to take this warning <b>seriously</b>; it could save your life.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5689</div>
+  <div class="vm-head"><span class="vm-word">setting</span><span class="vm-phonetic">/ˈsetɪŋ/</span></div>
+  <div class="vm-meaning">n. 环境/背景/设置/镶嵌底座</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞停」—— 调整好设置，手机就塞停不卡了 ⚙️</div>
+  <div class="vm-example">The novel has a beautiful rural <b>setting</b> in the Italian countryside.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5690</div>
+  <div class="vm-head"><span class="vm-word">settle</span><span class="vm-phonetic">/ˈsetl/</span></div>
+  <div class="vm-meaning">v. 解决/定居/安顿/结算</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞头」—— 把头塞进新家，算是定居了 🏠</div>
+  <div class="vm-example">After years of travelling, they decided to <b>settle</b> down in a small village.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5691</div>
+  <div class="vm-head"><span class="vm-word">sever</span><span class="vm-phonetic">/ˈsevə/</span></div>
+  <div class="vm-meaning">v. 切断/割断/断绝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「塞我」—— 把刀塞到我手上，让我切断这根绳子 ✂️</div>
+  <div class="vm-example">The company decided to <b>sever</b> all ties with its controversial supplier.</div>
+
+
+<div class="vm-word-card">
+  <div class="vm-num">#5692</div>
+  <div class="vm-head"><span class="vm-word">sport</span><span class="vm-phonetic">/spɔːrt/</span></div>
+  <div class="vm-meaning">n. 运动/体育 v. 炫耀地穿戴</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯波特」—— 斯（这）波特爱运动 ⚽</div>
+  <div class="vm-example">Regular sport and exercise are essential for good health.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5693</div>
+  <div class="vm-head"><span class="vm-word">sprain</span><span class="vm-phonetic">/spreɪn/</span></div>
+  <div class="vm-meaning">v./n. 扭伤</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普雷恩」—— 斯（这）普雷恩（rain）扭伤了 🤕</div>
+  <div class="vm-example">He suffered a sprained ankle while playing basketball.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5694</div>
+  <div class="vm-head"><span class="vm-word">spray</span><span class="vm-phonetic">/spreɪ/</span></div>
+  <div class="vm-meaning">v./n. 喷洒/喷雾</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普雷」—— 斯（使劲）普（铺）雷（雷声般）喷洒 💨</div>
+  <div class="vm-example">She used a spray bottle to water the delicate seedlings.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5695</div>
+  <div class="vm-head"><span class="vm-word">spring</span><span class="vm-phonetic">/sprɪŋ/</span></div>
+  <div class="vm-meaning">n. 春天/弹簧/泉水 v. 跳跃</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普令」—— 春天来了，弹簧般跳跃 🌸</div>
+  <div class="vm-example">The flowers bloom beautifully in the spring season.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5696</div>
+  <div class="vm-head"><span class="vm-word">sprout</span><span class="vm-phonetic">/spraʊt/</span></div>
+  <div class="vm-meaning">v. 发芽/萌生 n. 新芽</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯普绕特」—— 新芽绕着特别的支架生长 🌱</div>
+  <div class="vm-example">The seeds began to sprout within just a few days.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5697</div>
+  <div class="vm-head"><span class="vm-word">spur</span><span class="vm-phonetic">/spɜːr/</span></div>
+  <div class="vm-meaning">v. 激励/刺激 n. 马刺</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯珀尔」—— 用马刺激励马儿快跑 🏇</div>
+  <div class="vm-example">The competition will spur innovation in the industry.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5698</div>
+  <div class="vm-head"><span class="vm-word">square</span><span class="vm-phonetic">/skwer/</span></div>
+  <div class="vm-meaning">n. 正方形/广场 adj. 方正的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯奎尔」—— 四块儿摆成正方形 ◼️</div>
+  <div class="vm-example">The town square was decorated with lights for the festival.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5699</div>
+  <div class="vm-head"><span class="vm-word">squash</span><span class="vm-phonetic">/skwɑːʃ/</span></div>
+  <div class="vm-meaning">v. 压扁/镇压 n. 壁球/南瓜</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯阔什」—— 使劲阔（扩）压什（什么）都给压扁 🎃</div>
+  <div class="vm-example">The crowd was squashed into the small concert venue.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#5700</div>
+  <div class="vm-head"><span class="vm-word">squat</span><span class="vm-phonetic">/skwɑːt/</span></div>
+  <div class="vm-meaning">v./n. 蹲/蹲坐 adj. 矮胖的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「斯阔特」—— 四个阔（跨）特（特别）蹲姿 🏋️</div>
+  <div class="vm-example">She squatted down to tie her shoelaces on the sidewalk.</div>
+</div>
+</div>
+
+</div>
