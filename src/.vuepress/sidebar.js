@@ -1,6 +1,9 @@
 // sidebar.js - 侧边栏配置
 //
 // 上下文感知：按路径前缀分组，点进某个卡片后侧边栏只显示当前卡片下的子文件夹
+//
+// 修复说明（2026-05-25）：
+//   vocabMemeSidebar 改为由 flattenFiles 自动扫描，不再硬编码（新增 wordbook-8.md 无需改配置）
 
 import { resolve, dirname, relative } from "path";
 import { fileURLToPath } from "url";
@@ -68,16 +71,11 @@ const ieltsReadingSidebar   = topicGroup(ieltsTopics, "ielts", "ielts/reading");
 const ieltsWritingSidebar   = topicGroup(ieltsTopics, "ielts", "ielts/writing");
 const ieltsSpeakingSidebar  = topicGroup(ieltsTopics, "ielts", "ielts/speaking");
 
-// ---------- 恶搞单词侧边栏 ----------
-const vocabMemeSidebar = [
-  { text: "单词本_1", link: "/ielts/vocab-meme/wordbook/wordbook-1" },
-  { text: "单词本_2", link: "/ielts/vocab-meme/wordbook/wordbook-2" },
-  { text: "单词本_3", link: "/ielts/vocab-meme/wordbook/wordbook-3" },
-  { text: "单词本_4", link: "/ielts/vocab-meme/wordbook/wordbook-4" },
-  { text: "单词本_5", link: "/ielts/vocab-meme/wordbook/wordbook-5" },
-  { text: "单词本_6", link: "/ielts/vocab-meme/wordbook/wordbook-6" },
-  { text: "单词本_7", link: "/ielts/vocab-meme/wordbook/wordbook-7" },
-];
+// ---------- 恶搞单词侧边栏（自动扫描，不再硬编码）----------
+const vocabMemeSidebar = flattenFiles("ielts/vocab-meme/wordbook").map((p) => ({
+  text: p.replace(/^.*\//, "").replace(/-/g, "_"),
+  link: p,
+}));
 
 // ---------- 软考各子话题侧边栏 ----------
 const sysarchKnowledgeSidebar = topicGroup(sysarchTopics, "system-architect", "system-architect/knowledge");
