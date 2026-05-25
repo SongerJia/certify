@@ -1,0 +1,906 @@
+---
+title: 单词本_28
+---
+
+<div class="vm-word-cards">
+  <div class="vm-word-card">
+    <div class="vm-num">#2701</div>
+    <div class="vm-head"><span class="vm-word">destine</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 注定，预定</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「带死听」—— destine（注定）→ 人这一生，带死听命，逃不掉的 destiny</div>
+    <div class="vm-example">The word <b>destine</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2702</div>
+    <div class="vm-head"><span class="vm-word">destruction</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 破坏，毁灭</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯抓克神」—— construction（建设）↔ destruction（破坏），一对反义词记牢固</div>
+    <div class="vm-example">The word <b>destruction</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2703</div>
+    <div class="vm-head"><span class="vm-word">destructive</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 破坏性的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯抓克体悟」—— destructive → de（去除）+ struct（结构）+ ive → 破结构的 → 破坏性的</div>
+    <div class="vm-example">The word <b>destructive</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2704</div>
+    <div class="vm-head"><span class="vm-word">detach</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 分离，拆卸</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪太吃」—— de（去除）+ tach（=attach 附着的反义）→ 分离</div>
+    <div class="vm-example">The word <b>detach</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2705</div>
+    <div class="vm-head"><span class="vm-word">detain</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 拘留，扣押</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪特恩」—— de（下）+ tain（=hold 持有）→ 扣下来 → 拘留</div>
+    <div class="vm-example">The word <b>detain</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2706</div>
+    <div class="vm-head"><span class="vm-word">detection</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 侦查，发现</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪太克神」—— detect（发现）+ ion → 侦查、发现的过程</div>
+    <div class="vm-example">The word <b>detection</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2707</div>
+    <div class="vm-head"><span class="vm-word">detective</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 侦探</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪太克体悟」—— detect（发现）+ ive → 负责发现真相的人 → 侦探</div>
+    <div class="vm-example">The word <b>detective</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2708</div>
+    <div class="vm-head"><span class="vm-word">deter</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 阻止，威慑</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪特」—— de（离开）+ ter（=terr 恐吓）→ 吓退 → 阻止、威慑</div>
+    <div class="vm-example">The word <b>deter</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2709</div>
+    <div class="vm-head"><span class="vm-word">determination</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 决心，决定</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪特米内神」—— determine（决定）+ ation → 下定决心 → 决心</div>
+    <div class="vm-example">The word <b>determination</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2710</div>
+    <div class="vm-head"><span class="vm-word">determine</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 决定，确定</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪特名」—— de（完全）+ termine（终点）→ 确定终点 → 决定</div>
+    <div class="vm-example">The word <b>determine</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2711</div>
+    <div class="vm-head"><span class="vm-word">detour</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n./v. 绕道，迂回</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪兔儿」—— de（离开）+ tour（旅程）→ 偏离原路线 → 绕道</div>
+    <div class="vm-example">The word <b>detour</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2712</div>
+    <div class="vm-head"><span class="vm-word">detriment</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 损害，伤害</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「带锤门特」—— de（向下）+ tri（=trit 磨损）+ ment → 磨损下去 → 损害</div>
+    <div class="vm-example">The word <b>detriment</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2713</div>
+    <div class="vm-head"><span class="vm-word">devotion</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 奉献，忠诚</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪我神」—— devote（奉献）+ ion → 奉献精神</div>
+    <div class="vm-example">The word <b>devotion</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2714</div>
+    <div class="vm-head"><span class="vm-word">devour</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 狼吞虎咽，吞噬</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪瓦儿」—— de（完全）+ vour（=vor 吃）→ 完全吃掉 → 吞噬</div>
+    <div class="vm-example">The word <b>devour</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2715</div>
+    <div class="vm-head"><span class="vm-word">diagram</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 图表，图解</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴尔关姆」—— dia（穿过）+ gram（写/画）→ 画出来的 → 图表</div>
+    <div class="vm-example">The word <b>diagram</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2716</div>
+    <div class="vm-head"><span class="vm-word">diameter</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 直径</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴艾米特」—— dia（穿过）+ meter（测量）→ 穿过圆心的测量 → 直径</div>
+    <div class="vm-example">The word <b>diameter</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2717</div>
+    <div class="vm-head"><span class="vm-word">dictate</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 口授，命令，支配</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪克忒特」—— dict（说）+ ate → 口述命令 → 口授、支配</div>
+    <div class="vm-example">The word <b>dictate</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2718</div>
+    <div class="vm-head"><span class="vm-word">dictator</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 独裁者</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪克忒特」—— dictate（命令）+ or（人）→ 发号施令的人 → 独裁者</div>
+    <div class="vm-example">The word <b>dictator</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2719</div>
+    <div class="vm-head"><span class="vm-word">diction</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 措辞，用词</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪克神」—— dict（说）+ ion → 说话的方式 → 措辞</div>
+    <div class="vm-example">The word <b>diction</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2720</div>
+    <div class="vm-head"><span class="vm-word">diet</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 饮食，节食</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴厄特」—— die（死）+ t → 节食饿得要死 → diet</div>
+    <div class="vm-example">The word <b>diet</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2721</div>
+    <div class="vm-head"><span class="vm-word">differ</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vi. 不同，相异</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪佛」—— dif（=dis 分开）+ fer（携带）→ 各带各的 → 不同</div>
+    <div class="vm-example">The word <b>differ</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2722</div>
+    <div class="vm-head"><span class="vm-word">diffuse</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 扩散 adj. 弥漫的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪菲优兹」—— dif（=dis 分开）+ fuse（倾倒）→ 分散倒出 → 扩散</div>
+    <div class="vm-example">The word <b>diffuse</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2723</div>
+    <div class="vm-head"><span class="vm-word">digest</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 消化，领会</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴杰斯特」—— di（分开）+ gest（携带）→ 分开运走 → 消化</div>
+    <div class="vm-example">The word <b>digest</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2724</div>
+    <div class="vm-head"><span class="vm-word">digestion</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 消化</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴杰斯陈」—— digest（消化）+ ion → 消化过程</div>
+    <div class="vm-example">The word <b>digestion</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2725</div>
+    <div class="vm-head"><span class="vm-word">dignity</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 尊严，高贵</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪格内体」—— dign（价值、尊严）+ ity → 尊严</div>
+    <div class="vm-example">The word <b>dignity</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2726</div>
+    <div class="vm-head"><span class="vm-word">dim</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 昏暗的，模糊的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪姆」—— dim → 发音像"dim"，嘴型微张模糊 → 昏暗</div>
+    <div class="vm-example">The word <b>dim</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2727</div>
+    <div class="vm-head"><span class="vm-word">dime</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. （美/加）十分硬币</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴姆」—— dime → 一毛钱，不值一提。一句 "a dime a dozen" 记牢</div>
+    <div class="vm-example">The word <b>dime</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2728</div>
+    <div class="vm-head"><span class="vm-word">dimensional</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 维度的，尺寸的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴门神诺」—— dimension（维度）+ al → 维度的</div>
+    <div class="vm-example">The word <b>dimensional</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2729</div>
+    <div class="vm-head"><span class="vm-word">dine</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vi. 进餐，用餐</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴恩」—— dine → dinner 的动词形式 → 用餐</div>
+    <div class="vm-example">The word <b>dine</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2730</div>
+    <div class="vm-head"><span class="vm-word">dingy</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 昏暗肮脏的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「丁吉」—— dingy → 发音暗沉，和它"昏暗肮脏"的意思完美匹配</div>
+    <div class="vm-example">The word <b>dingy</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2731</div>
+    <div class="vm-head"><span class="vm-word">dip</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 浸，蘸；下降</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪普」—— dip → 简短有力的词，蘸一下再提起来</div>
+    <div class="vm-example">The word <b>dip</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2732</div>
+    <div class="vm-head"><span class="vm-word">diploma</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 文凭，毕业证书</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪普罗马」—— diploma → diplomacy（外交）的亲戚，拿了文凭才能搞外交</div>
+    <div class="vm-example">The word <b>diploma</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2733</div>
+    <div class="vm-head"><span class="vm-word">diplomat</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 外交官</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪普罗马特」—— diploma（文凭）+ t → 有文凭的人才能当外交官？</div>
+    <div class="vm-example">The word <b>diplomat</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2734</div>
+    <div class="vm-head"><span class="vm-word">diplomatic</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 外交的，圆滑的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪普罗马体克」—— diplomat（外交官）+ ic → 外交的、老练的</div>
+    <div class="vm-example">The word <b>diplomatic</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2735</div>
+    <div class="vm-head"><span class="vm-word">dire</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 可怕的，极度的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴尔」—— dire → 和 die（死）同源 → 可怕的、要命的</div>
+    <div class="vm-example">The word <b>dire</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2736</div>
+    <div class="vm-head"><span class="vm-word">disable</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 使残疾，使无效</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯A博」—— dis（否定）+ able（能够）→ 使不能 → 使残疾</div>
+    <div class="vm-example">The word <b>disable</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2737</div>
+    <div class="vm-head"><span class="vm-word">disadvantage</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 不利条件，劣势</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯阿凡体之」—— dis（否定）+ advantage（优势）→ 劣势</div>
+    <div class="vm-example">The word <b>disadvantage</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2738</div>
+    <div class="vm-head"><span class="vm-word">disappointment</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 失望</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯阿泡因特门特」—— disappoint（使失望）+ ment → 失望</div>
+    <div class="vm-example">The word <b>disappointment</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2739</div>
+    <div class="vm-head"><span class="vm-word">disapproval</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 不赞成，反对</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯阿普入否」—— dis（否定）+ approval（赞成）→ 不赞成</div>
+    <div class="vm-example">The word <b>disapproval</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2740</div>
+    <div class="vm-head"><span class="vm-word">disaster</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 灾难</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪砸斯特」—— dis（坏）+ aster（星星）→ 星位不好 → 古人认为星象不好预示灾难</div>
+    <div class="vm-example">The word <b>disaster</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2741</div>
+    <div class="vm-head"><span class="vm-word">disastrous</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 灾难性的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪砸斯绰斯」—— disaster（灾难）+ ous → 灾难性的</div>
+    <div class="vm-example">The word <b>disastrous</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2742</div>
+    <div class="vm-head"><span class="vm-word">disc</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 圆盘，光盘</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯科」—— disc → 和 dish（盘子）同源 → 圆盘</div>
+    <div class="vm-example">The word <b>disc</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2743</div>
+    <div class="vm-head"><span class="vm-word">discard</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 丢弃，抛弃</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯卡的」—— dis（去除）+ card（卡片）→ 扔掉卡片 → 丢弃</div>
+    <div class="vm-example">The word <b>discard</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2744</div>
+    <div class="vm-head"><span class="vm-word">discharge</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v./n. 排放；解雇；出院</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯查之」—— dis（去除）+ charge（装载）→ 卸下 → 排放、解雇</div>
+    <div class="vm-example">The word <b>discharge</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2745</div>
+    <div class="vm-head"><span class="vm-word">discomfort</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 不适，不舒服</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯康佛特」—— dis（否定）+ comfort（舒适）→ 不适</div>
+    <div class="vm-example">The word <b>discomfort</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2746</div>
+    <div class="vm-head"><span class="vm-word">discount</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 折扣 v. 打折</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯康特」—— dis（去除）+ count（计算）→ 不算全价 → 打折</div>
+    <div class="vm-example">The word <b>discount</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2747</div>
+    <div class="vm-head"><span class="vm-word">discourage</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 使气馁，劝阻</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯卡瑞之」—— dis（去除）+ courage（勇气）→ 去除勇气 → 使气馁</div>
+    <div class="vm-example">The word <b>discourage</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2748</div>
+    <div class="vm-head"><span class="vm-word">discourse</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 论述，谈话</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯扩斯」—— dis（分开）+ course（跑）→ 跑来跑去的讨论 → 论述</div>
+    <div class="vm-example">The word <b>discourse</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2749</div>
+    <div class="vm-head"><span class="vm-word">discreet</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 谨慎的，慎重的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯克瑞特」—— dis（分开）+ creet（=cern 区分）→ 能区分对错的 → 谨慎的</div>
+    <div class="vm-example">The word <b>discreet</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2750</div>
+    <div class="vm-head"><span class="vm-word">disgrace</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 耻辱 v. 使丢脸</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯桂斯」—— dis（否定）+ grace（优雅、体面）→ 失去体面 → 耻辱</div>
+    <div class="vm-example">The word <b>disgrace</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2751</div>
+    <div class="vm-head"><span class="vm-word">disguise</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt./n. 伪装，掩饰</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯盖兹」—— dis（相反）+ guise（外表）→ 改变外表 → 伪装</div>
+    <div class="vm-example">The word <b>disguise</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2752</div>
+    <div class="vm-head"><span class="vm-word">disgust</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n./vt. 厌恶，恶心</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯嘎斯特」—— dis（否定）+ gust（口味）→ 不合口味 → 厌恶</div>
+    <div class="vm-example">The word <b>disgust</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2753</div>
+    <div class="vm-head"><span class="vm-word">disinclined</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 不愿的，不情愿的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯因可兰的」—— dis（否定）+ inclined（倾向的）→ 不倾向的 → 不情愿的</div>
+    <div class="vm-example">The word <b>disinclined</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2754</div>
+    <div class="vm-head"><span class="vm-word">disinfectant</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 消毒剂</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯因菲克腾特」—— disinfect（消毒）+ ant（剂）→ 消毒剂</div>
+    <div class="vm-example">The word <b>disinfectant</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2755</div>
+    <div class="vm-head"><span class="vm-word">dismal</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 阴沉的，凄凉的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪兹莫」—— dis（坏）+ mal（=malus 坏的）→ 双重坏 → 凄凉的</div>
+    <div class="vm-example">The word <b>dismal</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2756</div>
+    <div class="vm-head"><span class="vm-word">dismay</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n./vt. 沮丧，惊慌</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯梅」—— dis（去除）+ may（可能）→ 没有可能 → 沮丧</div>
+    <div class="vm-example">The word <b>dismay</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2757</div>
+    <div class="vm-head"><span class="vm-word">dismiss</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 解雇，驳回，不予理会</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯密斯」—— dis（离开）+ miss（送）→ 送走 → 解雇</div>
+    <div class="vm-example">The word <b>dismiss</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2758</div>
+    <div class="vm-head"><span class="vm-word">disorder</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 混乱，失调</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯奥德」—— dis（否定）+ order（秩序）→ 混乱</div>
+    <div class="vm-example">The word <b>disorder</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2759</div>
+    <div class="vm-head"><span class="vm-word">dispatch</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt./n. 派遣，发送</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯派吃」—— dis（分开）+ patch（=ped 脚）→ 迈步出去 → 派遣</div>
+    <div class="vm-example">The word <b>dispatch</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2760</div>
+    <div class="vm-head"><span class="vm-word">dispel</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 驱散，消除</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯派欧」—— dis（分开）+ pel（推动）→ 推开 → 驱散</div>
+    <div class="vm-example">The word <b>dispel</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2761</div>
+    <div class="vm-head"><span class="vm-word">dispense</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 分发，配药</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯彭斯」—— dis（分开）+ pense（=pend 称量）→ 分开称量 → 分发</div>
+    <div class="vm-example">The word <b>dispense</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2762</div>
+    <div class="vm-head"><span class="vm-word">disperse</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 分散，驱散</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯波斯」—— di（=dis 分开）+ sperse（散开）→ 分散</div>
+    <div class="vm-example">The word <b>disperse</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2763</div>
+    <div class="vm-head"><span class="vm-word">displacement</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 移位，排水量</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯普雷斯门特」—— displace（移位）+ ment → 移位；物理学中指排水量</div>
+    <div class="vm-example">The word <b>displacement</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2764</div>
+    <div class="vm-head"><span class="vm-word">disposed</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 有意愿的，有倾向的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯剖兹的」—— dispose（安排、倾向）+ ed → 有倾向的</div>
+    <div class="vm-example">The word <b>disposed</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2765</div>
+    <div class="vm-head"><span class="vm-word">disposition</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 性情，倾向，安排</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯波兹神」—— dispose（安排）+ ition → 性情、倾向</div>
+    <div class="vm-example">The word <b>disposition</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2766</div>
+    <div class="vm-head"><span class="vm-word">dispute</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n./v. 争论，争端</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯皮优特」—— dis（不同）+ pute（=putare 思考）→ 想法不同 → 争论</div>
+    <div class="vm-example">The word <b>dispute</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2767</div>
+    <div class="vm-head"><span class="vm-word">disregard</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt./n. 忽视，漠视</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯瑞嘎的」—— dis（否定）+ regard（关注）→ 不关注 → 忽视</div>
+    <div class="vm-example">The word <b>disregard</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2768</div>
+    <div class="vm-head"><span class="vm-word">disrupt</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 扰乱，使中断</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯若普特」—— dis（分开）+ rupt（断裂）→ 打断 → 扰乱</div>
+    <div class="vm-example">The word <b>disrupt</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2769</div>
+    <div class="vm-head"><span class="vm-word">dissent</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n./vi. 异议，不同意</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪森特」—— dis（不同）+ sent（感觉）→ 感觉不同 → 异议</div>
+    <div class="vm-example">The word <b>dissent</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2770</div>
+    <div class="vm-head"><span class="vm-word">dissimilar</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 不同的，不相似的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯米勒」—— dis（否定）+ similar（相似）→ 不相似的</div>
+    <div class="vm-example">The word <b>dissimilar</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2771</div>
+    <div class="vm-head"><span class="vm-word">dissolve</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 溶解，解散</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪造吾」—— dis（分开）+ solve（松解）→ 松解开 → 溶解</div>
+    <div class="vm-example">The word <b>dissolve</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2772</div>
+    <div class="vm-head"><span class="vm-word">distance</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 距离，远方</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯腾斯」—— di（=dis 分开）+ stance（站立）→ 分开站立 → 距离</div>
+    <div class="vm-example">The word <b>distance</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2773</div>
+    <div class="vm-head"><span class="vm-word">distant</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 遥远的，疏远的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯腾特」—— di（分开）+ stant（站立）→ 站得远 → 遥远的</div>
+    <div class="vm-example">The word <b>distant</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2774</div>
+    <div class="vm-head"><span class="vm-word">distinctly</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adv. 清楚地，明显地</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯汀克特利」—— distinct（清晰的）+ ly → 清楚地</div>
+    <div class="vm-example">The word <b>distinctly</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2775</div>
+    <div class="vm-head"><span class="vm-word">distinguished</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 卓越的，著名的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯汀贵斯特」—— distinguish（区分）+ ed → 能被区分出来的 → 卓越的</div>
+    <div class="vm-example">The word <b>distinguished</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2776</div>
+    <div class="vm-head"><span class="vm-word">distortion</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 扭曲，变形</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯多神」—— distort（扭曲）+ ion → 扭曲</div>
+    <div class="vm-example">The word <b>distortion</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2777</div>
+    <div class="vm-head"><span class="vm-word">distract</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 分散注意力，使分心</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯踹克特」—— dis（分开）+ tract（拉）→ 注意力被拉开 → 分心</div>
+    <div class="vm-example">The word <b>distract</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2778</div>
+    <div class="vm-head"><span class="vm-word">distraction</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 分心，消遣</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯踹克神」—— distract（分心）+ ion → 分心的事</div>
+    <div class="vm-example">The word <b>distraction</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2779</div>
+    <div class="vm-head"><span class="vm-word">distress</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 痛苦，悲伤 vt. 使痛苦</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯坠斯」—— di（=dis 完全）+ stress（压力）→ 完全被压 → 痛苦</div>
+    <div class="vm-example">The word <b>distress</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2780</div>
+    <div class="vm-head"><span class="vm-word">distribution</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 分配，分布</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯吹比优神」—— distribute（分配）+ ion → 分配</div>
+    <div class="vm-example">The word <b>distribution</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2781</div>
+    <div class="vm-head"><span class="vm-word">district</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 地区，区域</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯坠克特」—— di（=dis 分开）+ strict（拉紧）→ 划定的区域 → 地区</div>
+    <div class="vm-example">The word <b>district</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2782</div>
+    <div class="vm-head"><span class="vm-word">disturb</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 打扰，扰乱</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯特波」—— dis（完全）+ turb（搅乱）→ 完全搅乱 → 打扰</div>
+    <div class="vm-example">The word <b>disturb</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2783</div>
+    <div class="vm-head"><span class="vm-word">disturbance</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 骚乱，干扰</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪斯特奔斯」—— disturb（打扰）+ ance → 骚乱、干扰</div>
+    <div class="vm-example">The word <b>disturbance</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2784</div>
+    <div class="vm-head"><span class="vm-word">ditch</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 沟渠 vt. 抛弃</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪吃」—— ditch（沟）→ 把东西丢进沟里 → 抛弃</div>
+    <div class="vm-example">The word <b>ditch</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2785</div>
+    <div class="vm-head"><span class="vm-word">dive</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vi. 跳水，潜水</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴捂」—— dive → 和 drive（驾驶）差一个字母，开车下水就是跳水</div>
+    <div class="vm-example">The word <b>dive</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2786</div>
+    <div class="vm-head"><span class="vm-word">diver</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 潜水员</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴我」—— dive（跳水）+ er → 潜水的人 → 潜水员</div>
+    <div class="vm-example">The word <b>diver</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2787</div>
+    <div class="vm-head"><span class="vm-word">diverge</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vi. 分叉，分歧</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴我之」—— di（=dis 分开）+ verge（转向）→ 转向不同方向 → 分歧</div>
+    <div class="vm-example">The word <b>diverge</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2788</div>
+    <div class="vm-head"><span class="vm-word">divergence</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 分歧，差异</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴我诊斯」—— diverge（分歧）+ ence → 分歧</div>
+    <div class="vm-example">The word <b>divergence</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2789</div>
+    <div class="vm-head"><span class="vm-word">diversion</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 转向，消遣</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴我神」—— divert（转向）+ ion → 转向、消遣</div>
+    <div class="vm-example">The word <b>diversion</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2790</div>
+    <div class="vm-head"><span class="vm-word">divert</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">vt. 使转向，转移</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「戴我特」—— di（分开）+ vert（转向）→ 转向 → 转移</div>
+    <div class="vm-example">The word <b>divert</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2791</div>
+    <div class="vm-head"><span class="vm-word">divide</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 分开，除以</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪外的」—— di（=dis 分开）+ vide（=vid 分开）→ 分开</div>
+    <div class="vm-example">The word <b>divide</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2792</div>
+    <div class="vm-head"><span class="vm-word">divine</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 神圣的，极好的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪外恩」—— div（=deus 神）+ ine → 神的 → 神圣的</div>
+    <div class="vm-example">The word <b>divine</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2793</div>
+    <div class="vm-head"><span class="vm-word">division</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 部门，分割，除法</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪威神」—— divide（分开）+ ion → 分割、部门</div>
+    <div class="vm-example">The word <b>division</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2794</div>
+    <div class="vm-head"><span class="vm-word">divorce</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n./v. 离婚，分离</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪沃斯」—— di（分开）+ vorce（=vert 转向）→ 各走各路 → 离婚</div>
+    <div class="vm-example">The word <b>divorce</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2795</div>
+    <div class="vm-head"><span class="vm-word">dizzy</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">adj. 头晕目眩的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「迪兹」—— dizzy → 发音本身就晕乎乎的，d-i-z-z-y 四个字母都在转</div>
+    <div class="vm-example">The word <b>dizzy</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2796</div>
+    <div class="vm-head"><span class="vm-word">dock</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 码头 v. 停靠；扣工资</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「道克」—— dock → 船停靠码头，工资也被"靠"（扣）了</div>
+    <div class="vm-example">The word <b>dock</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2797</div>
+    <div class="vm-head"><span class="vm-word">documentary</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 纪录片 adj. 文件的</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「道Q门吹」—— document（文件）+ ary → 基于文件的 → 纪录片</div>
+    <div class="vm-example">The word <b>documentary</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2798</div>
+    <div class="vm-head"><span class="vm-word">documentation</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 文件，文档</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「道Q门忒神」—— document（文件）+ ation → 文档资料</div>
+    <div class="vm-example">The word <b>documentation</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2799</div>
+    <div class="vm-head"><span class="vm-word">dodge</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">v. 闪避，躲避</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「道之」—— Dodge（道奇汽车）+ dodge（闪避），品牌名和动词完美呼应</div>
+    <div class="vm-example">The word <b>dodge</b> is important for IELTS.</div>
+  </div>
+
+  <div class="vm-word-card">
+    <div class="vm-num">#2800</div>
+    <div class="vm-head"><span class="vm-word">dogma</span><span class="vm-phonetic"></span></div>
+    <div class="vm-meaning">n. 教条，信条</div>
+    <span class="vm-meme-label vm-label-xieyin">谐音</span>
+    <div class="vm-meme">「道格马」—— dog（狗）+ ma（妈）→ 狗妈妈教小狗的规矩 → 教条</div>
+    <div class="vm-example">The word <b>dogma</b> is important for IELTS.</div>
+  </div>
+
+</div>

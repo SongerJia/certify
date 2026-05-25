@@ -1,0 +1,907 @@
+---
+title: 单词本_37
+---
+
+<div class="vm-word-cards">
+
+<div class="vm-word-card">
+  <div class="vm-num">#3601</div>
+  <div class="vm-head"><span class="vm-word">itself</span><span class="vm-phonetic">/ɪtˈself/</span></div>
+  <div class="vm-meaning">pron. 它自己</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「一特塞夫」—— it(它)+self(自己)→它自己</div>
+  <div class="vm-example">The cat cleaned <b>itself</b> after eating.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3602</div>
+  <div class="vm-head"><span class="vm-word">jacket</span><span class="vm-phonetic">/ˈdʒækɪt/</span></div>
+  <div class="vm-meaning">n. 夹克/外套</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「杰克特」—— 杰克(Jack)特别爱穿的那件外套→夹克</div>
+  <div class="vm-example">He wore a leather <b>jacket</b> to the party.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3603</div>
+  <div class="vm-head"><span class="vm-word">jail</span><span class="vm-phonetic">/dʒeɪl/</span></div>
+  <div class="vm-meaning">n./v. 监狱/监禁</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「杰哦」—— 进了监狱(jail)就叫天天不应→监狱</div>
+  <div class="vm-example">He was sent to <b>jail</b> for five years.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3604</div>
+  <div class="vm-head"><span class="vm-word">jam</span><span class="vm-phonetic">/dʒæm/</span></div>
+  <div class="vm-meaning">n. 果酱/拥挤 v. 堵塞</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「酱」—— jam 就是果酱；交通堵塞也像果酱一样黏糊→果酱/堵塞</div>
+  <div class="vm-example">We were stuck in a traffic <b>jam</b> for two hours.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3605</div>
+  <div class="vm-head"><span class="vm-word">jar</span><span class="vm-phonetic">/dʒɑːr/</span></div>
+  <div class="vm-meaning">n. 罐子</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「扎」—— 罐子(jar)口扎紧了→罐子</div>
+  <div class="vm-example">She kept the cookies in a glass <b>jar</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3606</div>
+  <div class="vm-head"><span class="vm-word">jaw</span><span class="vm-phonetic">/dʒɔː/</span></div>
+  <div class="vm-meaning">n. 下巴/颌</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「嚼」—— 下巴(jaw)是用来嚼东西的→下巴</div>
+  <div class="vm-example">He broke his <b>jaw</b> in the accident.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3607</div>
+  <div class="vm-head"><span class="vm-word">jazz</span><span class="vm-phonetic">/dʒæz/</span></div>
+  <div class="vm-meaning">n. 爵士乐</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「爵士」—— 音译词，jazz 就是爵士乐</div>
+  <div class="vm-example">They went to a club to listen to live <b>jazz</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3608</div>
+  <div class="vm-head"><span class="vm-word">jealous</span><span class="vm-phonetic">/ˈdʒeləs/</span></div>
+  <div class="vm-meaning">adj. 嫉妒的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「杰乐斯」—— 看到杰克(Jea)快乐(lous)就嫉妒→嫉妒的</div>
+  <div class="vm-example">She felt <b>jealous</b> when her friend won the prize.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3609</div>
+  <div class="vm-head"><span class="vm-word">jeans</span><span class="vm-phonetic">/dʒiːnz/</span></div>
+  <div class="vm-meaning">n. 牛仔裤</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「紧斯」—— 牛仔裤(jeans)穿着紧紧的→牛仔裤</div>
+  <div class="vm-example">She prefers to wear <b>jeans</b> on casual days.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3610</div>
+  <div class="vm-head"><span class="vm-word">jet</span><span class="vm-phonetic">/dʒet/</span></div>
+  <div class="vm-meaning">n. 喷气式飞机/喷射</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「杰特」—— 喷气(jet)飞机杰特快→喷气式飞机</div>
+  <div class="vm-example">They flew to New York by private <b>jet</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3611</div>
+  <div class="vm-head"><span class="vm-word">jewel</span><span class="vm-phonetic">/ˈdʒuːəl/</span></div>
+  <div class="vm-meaning">n. 宝石</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「珠哦」—— jewel(宝石)就是珠哦→宝石</div>
+  <div class="vm-example">The crown was decorated with precious <b>jewels</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3612</div>
+  <div class="vm-head"><span class="vm-word">jewellery</span><span class="vm-phonetic">/ˈdʒuːəlri/</span></div>
+  <div class="vm-meaning">n. 珠宝（总称）</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「珠哦瑞」—— jewel(宝石)+lery(总称)→一堆珠宝→珠宝</div>
+  <div class="vm-example">She wore beautiful <b>jewellery</b> to the dinner.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3613</div>
+  <div class="vm-head"><span class="vm-word">job</span><span class="vm-phonetic">/dʒɒb/</span></div>
+  <div class="vm-meaning">n. 工作</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「找不」—— 找不到工作(job)就焦虑→工作</div>
+  <div class="vm-example">She found a new <b>job</b> in a tech company.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3614</div>
+  <div class="vm-head"><span class="vm-word">jog</span><span class="vm-phonetic">/dʒɒɡ/</span></div>
+  <div class="vm-meaning">v./n. 慢跑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「找哥」—— 早起去找哥一起慢跑(jog)→慢跑</div>
+  <div class="vm-example">I usually go for a <b>jog</b> in the park every morning.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3615</div>
+  <div class="vm-head"><span class="vm-word">join</span><span class="vm-phonetic">/dʒɔɪn/</span></div>
+  <div class="vm-meaning">v. 加入/连接</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「找一嗯」—— 找一(join)个组织加进去→加入</div>
+  <div class="vm-example">Would you like to <b>join</b> us for lunch?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3616</div>
+  <div class="vm-head"><span class="vm-word">joint</span><span class="vm-phonetic">/dʒɔɪnt/</span></div>
+  <div class="vm-meaning">adj./n. 联合的/关节</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「找因特」—— join(连接)+t→连接处→关节/联合的</div>
+  <div class="vm-example">The two companies launched a <b>joint</b> project.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3617</div>
+  <div class="vm-head"><span class="vm-word">joke</span><span class="vm-phonetic">/dʒəʊk/</span></div>
+  <div class="vm-meaning">n./v. 笑话/开玩笑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「周可」—— 周可喜欢讲笑话(joke)→笑话</div>
+  <div class="vm-example">He told a funny <b>joke</b> that made everyone laugh.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3618</div>
+  <div class="vm-head"><span class="vm-word">journal</span><span class="vm-phonetic">/ˈdʒɜːnl/</span></div>
+  <div class="vm-meaning">n. 期刊/日记</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「哲呢哦」—— journ(日)+al→每日记录→日记/期刊</div>
+  <div class="vm-example">She published her research in a scientific <b>journal</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3619</div>
+  <div class="vm-head"><span class="vm-word">journalist</span><span class="vm-phonetic">/ˈdʒɜːnəlɪst/</span></div>
+  <div class="vm-meaning">n. 记者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「哲呢李斯特」—— journal(期刊)+ist(人)→写期刊的人→记者</div>
+  <div class="vm-example">The <b>journalist</b> interviewed the prime minister.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3620</div>
+  <div class="vm-head"><span class="vm-word">journey</span><span class="vm-phonetic">/ˈdʒɜːni/</span></div>
+  <div class="vm-meaning">n. 旅程</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「哲尼」—— journ(日)+ey→每日的行程→旅程</div>
+  <div class="vm-example">The <b>journey</b> from Beijing to Shanghai takes about five hours by train.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3621</div>
+  <div class="vm-head"><span class="vm-word">joy</span><span class="vm-phonetic">/dʒɔɪ/</span></div>
+  <div class="vm-meaning">n. 快乐</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「找一」—— 找一点快乐(joy)很容易→快乐</div>
+  <div class="vm-example">Her face lit up with <b>joy</b> when she saw the gift.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3622</div>
+  <div class="vm-head"><span class="vm-word">judge</span><span class="vm-phonetic">/dʒʌdʒ/</span></div>
+  <div class="vm-meaning">n./v. 法官/判断</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「榨汁」—— 法官(judge)判案像榨汁机一样把事实挤出来→判断</div>
+  <div class="vm-example">Don't <b>judge</b> a book by its cover.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3623</div>
+  <div class="vm-head"><span class="vm-word">judgement</span><span class="vm-phonetic">/ˈdʒʌdʒmənt/</span></div>
+  <div class="vm-meaning">n. 判断/判决</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「榨汁门特」—— judge(判断)+ment→判断的结果→判决</div>
+  <div class="vm-example">The court will deliver its final <b>judgement</b> next week.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3624</div>
+  <div class="vm-head"><span class="vm-word">juice</span><span class="vm-phonetic">/dʒuːs/</span></div>
+  <div class="vm-meaning">n. 果汁/汁</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「朱斯」—— 橘(ju)子汁(ice)连读→果汁</div>
+  <div class="vm-example">Would you like a glass of orange <b>juice</b>?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3625</div>
+  <div class="vm-head"><span class="vm-word">jungle</span><span class="vm-phonetic">/ˈdʒʌŋɡl/</span></div>
+  <div class="vm-meaning">n. 丛林</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「章戈」—— 丛林(jungle)里章鱼(章)和胳膊粗的蛇(戈)→丛林</div>
+  <div class="vm-example">The explorers got lost in the dense <b>jungle</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3626</div>
+  <div class="vm-head"><span class="vm-word">junior</span><span class="vm-phonetic">/ˈdʒuːniər/</span></div>
+  <div class="vm-meaning">adj./n. 初级的/年少者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「朱尼尔」—— jun(年轻)+ior→年轻的→初级的</div>
+  <div class="vm-example">She started as a <b>junior</b> developer and worked her way up.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3627</div>
+  <div class="vm-head"><span class="vm-word">jury</span><span class="vm-phonetic">/ˈdʒʊəri/</span></div>
+  <div class="vm-meaning">n. 陪审团</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「朱瑞」—— 陪审团(jury)来审理案子的→陪审团</div>
+  <div class="vm-example">The <b>jury</b> found the defendant not guilty.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3628</div>
+  <div class="vm-head"><span class="vm-word">just</span><span class="vm-phonetic">/dʒʌst/</span></div>
+  <div class="vm-meaning">adv. 刚刚/仅仅 adj. 公正的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「炸斯特」—— 刚刚(just)炸好的斯特→刚刚/公正的</div>
+  <div class="vm-example">I have <b>just</b> finished reading this book.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3629</div>
+  <div class="vm-head"><span class="vm-word">justice</span><span class="vm-phonetic">/ˈdʒʌstɪs/</span></div>
+  <div class="vm-meaning">n. 公正/司法</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「炸斯提斯」—— just(公正)+ice→公正→司法</div>
+  <div class="vm-example">Everyone deserves equal <b>justice</b> under the law.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3630</div>
+  <div class="vm-head"><span class="vm-word">justify</span><span class="vm-phonetic">/ˈdʒʌstɪfaɪ/</span></div>
+  <div class="vm-meaning">v. 证明正当</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「炸斯提法一」—— just(公正)+ify(使)→使变得公正→证明正当</div>
+  <div class="vm-example">Nothing can <b>justify</b> such violent behavior.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3631</div>
+  <div class="vm-head"><span class="vm-word">keen</span><span class="vm-phonetic">/kiːn/</span></div>
+  <div class="vm-meaning">adj. 热衷的/敏锐的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「看」—— 对某事物很热衷(keen)就一直盯着看→热衷的</div>
+  <div class="vm-example">She is very <b>keen</b> on learning new languages.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3632</div>
+  <div class="vm-head"><span class="vm-word">keep</span><span class="vm-phonetic">/kiːp/</span></div>
+  <div class="vm-meaning">v. 保持/保留</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「可依普」—— 可依靠的东西就要保持(keep)→保持</div>
+  <div class="vm-example">Try to <b>keep</b> calm during the interview.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3633</div>
+  <div class="vm-head"><span class="vm-word">kettle</span><span class="vm-phonetic">/ˈketl/</span></div>
+  <div class="vm-meaning">n. 水壶</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「开透」—— 水壶(kettle)烧开了就透气→水壶</div>
+  <div class="vm-example">Put the <b>kettle</b> on for a cup of tea.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3634</div>
+  <div class="vm-head"><span class="vm-word">key</span><span class="vm-phonetic">/kiː/</span></div>
+  <div class="vm-meaning">n. 钥匙/关键 adj. 关键的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「可以」—— 有了钥匙(key)就可以开门→钥匙/关键</div>
+  <div class="vm-example">Communication is the <b>key</b> to a successful relationship.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3635</div>
+  <div class="vm-head"><span class="vm-word">keyboard</span><span class="vm-phonetic">/ˈkiːbɔːd/</span></div>
+  <div class="vm-meaning">n. 键盘</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「可以博德」—— key(键)+board(板)→一块全是键的板→键盘</div>
+  <div class="vm-example">She types very fast on the <b>keyboard</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3636</div>
+  <div class="vm-head"><span class="vm-word">kick</span><span class="vm-phonetic">/kɪk/</span></div>
+  <div class="vm-meaning">v./n. 踢</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋克」—— 狠狠地克(剋)一克→踢</div>
+  <div class="vm-example">He <b>kicked</b> the ball into the goal.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3637</div>
+  <div class="vm-head"><span class="vm-word">kid</span><span class="vm-phonetic">/kɪd/</span></div>
+  <div class="vm-meaning">n. 小孩 v. 开玩笑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋的」—— 小孩(kid)调皮就要剋(管教)→小孩/开玩笑</div>
+  <div class="vm-example">Are you <b>kidding</b> me? That's unbelievable!</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3638</div>
+  <div class="vm-head"><span class="vm-word">kill</span><span class="vm-phonetic">/kɪl/</span></div>
+  <div class="vm-meaning">v. 杀死</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋哦」—— 被剋(kill)死了→杀死</div>
+  <div class="vm-example">Smoking can <b>kill</b> you.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3639</div>
+  <div class="vm-head"><span class="vm-word">kilo</span><span class="vm-phonetic">/ˈkiːləʊ/</span></div>
+  <div class="vm-meaning">n. 千克/公斤</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋楼」—— 一千克(kilo)的重量去剋楼→千克</div>
+  <div class="vm-example">I bought two <b>kilos</b> of apples.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3640</div>
+  <div class="vm-head"><span class="vm-word">kilometre</span><span class="vm-phonetic">/ˈkɪləmiːtər/</span></div>
+  <div class="vm-meaning">n. 公里</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋了米特」—— kilo(千)+metre(米)→一千米→公里</div>
+  <div class="vm-example">The nearest town is about ten <b>kilometres</b> away.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3641</div>
+  <div class="vm-head"><span class="vm-word">kind</span><span class="vm-phonetic">/kaɪnd/</span></div>
+  <div class="vm-meaning">n. 种类 adj. 善良的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「看的」—— 不同种类(kind)的东西都能看出来；善良的人看得见→种类/善良的</div>
+  <div class="vm-example">She is a very <b>kind</b> person who always helps others.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3642</div>
+  <div class="vm-head"><span class="vm-word">kindergarten</span><span class="vm-phonetic">/ˈkɪndəɡɑːtn/</span></div>
+  <div class="vm-meaning">n. 幼儿园</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「看得嘎腾」—— kinder(儿童)+garten(园)→儿童的园子→幼儿园</div>
+  <div class="vm-example">My son started <b>kindergarten</b> this year.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3643</div>
+  <div class="vm-head"><span class="vm-word">kindness</span><span class="vm-phonetic">/ˈkaɪndnəs/</span></div>
+  <div class="vm-meaning">n. 善良</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「看的尼斯」—— kind(善良)+ness→善良的品质→善良</div>
+  <div class="vm-example">Thank you for your <b>kindness</b> during my difficult time.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3644</div>
+  <div class="vm-head"><span class="vm-word">king</span><span class="vm-phonetic">/kɪŋ/</span></div>
+  <div class="vm-meaning">n. 国王</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「铿」—— 国王(king)走路铿锵有力→国王</div>
+  <div class="vm-example">The lion is called the <b>king</b> of the jungle.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3645</div>
+  <div class="vm-head"><span class="vm-word">kingdom</span><span class="vm-phonetic">/ˈkɪŋdəm/</span></div>
+  <div class="vm-meaning">n. 王国</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「铿得姆」—— king(国王)+dom(领域)→国王的领域→王国</div>
+  <div class="vm-example">The United <b>Kingdom</b> consists of four countries.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3646</div>
+  <div class="vm-head"><span class="vm-word">kiss</span><span class="vm-phonetic">/kɪs/</span></div>
+  <div class="vm-meaning">v./n. 吻</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋斯」—— 亲一下(kiss)发出"剋斯"的声音→吻</div>
+  <div class="vm-example">She gave her daughter a goodnight <b>kiss</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3647</div>
+  <div class="vm-head"><span class="vm-word">kitchen</span><span class="vm-phonetic">/ˈkɪtʃɪn/</span></div>
+  <div class="vm-meaning">n. 厨房</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「剋亲」—— 在厨房(kitchen)里吃亲(ching)手做的饭→厨房</div>
+  <div class="vm-example">She is cooking dinner in the <b>kitchen</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3648</div>
+  <div class="vm-head"><span class="vm-word">kite</span><span class="vm-phonetic">/kaɪt/</span></div>
+  <div class="vm-meaning">n. 风筝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「凯特」—— 凯特在放风筝(kite)→风筝</div>
+  <div class="vm-example">The children are flying <b>kites</b> in the park.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3649</div>
+  <div class="vm-head"><span class="vm-word">knee</span><span class="vm-phonetic">/niː/</span></div>
+  <div class="vm-meaning">n. 膝盖</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「泥」—— 跪下膝盖(knee)跪在泥里→膝盖</div>
+  <div class="vm-example">He fell and hurt his <b>knee</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3650</div>
+  <div class="vm-head"><span class="vm-word">kneel</span><span class="vm-phonetic">/niːl/</span></div>
+  <div class="vm-meaning">v. 跪下</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「泥哦」—— knee(膝盖)+l→膝盖着地→跪下</div>
+  <div class="vm-example">He <b>knelt</b> down to propose to her.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3651</div>
+  <div class="vm-head"><span class="vm-word">knife</span><span class="vm-phonetic">/naɪf/</span></div>
+  <div class="vm-meaning">n. 刀</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「耐夫」—— k 不发音→刀(knife)要耐得住用→刀</div>
+  <div class="vm-example">Be careful with that sharp <b>knife</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3652</div>
+  <div class="vm-head"><span class="vm-word">knit</span><span class="vm-phonetic">/nɪt/</span></div>
+  <div class="vm-meaning">v. 编织</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「尼特」—— k 不发音→一针一针尼特尼特地编织(knit)→编织</div>
+  <div class="vm-example">Grandma is <b>knitting</b> a sweater for me.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3653</div>
+  <div class="vm-head"><span class="vm-word">knock</span><span class="vm-phonetic">/nɒk/</span></div>
+  <div class="vm-meaning">v./n. 敲/击</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「诺克」—— k 不发音→敲门(knock)的诺克声→敲</div>
+  <div class="vm-example">Please <b>knock</b> on the door before entering.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3654</div>
+  <div class="vm-head"><span class="vm-word">knot</span><span class="vm-phonetic">/nɒt/</span></div>
+  <div class="vm-meaning">n. 结 v. 打结</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「诺特」—— k 不发音→绳子打结(knot)成一个诺特→结</div>
+  <div class="vm-example">Tie a <b>knot</b> at the end of the rope.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3655</div>
+  <div class="vm-head"><span class="vm-word">know</span><span class="vm-phonetic">/nəʊ/</span></div>
+  <div class="vm-meaning">v. 知道</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「诺」—— k 不发音→知道(know)就说"诺！"→知道</div>
+  <div class="vm-example">Do you <b>know</b> the answer to this question?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3656</div>
+  <div class="vm-head"><span class="vm-word">knowledge</span><span class="vm-phonetic">/ˈnɒlɪdʒ/</span></div>
+  <div class="vm-meaning">n. 知识</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「诺利吉」—— know(知道)+ledge→知道的东西→知识</div>
+  <div class="vm-example"><b>Knowledge</b> is power.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3657</div>
+  <div class="vm-head"><span class="vm-word">lab</span><span class="vm-phonetic">/læb/</span></div>
+  <div class="vm-meaning">n. 实验室</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来波」—— laboratory 的缩略→实验室(lab)里来一波实验→实验室</div>
+  <div class="vm-example">The scientists work in the <b>lab</b> every day.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3658</div>
+  <div class="vm-head"><span class="vm-word">label</span><span class="vm-phonetic">/ˈleɪbl/</span></div>
+  <div class="vm-meaning">n./v. 标签/贴标签</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「累波」—— 贴标签(label)累了一波→标签</div>
+  <div class="vm-example">Always read the <b>label</b> before taking medicine.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3659</div>
+  <div class="vm-head"><span class="vm-word">labor</span><span class="vm-phonetic">/ˈleɪbər/</span></div>
+  <div class="vm-meaning">n. 劳动/劳工</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「累波」—— 劳动(labor)累了像波浪一样涌来→劳动</div>
+  <div class="vm-example">The project requires a lot of manual <b>labor</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3660</div>
+  <div class="vm-head"><span class="vm-word">laboratory</span><span class="vm-phonetic">/ləˈbɒrətri/</span></div>
+  <div class="vm-meaning">n. 实验室</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「乐波若锤」—— labor(劳动)+atory(场所)→劳动做实验的场所→实验室</div>
+  <div class="vm-example">The <b>laboratory</b> is equipped with advanced technology.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3661</div>
+  <div class="vm-head"><span class="vm-word">lack</span><span class="vm-phonetic">/læk/</span></div>
+  <div class="vm-meaning">n./v. 缺乏</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来客」—— 缺乏(lack)客人→来客稀少的→缺乏</div>
+  <div class="vm-example">The project failed due to a <b>lack</b> of funding.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3662</div>
+  <div class="vm-head"><span class="vm-word">ladder</span><span class="vm-phonetic">/ˈlædər/</span></div>
+  <div class="vm-meaning">n. 梯子</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来的」—— 梯子(ladder)是用来爬的→梯子</div>
+  <div class="vm-example">He climbed the <b>ladder</b> to fix the roof.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3663</div>
+  <div class="vm-head"><span class="vm-word">lady</span><span class="vm-phonetic">/ˈleɪdi/</span></div>
+  <div class="vm-meaning">n. 女士</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷迪」—— 雷迪(lady)是个优雅的女士→女士</div>
+  <div class="vm-example">The <b>lady</b> at the counter was very helpful.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3664</div>
+  <div class="vm-head"><span class="vm-word">lake</span><span class="vm-phonetic">/leɪk/</span></div>
+  <div class="vm-meaning">n. 湖</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷克」—— 湖(lake)边打雷→湖</div>
+  <div class="vm-example">We went boating on the <b>lake</b> last weekend.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3665</div>
+  <div class="vm-head"><span class="vm-word">lamb</span><span class="vm-phonetic">/læm/</span></div>
+  <div class="vm-meaning">n. 羔羊/羊羔肉</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来姆」—— 羊羔(lamb)来得姆(亲)→羔羊</div>
+  <div class="vm-example">For dinner we had roast <b>lamb</b> with vegetables.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3666</div>
+  <div class="vm-head"><span class="vm-word">lamp</span><span class="vm-phonetic">/læmp/</span></div>
+  <div class="vm-meaning">n. 灯</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来普」—— 灯(lamp)来了普照四方→灯</div>
+  <div class="vm-example">She turned on the desk <b>lamp</b> to read.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3667</div>
+  <div class="vm-head"><span class="vm-word">land</span><span class="vm-phonetic">/lænd/</span></div>
+  <div class="vm-meaning">n. 陆地/土地 v. 着陆</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「兰的」—— 陆地(land)上长满了兰花→陆地</div>
+  <div class="vm-example">The plane will <b>land</b> in about twenty minutes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3668</div>
+  <div class="vm-head"><span class="vm-word">landlord</span><span class="vm-phonetic">/ˈlændlɔːd/</span></div>
+  <div class="vm-meaning">n. 房东/地主</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「兰的劳德」—— land(土地)+lord(主人)→土地的主人→地主/房东</div>
+  <div class="vm-example">The <b>landlord</b> raised the rent by ten percent.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3669</div>
+  <div class="vm-head"><span class="vm-word">landscape</span><span class="vm-phonetic">/ˈlændskeɪp/</span></div>
+  <div class="vm-meaning">n. 风景/景观</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「兰的斯给普」—— land(土地)+scape(景色)→地上的景色→风景</div>
+  <div class="vm-example">The <b>landscape</b> of the desert is truly breathtaking.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3670</div>
+  <div class="vm-head"><span class="vm-word">lane</span><span class="vm-phonetic">/leɪn/</span></div>
+  <div class="vm-meaning">n. 巷子/车道</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷嗯」—— 巷子(lane)里打雷的声音回荡→巷子</div>
+  <div class="vm-example">The car was driving in the fast <b>lane</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3671</div>
+  <div class="vm-head"><span class="vm-word">language</span><span class="vm-phonetic">/ˈlæŋɡwɪdʒ/</span></div>
+  <div class="vm-meaning">n. 语言</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「兰贵之」—— langu(舌)+age→舌头的技艺→语言</div>
+  <div class="vm-example">Learning a new <b>language</b> can open many doors.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3672</div>
+  <div class="vm-head"><span class="vm-word">lap</span><span class="vm-phonetic">/læp/</span></div>
+  <div class="vm-meaning">n. 大腿部/一圈</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来普」—— 小孩坐在大腿(lap)上来→大腿部</div>
+  <div class="vm-example">The cat sat on her <b>lap</b> and purred.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3673</div>
+  <div class="vm-head"><span class="vm-word">large</span><span class="vm-phonetic">/lɑːdʒ/</span></div>
+  <div class="vm-meaning">adj. 大的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉之」—— 面积大(large)到需要拉之才→大的</div>
+  <div class="vm-example">They live in a <b>large</b> house by the sea.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3674</div>
+  <div class="vm-head"><span class="vm-word">largely</span><span class="vm-phonetic">/ˈlɑːdʒli/</span></div>
+  <div class="vm-meaning">adv. 很大程度上</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉之利」—— large(大)+ly→很大程度上→很大程度上</div>
+  <div class="vm-example">The success was <b>largely</b> due to teamwork.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3675</div>
+  <div class="vm-head"><span class="vm-word">laser</span><span class="vm-phonetic">/ˈleɪzər/</span></div>
+  <div class="vm-meaning">n. 激光</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷泽」—— laser 是 Light Amplification 的首字母缩写→激光</div>
+  <div class="vm-example">The doctor used a <b>laser</b> to perform the surgery.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3676</div>
+  <div class="vm-head"><span class="vm-word">last</span><span class="vm-phonetic">/lɑːst/</span></div>
+  <div class="vm-meaning">adj./adv./v. 最后的/持续</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉斯特」—— 最后一个(last)拉斯特→最后的/持续</div>
+  <div class="vm-example">The meeting <b>lasted</b> for three hours.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3677</div>
+  <div class="vm-head"><span class="vm-word">late</span><span class="vm-phonetic">/leɪt/</span></div>
+  <div class="vm-meaning">adj./adv. 晚的/迟的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷特」—— 迟到了(late)被雷劈→晚的</div>
+  <div class="vm-example">I'm sorry I'm <b>late</b>. The traffic was terrible.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3678</div>
+  <div class="vm-head"><span class="vm-word">lately</span><span class="vm-phonetic">/ˈleɪtli/</span></div>
+  <div class="vm-meaning">adv. 最近</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷特利」—— late(晚)+ly→最近(lately)发生的事→最近</div>
+  <div class="vm-example">Have you seen any good movies <b>lately</b>?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3679</div>
+  <div class="vm-head"><span class="vm-word">later</span><span class="vm-phonetic">/ˈleɪtər/</span></div>
+  <div class="vm-meaning">adv. 后来/以后</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷特」—— late(晚)+r(比较级)→更晚的→后来</div>
+  <div class="vm-example">I'll call you <b>later</b> this afternoon.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3680</div>
+  <div class="vm-head"><span class="vm-word">latter</span><span class="vm-phonetic">/ˈlætər/</span></div>
+  <div class="vm-meaning">adj./n. 后者的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来特」—— 后来(latter)的那个→后者的</div>
+  <div class="vm-example">Between tea and coffee, I prefer the <b>latter</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3681</div>
+  <div class="vm-head"><span class="vm-word">laugh</span><span class="vm-phonetic">/lɑːf/</span></div>
+  <div class="vm-meaning">v./n. 笑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉夫」—— 笑得(laugh)拉夫拉夫的→笑</div>
+  <div class="vm-example">The joke made everyone <b>laugh</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3682</div>
+  <div class="vm-head"><span class="vm-word">laughter</span><span class="vm-phonetic">/ˈlɑːftər/</span></div>
+  <div class="vm-meaning">n. 笑声</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拉夫特」—— laugh(笑)+ter→笑声(laughter)→笑声</div>
+  <div class="vm-example">The room was filled with <b>laughter</b> and joy.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3683</div>
+  <div class="vm-head"><span class="vm-word">launch</span><span class="vm-phonetic">/lɔːntʃ/</span></div>
+  <div class="vm-meaning">v./n. 发射/启动</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「浪尺」—— 发射(launch)火箭冲浪一样冲向天际→发射</div>
+  <div class="vm-example">The company plans to <b>launch</b> the new product next month.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3684</div>
+  <div class="vm-head"><span class="vm-word">laundry</span><span class="vm-phonetic">/ˈlɔːndri/</span></div>
+  <div class="vm-meaning">n. 洗衣店/要洗的衣服</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「朗之瑞」—— 洗衣(laun)+dry(干)→洗了要晾干→洗衣店</div>
+  <div class="vm-example">I need to do the <b>laundry</b> this weekend.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3685</div>
+  <div class="vm-head"><span class="vm-word">lavatory</span><span class="vm-phonetic">/ˈlævətri/</span></div>
+  <div class="vm-meaning">n. 厕所</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「来沃吹」—— lav(洗)+atory(场所)→洗手的地方→厕所</div>
+  <div class="vm-example">Excuse me, where is the <b>lavatory</b>?</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3686</div>
+  <div class="vm-head"><span class="vm-word">law</span><span class="vm-phonetic">/lɔː/</span></div>
+  <div class="vm-meaning">n. 法律/规律</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「劳」—— 法律(law)是为劳动者服务的→法律</div>
+  <div class="vm-example">It is against the <b>law</b> to drive without a license.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3687</div>
+  <div class="vm-head"><span class="vm-word">lawn</span><span class="vm-phonetic">/lɔːn/</span></div>
+  <div class="vm-meaning">n. 草坪</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「龙」—— 草坪(lawn)上卧着一条龙→草坪</div>
+  <div class="vm-example">The children were playing on the <b>lawn</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3688</div>
+  <div class="vm-head"><span class="vm-word">lawyer</span><span class="vm-phonetic">/ˈlɔːjər/</span></div>
+  <div class="vm-meaning">n. 律师</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「劳耶」—— law(法律)+yer(人)→搞法律的人→律师</div>
+  <div class="vm-example">You should consult a <b>lawyer</b> before signing the contract.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3689</div>
+  <div class="vm-head"><span class="vm-word">lay</span><span class="vm-phonetic">/leɪ/</span></div>
+  <div class="vm-meaning">v. 放置/下蛋</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷」—— 母鸡下蛋(lay)发出雷声般的咯咯叫→放置/下蛋</div>
+  <div class="vm-example">Please <b>lay</b> the book on the table.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3690</div>
+  <div class="vm-head"><span class="vm-word">layer</span><span class="vm-phonetic">/ˈleɪər/</span></div>
+  <div class="vm-meaning">n. 层</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷儿」—— lay(放)+er→一层一层放置→层</div>
+  <div class="vm-example">The cake has three <b>layers</b> of chocolate.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3691</div>
+  <div class="vm-head"><span class="vm-word">layout</span><span class="vm-phonetic">/ˈleɪaʊt/</span></div>
+  <div class="vm-meaning">n. 布局/设计</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「雷奥特」—— lay(放置)+out(出来)→摆放出来的样子→布局</div>
+  <div class="vm-example">I really like the <b>layout</b> of this website.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3692</div>
+  <div class="vm-head"><span class="vm-word">lazy</span><span class="vm-phonetic">/ˈleɪzi/</span></div>
+  <div class="vm-meaning">adj. 懒惰的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「累贼」—— 懒惰(lazy)的人累得像贼→懒惰的</div>
+  <div class="vm-example">Don't be so <b>lazy</b> — get up and do some exercise!</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3693</div>
+  <div class="vm-head"><span class="vm-word">lead</span><span class="vm-phonetic">/liːd/</span></div>
+  <div class="vm-meaning">v. 领导/导致 n. 铅</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利得」—— 领导(lead)带领大家获利→领导；铅很重→铅</div>
+  <div class="vm-example">A good manager should <b>lead</b> by example.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3694</div>
+  <div class="vm-head"><span class="vm-word">leader</span><span class="vm-phonetic">/ˈliːdər/</span></div>
+  <div class="vm-meaning">n. 领导者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利得儿」—— lead(领导)+er(人)→领导的人→领导者</div>
+  <div class="vm-example">She is a natural <b>leader</b> who inspires her team.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3695</div>
+  <div class="vm-head"><span class="vm-word">leadership</span><span class="vm-phonetic">/ˈliːdəʃɪp/</span></div>
+  <div class="vm-meaning">n. 领导力</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利得儿戏普」—— leader(领导)+ship(能力)→领导能力→领导力</div>
+  <div class="vm-example">Good <b>leadership</b> is essential for any successful team.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3696</div>
+  <div class="vm-head"><span class="vm-word">leading</span><span class="vm-phonetic">/ˈliːdɪŋ/</span></div>
+  <div class="vm-meaning">adj. 领先的/主要的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利丁」—— lead(领先)+ing→正在领先的→领先的</div>
+  <div class="vm-example">She is a <b>leading</b> expert in her field.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3697</div>
+  <div class="vm-head"><span class="vm-word">leaf</span><span class="vm-phonetic">/liːf/</span></div>
+  <div class="vm-meaning">n. 叶子</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利夫」—— 叶子(leaf)离开树(leave)就飘走了→叶子</div>
+  <div class="vm-example">The trees are beginning to lose their <b>leaves</b> in autumn.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3698</div>
+  <div class="vm-head"><span class="vm-word">league</span><span class="vm-phonetic">/liːɡ/</span></div>
+  <div class="vm-meaning">n. 联盟/联赛</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利哥」—— 加入联盟(league)有利可图→联盟</div>
+  <div class="vm-example">Manchester United won the Premier <b>League</b> title.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3699</div>
+  <div class="vm-head"><span class="vm-word">leak</span><span class="vm-phonetic">/liːk/</span></div>
+  <div class="vm-meaning">v./n. 泄漏</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「立刻」—— 管子泄漏(leak)了水立刻流出来→泄漏</div>
+  <div class="vm-example">The pipe started to <b>leak</b> water everywhere.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#3700</div>
+  <div class="vm-head"><span class="vm-word">lean</span><span class="vm-phonetic">/liːn/</span></div>
+  <div class="vm-meaning">v. 倚靠 adj. 瘦的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「林」—— 瘦的(lean)像一根树枝立(林)着→倚靠/瘦的</div>
+  <div class="vm-example">He was tall and <b>lean</b>, like a marathon runner.</div>
+</div>
+
+</div>

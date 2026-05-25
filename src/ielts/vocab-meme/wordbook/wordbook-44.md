@@ -1,0 +1,907 @@
+---
+title: 单词本_44
+---
+
+<div class="vm-word-cards">
+
+<div class="vm-word-card">
+  <div class="vm-num">#4301</div>
+  <div class="vm-head"><span class="vm-word">abolish</span><span class="vm-phonetic">/əˈbɒlɪʃ/</span></div>
+  <div class="vm-meaning">v. 废除/废止/取消</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额波利师」—— 废除(abolish)额波利师旧法→废除</div>
+  <div class="vm-example">Many countries have <b>abolish</b>ed the death penalty in recent decades.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4302</div>
+  <div class="vm-head"><span class="vm-word">abort</span><span class="vm-phonetic">/əˈbɔːt/</span></div>
+  <div class="vm-meaning">v. 中止/流产/放弃</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额波特」—— 中止(abort)额波特任务→中止</div>
+  <div class="vm-example">The mission had to be <b>abort</b>ed due to severe weather conditions.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4303</div>
+  <div class="vm-head"><span class="vm-word">abundance</span><span class="vm-phonetic">/əˈbʌndəns/</span></div>
+  <div class="vm-meaning">n. 丰富/充裕/大量</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额班等斯」—— 丰富(abundance)额班等斯资源→丰富</div>
+  <div class="vm-example">The region has an <b>abundance</b> of natural resources waiting to be developed.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4304</div>
+  <div class="vm-head"><span class="vm-word">accelerate</span><span class="vm-phonetic">/əkˈseləreɪt/</span></div>
+  <div class="vm-meaning">v. 加速/加快/促进</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额克塞勒瑞特」—— 加速(accelerate)额克塞勒瑞特油门→加速</div>
+  <div class="vm-example">The government plans to <b>accelerate</b> the construction of affordable housing.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4305</div>
+  <div class="vm-head"><span class="vm-word">acclaim</span><span class="vm-phonetic">/əˈkleɪm/</span></div>
+  <div class="vm-meaning">v./n. 称赞/欢呼/喝彩</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额克雷姆」—— 欢呼(acclaim)额克雷姆掌声→欢呼</div>
+  <div class="vm-example">The director's latest film received widespread critical <b>acclaim</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4306</div>
+  <div class="vm-head"><span class="vm-word">accountability</span><span class="vm-phonetic">/əˌkaʊntəˈbɪləti/</span></div>
+  <div class="vm-meaning">n. 责任/问责制/可说明性</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额康特逼了提」—— 问责(accountability)额康特逼了提机制→问责</div>
+  <div class="vm-example">The new policy aims to increase <b>accountability</b> among senior managers.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4307</div>
+  <div class="vm-head"><span class="vm-word">adolescent</span><span class="vm-phonetic">/ˌædəˈlesnt/</span></div>
+  <div class="vm-meaning">n. 青少年 adj. 青春期的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「安多莱森特」—— 青少年(adolescent)安多莱森特叛逆→青少年</div>
+  <div class="vm-example">The program is designed to help <b>adolescent</b>s develop healthy social skills.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4308</div>
+  <div class="vm-head"><span class="vm-word">adversity</span><span class="vm-phonetic">/ədˈvɜːsəti/</span></div>
+  <div class="vm-meaning">n. 逆境/不幸/灾难</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额德沃色提」—— 逆境(adversity)额德沃色提中成长→逆境</div>
+  <div class="vm-example">She showed remarkable courage and resilience in the face of <b>adversity</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4309</div>
+  <div class="vm-head"><span class="vm-word">aesthetics</span><span class="vm-phonetic">/iːsˈθetɪks/</span></div>
+  <div class="vm-meaning">n. 美学/审美观/美感</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伊斯塞提克斯」—— 美学(aesthetics)伊斯塞提克斯设计→美学</div>
+  <div class="vm-example">The building combines functionality with modern <b>aesthetics</b> beautifully.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4310</div>
+  <div class="vm-head"><span class="vm-word">affirm</span><span class="vm-phonetic">/əˈfɜːm/</span></div>
+  <div class="vm-meaning">v. 肯定/确认/断言</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额佛姆」—— 确认(affirm)额佛姆答案→确认</div>
+  <div class="vm-example">The court <b>affirm</b>ed the lower court's decision in a unanimous ruling.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4311</div>
+  <div class="vm-head"><span class="vm-word">alleviate</span><span class="vm-phonetic">/əˈliːvieɪt/</span></div>
+  <div class="vm-meaning">v. 减轻/缓解/缓和</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额利维特」—— 减轻(alleviate)额利维特痛苦→减轻</div>
+  <div class="vm-example">The new medicine can effectively <b>alleviate</b> symptoms of chronic back pain.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4312</div>
+  <div class="vm-head"><span class="vm-word">allocate</span><span class="vm-phonetic">/ˈæləkeɪt/</span></div>
+  <div class="vm-meaning">v. 分配/拨出/划拨</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「埃洛克特」—— 分配(allocate)埃洛克特资源→分配</div>
+  <div class="vm-example">The government will <b>allocate</b> more funds to education and healthcare.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4313</div>
+  <div class="vm-head"><span class="vm-word">amend</span><span class="vm-phonetic">/əˈmend/</span></div>
+  <div class="vm-meaning">v. 修改/修订/修正</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额曼德」—— 修改(amend)额曼德条款→修改</div>
+  <div class="vm-example">Parliament voted to <b>amend</b> the constitution after extensive public debate.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4314</div>
+  <div class="vm-head"><span class="vm-word">analogy</span><span class="vm-phonetic">/əˈnælədʒi/</span></div>
+  <div class="vm-meaning">n. 类比/比喻/类推</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额纳乐及」—— 类比(analogy)额纳乐及解释→类比</div>
+  <div class="vm-example">The teacher used a simple <b>analogy</b> to explain the complex scientific concept.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4315</div>
+  <div class="vm-head"><span class="vm-word">annihilate</span><span class="vm-phonetic">/əˈnaɪəleɪt/</span></div>
+  <div class="vm-meaning">v. 消灭/歼灭/彻底摧毁</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额奈尔雷特」—— 消灭(annihilate)额奈尔雷特敌人→消灭</div>
+  <div class="vm-example">The nuclear weapon had the power to <b>annihilate</b> the entire city instantly.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4316</div>
+  <div class="vm-head"><span class="vm-word">antidote</span><span class="vm-phonetic">/ˈæntidəʊt/</span></div>
+  <div class="vm-meaning">n. 解药/解毒剂/矫正方法</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「安提斗特」—— 解药(antidote)安提斗特蛇毒→解药</div>
+  <div class="vm-example">Education is often seen as the best <b>antidote</b> to poverty and ignorance.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4317</div>
+  <div class="vm-head"><span class="vm-word">applaud</span><span class="vm-phonetic">/əˈplɔːd/</span></div>
+  <div class="vm-meaning">v. 鼓掌/称赞/赞许</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额普劳德」—— 鼓掌(applaud)额普劳德喝彩→鼓掌</div>
+  <div class="vm-example">The audience rose to <b>applaud</b> the orchestra's magnificent performance.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4318</div>
+  <div class="vm-head"><span class="vm-word">arbitrary</span><span class="vm-phonetic">/ˈɑːbɪtrəri/</span></div>
+  <div class="vm-meaning">adj. 任意的/武断的/专制的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「阿比特瑞瑞」—— 武断的(arbitrary)阿比特瑞瑞决定→武断的</div>
+  <div class="vm-example">The judge ruled that the dismissal was <b>arbitrary</b> and ordered compensation.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4319</div>
+  <div class="vm-head"><span class="vm-word">archive</span><span class="vm-phonetic">/ˈɑːkaɪv/</span></div>
+  <div class="vm-meaning">n. 档案/档案馆 v. 存档</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「阿凯乌」—— 档案(archive)阿凯乌文件→档案</div>
+  <div class="vm-example">The national <b>archive</b> contains documents dating back over five centuries.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4320</div>
+  <div class="vm-head"><span class="vm-word">articulate</span><span class="vm-phonetic">/ɑːˈtɪkjuleɪt/</span></div>
+  <div class="vm-meaning">v. 清楚表达 adj. 善于表达的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「阿提克优雷特」—— 清楚表达(articulate)阿提克优雷特观点→清楚表达</div>
+  <div class="vm-example">She is highly <b>articulate</b> and can explain complex ideas with great clarity.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4321</div>
+  <div class="vm-head"><span class="vm-word">assert</span><span class="vm-phonetic">/əˈsɜːt/</span></div>
+  <div class="vm-meaning">v. 断言/主张/维护</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额瑟特」—— 断言(assert)额瑟特真相→断言</div>
+  <div class="vm-example">The lawyer <b>assert</b>ed that her client was completely innocent of all charges.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4322</div>
+  <div class="vm-head"><span class="vm-word">attain</span><span class="vm-phonetic">/əˈteɪn/</span></div>
+  <div class="vm-meaning">v. 达到/获得/实现</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「额忒恩」—— 达到(attain)额忒恩目标→达到</div>
+  <div class="vm-example">It takes years of dedicated practice to <b>attain</b> mastery in any field.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4323</div>
+  <div class="vm-head"><span class="vm-word">auction</span><span class="vm-phonetic">/ˈɔːkʃn/</span></div>
+  <div class="vm-meaning">n./v. 拍卖</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「奥克申」—— 拍卖(auction)奥克申会场→拍卖</div>
+  <div class="vm-example">The rare painting was sold for a record price at the <b>auction</b> last night.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4324</div>
+  <div class="vm-head"><span class="vm-word">authenticate</span><span class="vm-phonetic">/ɔːˈθentɪkeɪt/</span></div>
+  <div class="vm-meaning">v. 鉴定/认证/证明真实</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「奥森提克特」—— 鉴定(authenticate)奥森提克特真伪→鉴定</div>
+  <div class="vm-example">Experts were called in to <b>authenticate</b> the newly discovered manuscript.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4325</div>
+  <div class="vm-head"><span class="vm-word">autonomy</span><span class="vm-phonetic">/ɔːˈtɒnəmi/</span></div>
+  <div class="vm-meaning">n. 自治/自主权/自治权</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「奥拓诺米」—— 自治(autonomy)奥拓诺米地区→自治</div>
+  <div class="vm-example">The region has been granted greater <b>autonomy</b> in managing its own affairs.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4326</div>
+  <div class="vm-head"><span class="vm-word">backlash</span><span class="vm-phonetic">/ˈbæklæʃ/</span></div>
+  <div class="vm-meaning">n. 强烈反对/反冲/后座力</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拜克莱师」—— 反对(backlash)拜克莱师浪潮→强烈反对</div>
+  <div class="vm-example">The company faced a severe <b>backlash</b> from consumers over its price increases.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4327</div>
+  <div class="vm-head"><span class="vm-word">bankruptcy</span><span class="vm-phonetic">/ˈbæŋkrʌptsi/</span></div>
+  <div class="vm-meaning">n. 破产/倒闭/彻底失败</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「班克拉普西」—— 破产(bankruptcy)班克拉普西清算→破产</div>
+  <div class="vm-example">The economic downturn led to a sharp increase in corporate <b>bankruptcy</b> filings.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4328</div>
+  <div class="vm-head"><span class="vm-word">beforehand</span><span class="vm-phonetic">/bɪˈfɔːhænd/</span></div>
+  <div class="vm-meaning">adv. 事先/预先/提前</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「比佛汉德」—— 事先(beforehand)比佛汉德准备→事先</div>
+  <div class="vm-example">Please let me know <b>beforehand</b> if you plan to bring any guests to the party.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4329</div>
+  <div class="vm-head"><span class="vm-word">besiege</span><span class="vm-phonetic">/bɪˈsiːdʒ/</span></div>
+  <div class="vm-meaning">v. 包围/围困/烦扰</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「比西及」—— 包围(besiege)比西及城池→包围</div>
+  <div class="vm-example">The celebrity was <b>besiege</b>d by reporters as soon as she left the hotel.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4330</div>
+  <div class="vm-head"><span class="vm-word">blaze</span><span class="vm-phonetic">/bleɪz/</span></div>
+  <div class="vm-meaning">n. 火焰/大火 v. 燃烧/闪耀</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「布雷兹」—— 大火(blaze)布雷兹蔓延→大火</div>
+  <div class="vm-example">Firefighters worked through the night to bring the massive <b>blaze</b> under control.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4331</div>
+  <div class="vm-head"><span class="vm-word">blueprint</span><span class="vm-phonetic">/ˈbluːprɪnt/</span></div>
+  <div class="vm-meaning">n. 蓝图/计划/方案</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「布鲁普林特」—— 蓝图(blueprint)布鲁普林特规划→蓝图</div>
+  <div class="vm-example">The report provides a <b>blueprint</b> for reforming the national healthcare system.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4332</div>
+  <div class="vm-head"><span class="vm-word">boycott</span><span class="vm-phonetic">/ˈbɔɪkɒt/</span></div>
+  <div class="vm-meaning">v./n. 抵制/拒绝购买</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伯伊科特」—— 抵制(boycott)伯伊科特商品→抵制</div>
+  <div class="vm-example">Environmental groups called for a <b>boycott</b> of products containing palm oil.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4333</div>
+  <div class="vm-head"><span class="vm-word">breach</span><span class="vm-phonetic">/briːtʃ/</span></div>
+  <div class="vm-meaning">n./v. 违反/破坏/缺口</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「布瑞奇」—— 违反(breach)布瑞奇合同→违反</div>
+  <div class="vm-example">The company was sued for <b>breach</b> of contract after failing to deliver on time.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4334</div>
+  <div class="vm-head"><span class="vm-word">bureaucracy</span><span class="vm-phonetic">/bjʊəˈrɒkrəsi/</span></div>
+  <div class="vm-meaning">n. 官僚机构/官僚主义/繁文缛节</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「布尤洛克热西」—— 官僚(bureaucracy)布尤洛克热西作风→官僚</div>
+  <div class="vm-example">The startup avoids excessive <b>bureaucracy</b> to maintain its speed and flexibility.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4335</div>
+  <div class="vm-head"><span class="vm-word">bypass</span><span class="vm-phonetic">/ˈbaɪpɑːs/</span></div>
+  <div class="vm-meaning">v. 绕过/避开 n. 旁路</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「拜帕斯」—— 绕过(bypass)拜帕斯关卡→绕过</div>
+  <div class="vm-example">The new highway will <b>bypass</b> the city center and reduce traffic congestion.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4336</div>
+  <div class="vm-head"><span class="vm-word">casualty</span><span class="vm-phonetic">/ˈkæʒuəlti/</span></div>
+  <div class="vm-meaning">n. 伤亡人员/受害者/牺牲品</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「开若提」—— 伤亡(casualty)开若提人数→伤亡</div>
+  <div class="vm-example">The earthquake caused thousands of <b>casualty</b>ies and widespread destruction.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4337</div>
+  <div class="vm-head"><span class="vm-word">censor</span><span class="vm-phonetic">/ˈsensə(r)/</span></div>
+  <div class="vm-meaning">v./n. 审查/审查员/删改</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「森瑟」—— 审查(censor)森瑟内容→审查</div>
+  <div class="vm-example">The government has the authority to <b>censor</b> certain types of online content.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4338</div>
+  <div class="vm-head"><span class="vm-word">chronicle</span><span class="vm-phonetic">/ˈkrɒnɪkl/</span></div>
+  <div class="vm-meaning">n. 编年史/年代记 v. 记录</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「克劳尼克」—— 编年史(chronicle)克劳尼克记载→编年史</div>
+  <div class="vm-example">The documentary <b>chronicle</b>s the rise and fall of the ancient Roman Empire.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4339</div>
+  <div class="vm-head"><span class="vm-word">circulate</span><span class="vm-phonetic">/ˈsɜːkjəleɪt/</span></div>
+  <div class="vm-meaning">v. 循环/流通/传播/散发</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「色克优雷特」—— 循环(circulate)色克优雷特空气→循环</div>
+  <div class="vm-example">Rumors began to <b>circulate</b> about the CEO's sudden resignation last week.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4340</div>
+  <div class="vm-head"><span class="vm-word">coalition</span><span class="vm-phonetic">/ˌkəʊəˈlɪʃn/</span></div>
+  <div class="vm-meaning">n. 联盟/联合/同盟</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「扣额利申」—— 联盟(coalition)扣额利申力量→联盟</div>
+  <div class="vm-example">A <b>coalition</b> of environmental groups protested against the new mining project.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4341</div>
+  <div class="vm-head"><span class="vm-word">collaborate</span><span class="vm-phonetic">/kəˈlæbəreɪt/</span></div>
+  <div class="vm-meaning">v. 合作/协作/勾结</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「克来波瑞特」—— 合作(collaborate)克来波瑞特共赢→合作</div>
+  <div class="vm-example">The two universities plan to <b>collaborate</b> on a joint research initiative.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4342</div>
+  <div class="vm-head"><span class="vm-word">commemorate</span><span class="vm-phonetic">/kəˈmeməreɪt/</span></div>
+  <div class="vm-meaning">v. 纪念/庆祝</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「克麦莫瑞特」—— 纪念(commemorate)克麦莫瑞特先烈→纪念</div>
+  <div class="vm-example">A statue was erected to <b>commemorate</b> the soldiers who died in the war.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4343</div>
+  <div class="vm-head"><span class="vm-word">comply</span><span class="vm-phonetic">/kəmˈplaɪ/</span></div>
+  <div class="vm-meaning">v. 遵守/服从/依从</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「克姆普莱」—— 遵守(comply)克姆普莱规则→遵守</div>
+  <div class="vm-example">All employees must <b>comply</b> with the company's new data protection policy.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4344</div>
+  <div class="vm-head"><span class="vm-word">condemn</span><span class="vm-phonetic">/kənˈdem/</span></div>
+  <div class="vm-meaning">v. 谴责/判刑/宣告有罪</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「肯丹姆」—— 谴责(condemn)肯丹姆暴行→谴责</div>
+  <div class="vm-example">The United Nations strongly <b>condemn</b>ed the use of chemical weapons in the conflict.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4345</div>
+  <div class="vm-head"><span class="vm-word">confiscate</span><span class="vm-phonetic">/ˈkɒnfɪskeɪt/</span></div>
+  <div class="vm-meaning">v. 没收/充公/查抄</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「康菲斯克特」—— 没收(confiscate)康菲斯克特物品→没收</div>
+  <div class="vm-example">Customs officials have the right to <b>confiscate</b> any illegal goods at the border.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4346</div>
+  <div class="vm-head"><span class="vm-word">conspiracy</span><span class="vm-phonetic">/kənˈspɪrəsi/</span></div>
+  <div class="vm-meaning">n. 阴谋/密谋/共谋</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「肯斯皮若西」—— 阴谋(conspiracy)肯斯皮若西计划→阴谋</div>
+  <div class="vm-example">The three men were found guilty of <b>conspiracy</b> to commit fraud on a massive scale.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4347</div>
+  <div class="vm-head"><span class="vm-word">convene</span><span class="vm-phonetic">/kənˈviːn/</span></div>
+  <div class="vm-meaning">v. 召开/召集/集合</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「肯维恩」—— 召集(convene)肯维恩会议→召集</div>
+  <div class="vm-example">The committee will <b>convene</b> next Monday to discuss the proposed budget cuts.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4348</div>
+  <div class="vm-head"><span class="vm-word">corrode</span><span class="vm-phonetic">/kəˈrəʊd/</span></div>
+  <div class="vm-meaning">v. 腐蚀/侵蚀/损害</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「克肉的」—— 腐蚀(corrode)克肉的材料→腐蚀</div>
+  <div class="vm-example">Salt water can slowly <b>corrode</b> metal structures exposed to the ocean air.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4349</div>
+  <div class="vm-head"><span class="vm-word">counterfeit</span><span class="vm-phonetic">/ˈkaʊntəfɪt/</span></div>
+  <div class="vm-meaning">adj./n. 伪造的/假冒的/赝品</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「康特菲特」—— 假冒的(counterfeit)康特菲特商品→假冒的</div>
+  <div class="vm-example">The police seized over a million dollars worth of <b>counterfeit</b> designer goods.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4350</div>
+  <div class="vm-head"><span class="vm-word">curfew</span><span class="vm-phonetic">/ˈkɜːfjuː/</span></div>
+  <div class="vm-meaning">n. 宵禁/戒严/限制</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「克菲优」—— 宵禁(curfew)克菲优时段→宵禁</div>
+  <div class="vm-example">The government imposed a nighttime <b>curfew</b> to maintain public order.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4351</div>
+  <div class="vm-head"><span class="vm-word">debut</span><span class="vm-phonetic">/ˈdeɪbjuː/</span></div>
+  <div class="vm-meaning">n./v. 初次登场/首秀/首次亮相</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「得标」—— 首秀(debut)得标演出→首秀</div>
+  <div class="vm-example">The young actress made her stage <b>debut</b> at the age of just seventeen.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4352</div>
+  <div class="vm-head"><span class="vm-word">decree</span><span class="vm-phonetic">/dɪˈkriː/</span></div>
+  <div class="vm-meaning">n. 法令/政令/裁决 v. 颁布</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪克瑞」—— 法令(decree)迪克瑞颁布→法令</div>
+  <div class="vm-example">The president issued a <b>decree</b> declaring a state of national emergency.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4353</div>
+  <div class="vm-head"><span class="vm-word">defy</span><span class="vm-phonetic">/dɪˈfaɪ/</span></div>
+  <div class="vm-meaning">v. 违抗/反抗/挑战</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪法」—— 反抗(defy)迪法权威→反抗</div>
+  <div class="vm-example">The athlete continues to <b>defy</b> expectations, winning medals at the age of forty.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4354</div>
+  <div class="vm-head"><span class="vm-word">delegate</span><span class="vm-phonetic">/ˈdelɪɡət/</span></div>
+  <div class="vm-meaning">n. 代表/委员 v. 委派/授权</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「德利格特」—— 代表(delegate)德利格特参会→代表</div>
+  <div class="vm-example">A good manager knows when to <b>delegate</b> tasks to the right team members.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4355</div>
+  <div class="vm-head"><span class="vm-word">derail</span><span class="vm-phonetic">/dɪˈreɪl/</span></div>
+  <div class="vm-meaning">v. 脱轨/使偏离/破坏</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪瑞尔」—— 脱轨(derail)迪瑞尔火车→脱轨</div>
+  <div class="vm-example">The scandal threatened to <b>derail</b> the politician's campaign for re-election.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4356</div>
+  <div class="vm-head"><span class="vm-word">detain</span><span class="vm-phonetic">/dɪˈteɪn/</span></div>
+  <div class="vm-meaning">v. 拘留/扣押/耽搁</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪忒恩」—— 拘留(detain)迪忒恩嫌疑人→拘留</div>
+  <div class="vm-example">The police can <b>detain</b> a suspect for up to twenty-four hours without charge.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4357</div>
+  <div class="vm-head"><span class="vm-word">dilemma</span><span class="vm-phonetic">/dɪˈlemə/</span></div>
+  <div class="vm-meaning">n. 困境/进退两难/窘境</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪莱玛」—— 困境(dilemma)迪莱玛选择→困境</div>
+  <div class="vm-example">The government faces a <b>dilemma</b> between economic growth and environmental protection.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4358</div>
+  <div class="vm-head"><span class="vm-word">disarm</span><span class="vm-phonetic">/dɪsˈɑːm/</span></div>
+  <div class="vm-meaning">v. 缴械/解除武装/消除敌意</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪斯阿姆」—— 缴械(disarm)迪斯阿姆武装→缴械</div>
+  <div class="vm-example">The treaty required both nations to <b>disarm</b> their nuclear weapons stockpiles.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4359</div>
+  <div class="vm-head"><span class="vm-word">disinherit</span><span class="vm-phonetic">/ˌdɪsɪnˈherɪt/</span></div>
+  <div class="vm-meaning">v. 剥夺继承权/断绝关系</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪斯因海瑞特」—— 剥夺继承权(disinherit)迪斯因海瑞特子女→剥夺继承权</div>
+  <div class="vm-example">The wealthy businessman threatened to <b>disinherit</b> his son over the scandal.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4360</div>
+  <div class="vm-head"><span class="vm-word">dispatch</span><span class="vm-phonetic">/dɪˈspætʃ/</span></div>
+  <div class="vm-meaning">v. 派遣/发送/快速处理 n. 急件</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「迪斯帕奇」—— 派遣(dispatch)迪斯帕奇救援队→派遣</div>
+  <div class="vm-example">The government plans to <b>dispatch</b> emergency aid to the flood-affected areas.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4361</div>
+  <div class="vm-head"><span class="vm-word">divert</span><span class="vm-phonetic">/daɪˈvɜːt/</span></div>
+  <div class="vm-meaning">v. 转移/转向/使分心</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「戴沃特」—— 转移(divert)戴沃特注意力→转移</div>
+  <div class="vm-example">The flight was <b>divert</b>ed to a nearby airport due to heavy fog conditions.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4362</div>
+  <div class="vm-head"><span class="vm-word">donate</span><span class="vm-phonetic">/dəʊˈneɪt/</span></div>
+  <div class="vm-meaning">v. 捐赠/捐献/赠送</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「兜内特」—— 捐赠(donate)兜内特物资→捐赠</div>
+  <div class="vm-example">The billionaire promised to <b>donate</b> half his fortune to charitable causes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4363</div>
+  <div class="vm-head"><span class="vm-word">drastic</span><span class="vm-phonetic">/ˈdræstɪk/</span></div>
+  <div class="vm-meaning">adj. 剧烈的/极端的/严厉的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「抓斯提克」—— 剧烈的(drastic)抓斯提克变化→剧烈的</div>
+  <div class="vm-example">The company had to take <b>drastic</b> measures to avoid going completely bankrupt.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4364</div>
+  <div class="vm-head"><span class="vm-word">dwindle</span><span class="vm-phonetic">/ˈdwɪndl/</span></div>
+  <div class="vm-meaning">v. 减少/缩小/衰退</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「杜文斗」—— 减少(dwindle)杜文斗库存→减少</div>
+  <div class="vm-example">Water supplies in the reservoir continue to <b>dwindle</b> during the long drought.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4365</div>
+  <div class="vm-head"><span class="vm-word">embargo</span><span class="vm-phonetic">/ɪmˈbɑːɡəʊ/</span></div>
+  <div class="vm-meaning">n./v. 禁运/贸易禁令/限制</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因巴勾」—— 禁运(embargo)因巴勾封锁→禁运</div>
+  <div class="vm-example">The United Nations imposed an arms <b>embargo</b> on the warring nation last year.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4366</div>
+  <div class="vm-head"><span class="vm-word">empower</span><span class="vm-phonetic">/ɪmˈpaʊə(r)/</span></div>
+  <div class="vm-meaning">v. 授权/赋能/使有能力</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因帕沃」—— 赋能(empower)因帕沃员工→赋能</div>
+  <div class="vm-example">The new program aims to <b>empower</b> women through education and job training.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4367</div>
+  <div class="vm-head"><span class="vm-word">enact</span><span class="vm-phonetic">/ɪˈnækt/</span></div>
+  <div class="vm-meaning">v. 颁布/制定/实施</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因纳克特」—— 颁布(enact)因纳克特法律→颁布</div>
+  <div class="vm-example">The government plans to <b>enact</b> stricter regulations on carbon emissions by June.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4368</div>
+  <div class="vm-head"><span class="vm-word">envisage</span><span class="vm-phonetic">/ɪnˈvɪzɪdʒ/</span></div>
+  <div class="vm-meaning">v. 设想/展望/想象</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因维兹及」—— 设想(envisage)因维兹及未来→设想</div>
+  <div class="vm-example">The architect <b>envisage</b>d a city where green spaces were integrated everywhere.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4369</div>
+  <div class="vm-head"><span class="vm-word">escalate</span><span class="vm-phonetic">/ˈeskəleɪt/</span></div>
+  <div class="vm-meaning">v. 升级/扩大/加剧</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「艾斯克雷特」—— 升级(escalate)艾斯克雷特冲突→升级</div>
+  <div class="vm-example">The dispute quickly <b>escalate</b>d into a full-scale confrontation between the two sides.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4370</div>
+  <div class="vm-head"><span class="vm-word">exempt</span><span class="vm-phonetic">/ɪɡˈzempt/</span></div>
+  <div class="vm-meaning">v. 免除/豁免 adj. 被豁免的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伊格赞普特」—— 免除(exempt)伊格赞普特税费→免除</div>
+  <div class="vm-example">Charitable organizations are <b>exempt</b> from paying most federal income taxes.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4371</div>
+  <div class="vm-head"><span class="vm-word">expire</span><span class="vm-phonetic">/ɪkˈspaɪə(r)/</span></div>
+  <div class="vm-meaning">v. 到期/失效/断气</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伊克斯帕尔」—— 到期(expire)伊克斯帕尔证件→到期</div>
+  <div class="vm-example">Your driver's license will <b>expire</b> next month, so you should renew it soon.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4372</div>
+  <div class="vm-head"><span class="vm-word">extinguish</span><span class="vm-phonetic">/ɪkˈstɪŋɡwɪʃ/</span></div>
+  <div class="vm-meaning">v. 熄灭/扑灭/消灭</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伊克斯丁贵师」—— 熄灭(extinguish)伊克斯丁贵师火焰→熄灭</div>
+  <div class="vm-example">It took firefighters nearly six hours to completely <b>extinguish</b> the blaze.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4373</div>
+  <div class="vm-head"><span class="vm-word">extort</span><span class="vm-phonetic">/ɪkˈstɔːt/</span></div>
+  <div class="vm-meaning">v. 敲诈/勒索/强取</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伊克斯托特」—— 敲诈(extort)伊克斯托特钱财→敲诈</div>
+  <div class="vm-example">The gang was arrested for attempting to <b>extort</b> money from local businesses.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4374</div>
+  <div class="vm-head"><span class="vm-word">famine</span><span class="vm-phonetic">/ˈfæmɪn/</span></div>
+  <div class="vm-meaning">n. 饥荒/极度缺乏</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「法敏」—— 饥荒(famine)法敏时期→饥荒</div>
+  <div class="vm-example">Millions of people are at risk of <b>famine</b> due to the prolonged drought and war.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4375</div>
+  <div class="vm-head"><span class="vm-word">ferocious</span><span class="vm-phonetic">/fəˈrəʊʃəs/</span></div>
+  <div class="vm-meaning">adj. 凶猛的/残忍的/激烈的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「弗肉奢斯」—— 凶猛的(ferocious)弗肉奢斯野兽→凶猛的</div>
+  <div class="vm-example">The two candidates engaged in a <b>ferocious</b> debate over economic policy last night.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4376</div>
+  <div class="vm-head"><span class="vm-word">forge</span><span class="vm-phonetic">/fɔːdʒ/</span></div>
+  <div class="vm-meaning">v. 锻造/伪造/建立 n. 铁匠铺</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「佛及」—— 锻造(forge)佛及钢铁→锻造</div>
+  <div class="vm-example">The two countries hope to <b>forge</b> a stronger economic partnership in the coming years.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4377</div>
+  <div class="vm-head"><span class="vm-word">friction</span><span class="vm-phonetic">/ˈfrɪkʃn/</span></div>
+  <div class="vm-meaning">n. 摩擦/分歧/冲突</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「弗瑞克申」—— 摩擦(friction)弗瑞克申力→摩擦</div>
+  <div class="vm-example">There has been growing <b>friction</b> between the marketing and sales departments.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4378</div>
+  <div class="vm-head"><span class="vm-word">fraud</span><span class="vm-phonetic">/frɔːd/</span></div>
+  <div class="vm-meaning">n. 欺诈/骗局/骗子</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「佛德」—— 欺诈(fraud)佛德骗术→欺诈</div>
+  <div class="vm-example">The accountant was sentenced to prison for committing massive financial <b>fraud</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4379</div>
+  <div class="vm-head"><span class="vm-word">gauge</span><span class="vm-phonetic">/ɡeɪdʒ/</span></div>
+  <div class="vm-meaning">n. 测量仪/标准 v. 测量/估计</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「给及」—— 测量(gauge)给及数据→测量</div>
+  <div class="vm-example">It is difficult to <b>gauge</b> the full impact of the new policy at this stage.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4380</div>
+  <div class="vm-head"><span class="vm-word">grapple</span><span class="vm-phonetic">/ˈɡræpl/</span></div>
+  <div class="vm-meaning">v. 扭打/搏斗/努力解决</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「格瑞普」—— 搏斗(grapple)格瑞普格斗→搏斗</div>
+  <div class="vm-example">Many countries are still <b>grappl</b>ing with the economic consequences of the pandemic.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4381</div>
+  <div class="vm-head"><span class="vm-word">habitat</span><span class="vm-phonetic">/ˈhæbɪtæt/</span></div>
+  <div class="vm-meaning">n. 栖息地/生活环境/产地</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「海比特特」—— 栖息地(habitat)海比特特环境→栖息地</div>
+  <div class="vm-example">The destruction of natural <b>habitat</b>s threatens the survival of many endangered species.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4382</div>
+  <div class="vm-head"><span class="vm-word">harassment</span><span class="vm-phonetic">/ˈhærəsmənt/</span></div>
+  <div class="vm-meaning">n. 骚扰/侵扰/烦扰</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「海若斯门特」—— 骚扰(harassment)海若斯门特行为→骚扰</div>
+  <div class="vm-example">The company has a strict zero-tolerance policy towards sexual <b>harassment</b>.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4383</div>
+  <div class="vm-head"><span class="vm-word">havoc</span><span class="vm-phonetic">/ˈhævək/</span></div>
+  <div class="vm-meaning">n. 浩劫/大破坏/混乱</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「海沃克」—— 浩劫(havoc)海沃克灾难→浩劫</div>
+  <div class="vm-example">The hurricane wreaked <b>havoc</b> on the coastal communities along the eastern seaboard.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4384</div>
+  <div class="vm-head"><span class="vm-word">headline</span><span class="vm-phonetic">/ˈhedlaɪn/</span></div>
+  <div class="vm-meaning">n. 头条/标题 v. 领衔主演</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「海德来恩」—— 头条(headline)海德来恩新闻→头条</div>
+  <div class="vm-example">The scandal made <b>headline</b>s in newspapers all across the country for weeks.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4385</div>
+  <div class="vm-head"><span class="vm-word">hectic</span><span class="vm-phonetic">/ˈhektɪk/</span></div>
+  <div class="vm-meaning">adj. 繁忙的/忙乱的/兴奋的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「海克提克」—— 繁忙的(hectic)海克提克日程→繁忙的</div>
+  <div class="vm-example">It has been a <b>hectic</b> week at work with three major deadlines to meet.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4386</div>
+  <div class="vm-head"><span class="vm-word">humanitarian</span><span class="vm-phonetic">/hjuːˌmænɪˈteəriən/</span></div>
+  <div class="vm-meaning">adj./n. 人道主义的/人道主义者</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「休曼尼忒瑞恩」—— 人道主义(humanitarian)休曼尼忒瑞恩援助→人道主义</div>
+  <div class="vm-example">The UN has launched a major <b>humanitarian</b> aid operation in the war-torn region.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4387</div>
+  <div class="vm-head"><span class="vm-word">illiterate</span><span class="vm-phonetic">/ɪˈlɪtərət/</span></div>
+  <div class="vm-meaning">adj./n. 文盲的/不识字的/无知的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「伊利特瑞特」—— 文盲(illiterate)伊利特瑞特群体→文盲</div>
+  <div class="vm-example">The government aims to reduce the number of functionally <b>illiterate</b> adults by half.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4388</div>
+  <div class="vm-head"><span class="vm-word">impeach</span><span class="vm-phonetic">/ɪmˈpiːtʃ/</span></div>
+  <div class="vm-meaning">v. 弹劾/控告/质疑</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因匹奇」—— 弹劾(impeach)因匹奇总统→弹劾</div>
+  <div class="vm-example">The parliament voted to <b>impeach</b> the president on charges of abuse of power.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4389</div>
+  <div class="vm-head"><span class="vm-word">incinerate</span><span class="vm-phonetic">/ɪnˈsɪnəreɪt/</span></div>
+  <div class="vm-meaning">v. 焚化/烧毁/火化</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因辛讷瑞特」—— 焚烧(incinerate)因辛讷瑞特垃圾→焚烧</div>
+  <div class="vm-example">The city built a new facility to safely <b>incinerate</b> medical waste from hospitals.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4390</div>
+  <div class="vm-head"><span class="vm-word">infectious</span><span class="vm-phonetic">/ɪnˈfekʃəs/</span></div>
+  <div class="vm-meaning">adj. 传染性的/有感染力的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因费克奢斯」—— 传染的(infectious)因费克奢斯疾病→传染的</div>
+  <div class="vm-example">The disease is highly <b>infectious</b> and can spread rapidly in crowded places.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4391</div>
+  <div class="vm-head"><span class="vm-word">inferior</span><span class="vm-phonetic">/ɪnˈfɪəriə(r)/</span></div>
+  <div class="vm-meaning">adj. 劣等的/下级的/较差的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因菲尔瑞尔」—— 劣等的(inferior)因菲尔瑞尔品质→劣等的</div>
+  <div class="vm-example">The cheaper product turned out to be of clearly <b>inferior</b> quality compared to the original.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4392</div>
+  <div class="vm-head"><span class="vm-word">insurgent</span><span class="vm-phonetic">/ɪnˈsɜːdʒənt/</span></div>
+  <div class="vm-meaning">n. 叛乱者/起义者 adj. 叛乱的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「因色真特」—— 叛乱者(insurgent)因色真特武装→叛乱者</div>
+  <div class="vm-example">The government launched a major offensive against <b>insurgent</b> forces in the north.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4393</div>
+  <div class="vm-head"><span class="vm-word">jurisdiction</span><span class="vm-phonetic">/ˌdʒʊərɪsˈdɪkʃn/</span></div>
+  <div class="vm-meaning">n. 司法权/管辖权/管辖范围</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「朱瑞斯迪克申」—— 管辖权(jurisdiction)朱瑞斯迪克申范围→管辖权</div>
+  <div class="vm-example">This case falls under the <b>jurisdiction</b> of the federal court, not the state court.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4394</div>
+  <div class="vm-head"><span class="vm-word">lawsuit</span><span class="vm-phonetic">/ˈlɔːsuːt/</span></div>
+  <div class="vm-meaning">n. 诉讼/官司/起诉</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「劳苏特」—— 诉讼(lawsuit)劳苏特案件→诉讼</div>
+  <div class="vm-example">The company filed a <b>lawsuit</b> against its former partner for breach of contract.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4395</div>
+  <div class="vm-head"><span class="vm-word">lethal</span><span class="vm-phonetic">/ˈliːθl/</span></div>
+  <div class="vm-meaning">adj. 致命的/致死的/极危险的</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「利索」—— 致命的(lethal)利索剂量→致命的</div>
+  <div class="vm-example">Even a small amount of the chemical can be <b>lethal</b> if it is ingested by humans.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4396</div>
+  <div class="vm-head"><span class="vm-word">logistics</span><span class="vm-phonetic">/ləˈdʒɪstɪks/</span></div>
+  <div class="vm-meaning">n. 物流/后勤/组织工作</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「勒吉斯提克斯」—— 物流(logistics)勒吉斯提克斯系统→物流</div>
+  <div class="vm-example">Organizing the international conference involved complex <b>logistics</b> and planning.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4397</div>
+  <div class="vm-head"><span class="vm-word">mandate</span><span class="vm-phonetic">/ˈmændeɪt/</span></div>
+  <div class="vm-meaning">n. 授权/命令/委托 v. 批准</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「曼得特」—— 授权(mandate)曼得特执行→授权</div>
+  <div class="vm-example">The new government claims it has a clear <b>mandate</b> from the people for reform.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4398</div>
+  <div class="vm-head"><span class="vm-word">mediate</span><span class="vm-phonetic">/ˈmiːdieɪt/</span></div>
+  <div class="vm-meaning">v. 调解/斡旋/调停</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「密迪特」—— 调解(mediate)密迪特冲突→调解</div>
+  <div class="vm-example">The United Nations offered to <b>mediate</b> between the two warring factions in the region.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4399</div>
+  <div class="vm-head"><span class="vm-word">militia</span><span class="vm-phonetic">/məˈlɪʃə/</span></div>
+  <div class="vm-meaning">n. 民兵/民兵组织/国民军</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「莫利沙」—— 民兵(militia)莫利沙武装→民兵</div>
+  <div class="vm-example">The local <b>militia</b> was called upon to help defend the village from the attack.</div>
+</div>
+
+<div class="vm-word-card">
+  <div class="vm-num">#4400</div>
+  <div class="vm-head"><span class="vm-word">momentum</span><span class="vm-phonetic">/məˈmentəm/</span></div>
+  <div class="vm-meaning">n. 势头/动力/冲力</div>
+  <span class="vm-meme-label vm-label-xieyin">谐音</span>
+  <div class="vm-meme">「莫曼特姆」—— 势头(momentum)莫曼特姆推高→势头</div>
+  <div class="vm-example">The reform movement has gained significant <b>momentum</b> in the past few months.</div>
+</div>
+
+</div>
