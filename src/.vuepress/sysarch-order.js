@@ -12,6 +12,7 @@
 
 export const sysarchTopics = [
   { text: "计算机基础",   dir: "system-architect/knowledge/computer-basics", visible: true },
+  { text: "架构设计",   dir: "system-architect/knowledge/architecture", visible: true },
   { text: "操作系统",     dir: "system-architect/knowledge/os",              visible: true },
   { text: "数据库技术",   dir: "system-architect/knowledge/database",         visible: true },
   { text: "网络与安全",   dir: "system-architect/knowledge/network",          visible: true },
